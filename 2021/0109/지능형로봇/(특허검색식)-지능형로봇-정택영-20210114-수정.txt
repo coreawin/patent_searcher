@@ -1,0 +1,129 @@
+[특허검색식 작업 안내문]
+
+1. gpass.kisti.re.kr 에 로그인
+
+2. 검색식 작업 팁
+ - Advanced Search 에서 검색
+ - 주로 and , or 연산자를 활용하여 검색식을 작성하며 영어로 작성함. 
+ - 검색식에서 wildcard (*, ?) 는 적용한 검색엔진에서 안먹히는 경우가 있어서 가능한 사용하지 말라고 함. 꼭 사용하려면 아래의 사용 안내 참고하여 사용
+ - 출원일: APDATE=(20130101-20201231)   최근 8년 
+ - 특허 발행청 : AU=(US)   미국특허만 대상으로 함.
+ - 문서유형: DTYPE=(P OR U)   특허와 실용신안 
+ - 특허를 이용해서 고용경제효과를 계산하므로 특허가 최소한 한 건은 나오는 것이 좋음.
+ - 실제 데이터 다운로드는 개발자와 협의하여 일괄 다운로드 받는 것으로 계약되어 있으나 개발자가 검색식의 오류까지 검토하지는 않으므로 오류없는 검색식을 제출해야 함.
+ - 검색식을 엑셀로 저장하는 과정에서 큰따옴표의 모양이 이상하게 변경되는 경우가 있어서 엑셀양식을 버리고 텍스트 양식을 선택하게 되었음. 
+ 
+ <논문/특허 검색식에서 와일드카드 * 사용 안내>
+ - 엄밀하게 말하면 와일드 카드 검색이 아닌 Prepost 검색임.
+ - (가능한 사례) abc*  : *가 단어의 마지막에 오는 경우
+ - (적용이 안되는 사례) abc*def  또는 *abc : * 가 단어의 중간이나 처음에 오는 경우 --> 이런 경우는 검색시간이 너무 오래 걸려서 적용하지 않았음.(사용하면 안됨)
+ - 특허(gpass)에서 * 가능한 필드 : 기본적으로 번호형태(발행, 출원, 우선권등)와 분류코드, 제목, 초록에서 검색 가능
+ - 논문(scopus)에서 * 가능한 필드 : EID, 기관아이디, ASJC, 기관ID, DOI, 제목, 초록, 저자키워드, 인덱스키워드
+ - 답변은 정승한 부장으로부터 받은 내용입니다. 
+ 
+3. 제출 내용
+ - 중분류 코드, 검색식, 검색건수   : 코드별 검색식과 검색건수도 제출해야 실제로 개발자가 다운로드한 건수와 비교해서 정확도를 점검할 수 있음.
+ - 텍스트 에디터 (울트라에디터, Notepad++ 등) SW에서 작성하여 제출 (*.txt 파일로)
+
+4. 개발자가 다운로드해서 주는 파일의 명칭 형식 :   정밀의료_T01.txt  
+
+
+=========== [ 분과명: 지능형로봇 ] 중분류코드별 특허검색식 및 건수 =============
+T01	로봇기구설계 :  259개
+AU=(US) DTYPE=(P OR U)  APDATE=(20130101-20201231) TI=(mechanical* OR design* OR kinematic* OR actuat*) AND (Robot*)
+
+T02	소프트로보틱스 : 94개 
+AU=(US) DTYPE=(P OR U)  APDATE=(20130101-20201231) TI=(Soft AND Robot*) or AB=("SOFT ROBOT")
+
+T03	로봇활용인간증강 : 253개
+AU=(US) DTYPE=(P OR U)  APDATE=(20130101-20201231) TI=((Prosthetic* and Exoskeleton*) OR Wearable OR Haptic* OR (Telerobotic* and Teleoperation*) OR Human* OR augmentation*) AND (Robot*)
+
+T04	의료서비스(의료특화로봇기술) : 278개
+AU=(US) DTYPE=(P OR U)  APDATE=(20130101-20201231) AB=(Rehabilitation* OR (Surgical* AND Surgery*) OR Healthcare*) AND (Robot*)
+
+T05	마이크로로봇 : 249개
+AU=(US) DTYPE=(P OR U)  APDATE=(20130101-20201231) AB=(Microrobot OR micro*)  AND (Robot*) 
+
+T06	생체모방로봇 : 82개
+AU=(US) DTYPE=(P OR U)  APDATE=(20130101-20201231) AB=(Bio-inspired* OR Biomimetic* OR Humanoid* OR Insect*) AND (Robot*)
+
+T07	로봇경로계획 및 제어 : 140개
+AU=(US) DTYPE=(P OR U)  APDATE=(20130101-20201231) AB=((path AND planning) OR (visual AND tracking) OR (path AND following) OR (path AND optimization)) AND (Robot*)
+
+T08	로봇 임피던스제어 : 355개
+AU=(US) DTYPE=(P OR U)  APDATE=(20130101-20201231) AB=((Impedanc* AND control*) OR (position AND force* AND control*) OR (articulate* AND control*) OR (disturbance* AND observer*)) AND (Robot*)
+
+T09	로봇동작계획 : 659개
+AU=(US) DTYPE=(P OR U)  APDATE=(20130101-20201231)  AB=((motion* AND plan*) OR (trajectory AND generation) OR (motion AND control) OR (optimal* AND trajectory)) AND (Robot*)
+
+T10	다중로봇정합 : 76개
+AU=(US) DTYPE=(P OR U)  APDATE=(20130101-20201231) AB=((Multi* AND coordination) OR swarm OR (task AND planning*) OR (motion AND planning*)) AND (Robot*)
+
+T11	로봇강건제어 : 85개
+AU=(US) DTYPE=(P OR U)  APDATE=(20130101-20201231) AB=((Robust* AND control*) OR (adaptive AND control*) OR (kinematical AND parameter* AND estimation*) OR (dynamical AND parameter* AND estimation*)) AND (Robot*)
+
+T12	비주얼 서보잉 : 4개
+AU=(US) DTYPE=(P OR U)  APDATE=(20130101-20201231) AB=((Visual AND servoing*) OR IBVS OR PBVS OR (Hybrid AND approach* AND Visual AND Servoing)) AND (Robot*)
+
+T13	로봇비전 : 263개
+AU=(US) DTYPE=(P OR U)  APDATE=(20130101-20201231) AB=(vision OR (Visual AND based AND grasp) OR (Visual AND based AND Tracking)  OR (RGB-D AND Perception)  OR (Sensor AND fusion AND recognition) OR (Visual AND Learining)) AND (Robot*)
+
+T14	SLAM : 73개
+AU=(US) DTYPE=(P OR U)  APDATE=(20130101-20201231) AB=(SLAM OR (Vision-based AND Navigation) OR (Bearing AND only) OR (Range AND Sensing) OR (Particle AND filter) OR (Extended AND Kalman AND filter) OR (Feature AND Extraction) OR Monte-Carlo) AND (Robot*)
+
+T15	실내위치추정 및 지도작성 : 54개
+AU=(US) DTYPE=(P OR U)  APDATE=(20130101-20201231) AB=((Indoor AND localization AND map*) OR (3D AND indoor AND map*) OR (visual AND odometr*) OR (TDOA AND locating*) OR (Grid AND map*) OR (3D AND Point AND Cloud*)) AND (Robot*)
+
+T16	자세추정 :  12개
+AU=(US) DTYPE=(P OR U)  APDATE=(20130101-20201231) AB=((Pose* AND estimation*) OR (Egomotion AND estimation*) OR (Pose* AND graph AND reduction*) OR (IMU-camera AND data AND fusion*) OR (relative AND pose* AND estimation)) AND (Robot*)
+
+T17	실외위치추정 및 지도작성 : 623개
+AU=(US) DTYPE=(P OR U)  APDATE=(20130101-20201231) AB=((Terrain AND navigation*) OR (Terrain AND mapping*) OR (Terrain AND localization*) OR landmark* OR underwater OR (Autonomous AND Vehicle*) OR navigation) AND (Robot*)
+
+T18	충돌회피 : 78개
+AU=(US) DTYPE=(P OR U)  APDATE=(20130101-20201231) AB=((Collision AND avoidanc*) OR (obstacl* AND detection*) OR (reactiv* AND navigation*) OR (collision-free AND path*)) AND (Robot*)
+
+T19	밀집환경의 로봇주행 : 87개
+AU=(US) DTYPE=(P OR U)  APDATE=(20130101-20201231) AB=((navigat* AND (clutter* OR dens*) AND environment*) OR (behavior-based AND control*) OR (obstacle* AND avoid*) OR (target* AND searching*) OR (cluttere* AND space AND localization*)) AND (Robot*)
+
+T20	정교한조작 : 24개
+AU=(US) DTYPE=(P OR U)  APDATE=(20130101-20201231) AB=((Dexterous AND manipulation*) OR (elaborate AND manipulation*) OR (exquisite AND manipulation*) OR (feedback AND manipulation*) OR (in-hand AND manipulation*) OR (manipulation* AND planning) OR (Dual AND arm* AND manipulation*)) AND (Robot*)
+
+T21	파지 : 117개
+AU=(US) DTYPE=(P OR U)  APDATE=(20130101-20201231) AB=(Grasping* OR (precision AND grasp*) OR (contact* AND modeling*) OR caging* OR (grasp* AND planning*)) AND (Robot*)
+
+T22	촉각인지 : 35개
+AU=(US) DTYPE=(P OR U)  APDATE=(20130101-20201231) AB=((Tactile AND sensing) OR (surface AND classification) OR capacitanc* OR piezoresistivit* OR (multi-axis AND force*)) AND (Robot*)
+
+T23	로봇힘제어 : 569
+AU=(US) DTYPE=(P OR U)  APDATE=(20130101-20201231) AB=(force AND control*) AND (Robot*)
+
+T24	로봇핸드제어 : 925개
+AU=(US) DTYPE=(P OR U)  APDATE=(20130101-20201231)  AB=((hand AND control*) OR (multi-fingered AND hand*) OR (robot AND hand*) OR (grasp AND manipulation*) OR (dynamic* AND grasping*)) AND (Robot*)
+
+T25	작업계획 : 75개
+AU=(US) DTYPE=(P OR U)  APDATE=(20130101-20201231) AB=((Task and planning*) or ("work planning") OR ("operation planning") or ("action planning") or ("motion planning") OR (knowledge-based AND planning*) OR (Integrated AND task AND motion) OR (Multi-robot AND task) OR ("work planning*") OR ("operation* and planning*")) AND (Robot*)
+
+T26	군집로봇 : 24개
+AU=(US) DTYPE=(P OR U)  APDATE=(20130101-20201231) AB=(Swarm* OR (Collectiv* AND behavior*)) AND (Robot*)
+
+T27	로봇학습 : 65개
+AU=(US) DTYPE=(P OR U)  APDATE=(20130101-20201231) AB=((Learn* AND demonstration*) OR (Deep* AND Learning*) OR (Reinforcement* AND Learning*) OR (Imitation* AND Learning*)) AND (Robot*)
+
+T28	인간-로봇협동 : 17개
+AU=(US) DTYPE=(P OR U)  APDATE=(20130101-20201231) AB=((Human-robot AND collabo*) OR (Intention AND estimation*) OR (Action AND planning*) OR (Safety AND HRC)) AND (Robot*)
+
+T29	인간-로봇상호작용 :  79개
+AU=(US) DTYPE=(P OR U)  APDATE=(20130101-20201231) AB=((Human AND interaction) OR (Multi-modal AND perception*) OR (Interaction AND modeling*) OR (Interaction AND expression*) OR (Social AND interaction) OR (Brain-machine AND interface*)) AND (Robot*)
+
+T30	로봇성능평가 : 9개
+AU=(US) DTYPE=(P OR U)  APDATE=(20130101-20201231) (AB=(performance AND evaluation) or ti=(evaluat* AND performance) or ab=(performance AND test) or ti=(test* AND performance)) AND (Robot*)
+
+T31	무인비행체: 195개
+AU=(US) DTYPE=(P OR U)  APDATE=(20130101-20201231) AB=((Unmanned AND aerial AND vehicle*) OR (Dynamic* AND Stabilit*) OR (Optimal AND path AND planning*) OR (Communication AND Securit*)) AND (Robot*)
+
+T32	모듈러로봇 : 232개
+AU=(US) DTYPE=(P OR U)  APDATE=(20130101-20201231) AB=(Modular* OR connectiv*  OR Interoperability OR (Distribute* AND intelligenc*)) AND (Robot*)
+
+T33	족형로봇 : 37개
+AU=(US) DTYPE=(P OR U)  APDATE=(20130101-20201231) AB=(Legged or Quadruped or (humanoid and leg*)) AND  (Robot or robotic or robotization or robotize)

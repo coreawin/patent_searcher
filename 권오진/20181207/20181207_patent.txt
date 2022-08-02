@@ -1,0 +1,10 @@
+-cn3000
+-au
+-tgc:/data/gpass/download/
+-ctt:/release/KISTI_PATENT_XML_EXPORT_2015/result
+-ftTEXT
+-efpno,pndate,assignee,app_gp,basic_count,ipc,cpc
+-ru((US).au. (Y).APP_LATEST. (1990-2017).py. (G).PUBL_TYPE. )
+-aaaru(y).APP_LATEST. (pm2.5).ti.
+-ket:/release/KISTI_PATENT_XML_EXPORT_2015
+-bwy

@@ -1,0 +1,422 @@
+-cn1000
+-au
+-tgi:/kisti/
+-ctt:/release/KISTI_PATENT_XML_EXPORT_2015/result
+-ftTEXT
+-efpno,pndate,pnkind,pncn,dockind,ti,abs,appno,appdate,prino,inventor,assignee,app_gp,pexam,basic_count,nonpatent,references,citations,ipc,cpc,ecla,classc,fcode,mf,cf,family_count
+
+-ru("S B P" OR
+"S I I T S R L" OR
+"S I M S S R L SOC IT MEDICINALI SCAN" OR
+"S I M S S R L SOCIETA ITALIANA MEDICINALI SCA" OR
+"S I M S S R L SOCIETA ITALIANA MEDICINALI SCAN" OR
+"S I M S S R L SOCIETÀ ITALIANA MEDICINALI SCANDICCI" OR
+"S I S SHULOV INNOVATIVE SCIENCE" OR
+"S I S SHULOV INST FOR SCIENCE" OR
+"S I S SHULOV INSTITUTE FOR SCIENCE" OR
+"S I S SHULOV INSTITUTE FORSCIENCE" OR
+"S M EUROPE" OR
+"S S WHITE" OR
+"S S WHITE TECHNOLOGIES" OR
+"S S WHITE TECHNOLOGIES A NEW JERSEY" OR
+"S  Amit Speciality Chemicals Pvt Ltd" OR
+"S A F AN  BIOINFORMATICS" OR
+"S C  Hofigal Export Import S A" OR
+"S I I T  srl" OR
+"S I M S  srl" OR
+"S I N  Dental Implants" OR
+"Saar Biotech" OR
+"SAB" OR
+"SABA" OR
+"SABIO" OR
+"SAF Fermion Ltd" OR
+"Saksin Lifesciences Pvt Ltd" OR
+"SAKURA FINETECH" OR
+"SAKURA FINETECHNIC" OR
+"SAKURA FINETECHNICAL" OR
+"Salts Techstep" OR
+"Salzman International Inc" OR
+"SAM OH PHARMACEUTICAL" OR
+"SAM YOUNG UNITECH" OR
+"Samen Pharmaceutical Co" OR
+"Samenwerkende Apothekers" OR
+"SAMIK PHARM" OR
+"SAMIK PHARMACEUTICALS" OR
+"Samus Therapeutics" OR
+"SAN DIEGO UNIVERSITY OF CALIFORNIA" OR
+"Sandia Biotech Inc" OR
+"SANDOR" OR
+"SANDOZ" OR
+"Sanfarm Sp zoo" OR
+"SANFORD HEALTH" OR
+"SANOFI" OR
+"SANOFI PHARMA" OR
+"SANOFI PHARMACEUTICALS" OR
+"SANOMEDICS DEVELOPMENT" OR
+"SanoSwiss UAB" OR
+"Sanova Pharma GesmbH" OR
+"SANOVEL ILAC SANAYI VE TICARET" OR
+"SANOVEL ILAC SANAYI VE TICARET A S" OR
+"SANOVEL ILAC SANAYI VE TICARET AS" OR
+"Sanovis" OR
+"SANQUIN BLOEDVOORZIENING" OR
+"SANQUIN BLOOD SUPPLY FOUNDATION" OR
+"Sanyal Biotechnology" OR
+"SANYUAN PHARMACEUTICAL" OR
+"SAOL INTERNATIONAL" OR
+"Sapala Organics Private Limited" OR
+"SAPHENEIA COMMERCIAL PRODUCTS AB" OR
+"SAT" OR
+"Saudi Pharmaceutical Industries & Medical Appliances Corporation" OR
+"SAVAS MEDIKAL LABORATUAR MALZ SAN TIC AS" OR
+"Saveen o Werner AB" OR
+"SAVIA" OR
+"SBC" OR
+"SBM Pharmaceuticals Pvt Ltd" OR
+"SC Polisano Pharmaceuticals SRL" OR
+"SCA" OR
+"Scandinavian Gene Synthesis AB" OR
+"Scannexus" OR
+"SCANTIBODIES LAB" OR
+"SCANTIBODIES LABORATORY" OR
+"SCD Probiotics" OR
+"SCGPM" OR
+"SCHAERER MAYFIELD MEDICAL AG" OR
+"SCHAERER MEDICAL MANAGEMENT AG" OR
+"Schazoo Zaka Pvt Ltd" OR
+"SCHIFF" OR
+"Schon Pharmaceuticals Limited" OR
+"SCHREINER GROUP" OR
+"SCHREINER GROUP & KG" OR
+"SCHREINER GROUP AND KG" OR
+"SCHREINER GROUP GMB H & KG" OR
+"Schreiner MediPharm" OR
+"Schuco" OR
+"SCHUCO INT KG" OR
+"SCHUCO INTERNAT KG" OR
+"SCHUCO INTERNATIONAL K" OR
+"SCHUCO INTERNATIONAL KG" OR
+"SCHULKE & MAYER G M B H" OR
+"SCHULKE & MAYR" OR
+"SCHULKE & MAYR & KG" OR
+"SCHULKE & MAYR G M B H" OR
+"Schulke France SARL" OR
+"SCHULKE MAYR" OR
+"SCHULKE MAYR 2 NORDERSREDT BEZIRK HAMBURG ALLEMAGNE" OR
+"SCHULKE MAYR 3 NORDERSREDT BEZIRK HAMBURG ALLEMAGNE" OR
+"SCHULKE MAYR DT" OR
+"Schulke Polska Sp zoo" OR
+"SCIderm GmbH" OR
+"Scientific Devices Heidelberg GmbH" OR
+"Scientific Group" OR
+"Scientific Medical Systems Scandinavia AB" OR
+"SCIMED" OR
+"SCITIFIC Pte Ltd" OR
+"Scope International AG" OR
+"SCOPE MEDICAL" OR
+"SDI GROUP" OR
+"Seaward Chemicals Pte Ltd" OR
+"SEAWARD ELECTRONIC" OR
+"SEBELA INTERNATIONAL" OR
+"SEDECAL" OR
+"Segmenta Pharmaceuticals" OR
+"Seiberling Associates Inc" OR
+"SELECT MEDICAL" OR
+"Sepehr Daru Co" OR
+"SEPMAG TECNOLOGIES S L" OR
+"SERRAL S A DE C V" OR
+"SERRG Inc" OR
+"ServiceXS BV" OR
+"Servier Canada Inc" OR
+"SERVIER Deutschland GmbH" OR
+"SERVIER LAB" OR
+"SERVIER LABORATOIRES" OR
+"Servier Laboratories Aust Pty Ltd" OR
+"SERVIER LABORATORY" OR
+"SFJ" OR
+"SGC" OR
+"SGS SA" OR
+"Shaanxi M R Natural Product Co Ltd" OR
+"Shamra Pharma" OR
+"SHAMROCK GROUP" OR
+"Shandong Sheelian Pharmaceutical Co Ltd" OR
+"SHANDONG SINOBIOWAY BIOMEDICINE" OR
+"Shandong Weifang Happy Pharmaceutical Ltd" OR
+"SHANDONG WEIGAO GROUP" OR
+"SHANGHAI BIO" OR
+"Shanghai Biochemical Co Ltd" OR
+"Shanghai BravoBio Co Ltd" OR
+"Shanghai Dexiang Medicine Tech Co Ltd" OR
+"Shanghai Forxine Pharmaceutical Co Ltd" OR
+"SHANGHAI FREEMEN INTERNATIONAL TRADING" OR
+"Shanghai Future Chemical Technology Co Ltd" OR
+"SHANGHAI GENEXT MEDICAL TECHNOLOGY" OR
+"SHANGHAI GENEXT MEDICAL TECHNOLOGY SHANGHAI YUNZE BIOLOGICAL TECHNOLOGY" OR
+"SHANGHAI HEALTHDIGIT" OR
+"SHANGHAI HEALTHDIGIT BIOCHIP" OR
+"Shanghai Honest Chem Co Ltd" OR
+"SHANGHAI HUATUO PHARMACEUTICAL" OR
+"SHANGHAI HUATUO PHARMACEUTICAL SCI & TECH DEVELOPMENT" OR
+"Shanghai Jinli Bio-tech Co Ltd" OR
+"Shanghai Ming Rui Biotechnology Co Ltd" OR
+"SHANGHAI MINGYUAN HEALTHDIGIT BIOCHIPS" OR
+"SHANGHAI PRIMEGENE BIO TECH" OR
+"Shanghai Ronbio Scientific Co Ltd" OR
+"SHANGHAI SCIENCE & TECHNOLOGY" OR
+"Shanghai ShineGene Molecular Bio-Technologies Inc" OR
+"SHANGHAI SINO BIOTECH" OR
+"SHANGHAI SINOFLUORO SCIENT" OR
+"SHANGHAI SINOFLUORO SCIENTIFIC" OR
+"SHANGHAI TECHCOMP INSTR" OR
+"SHANGHAI TECHCOMP INSTRUMENT" OR
+"SHANGHAI TECHCOMP SCIENCE INSTRUMENT" OR
+"Shanghai Worldbest Co Ltd" OR
+"SHANGHAI XINKANG PHARMACEUTICAL FACTORY" OR
+"SHANGHAI XINKANG PHARMACEUTICAL PLANT" OR
+"Shanghai Zhao Pharmaceutical Co Ltd" OR
+"Sharon Bio-Medicine Ltd" OR
+"SHARP" OR
+"Sharp Clinical Services - USA" OR
+"Sharp Edge Labs" OR
+"Shawan Pharmaceuticals" OR
+"Shenyang Everbright Pharmaceutical Co Ltd" OR
+"Shenzehn Stone Medicinal Packaging Material Co Ltd" OR
+"Shenzhen Allmed" OR
+"SHENZHEN BODA BIOPHARM HENAN UNIVERSITY" OR
+"SHENZHEN LEVEKING BIOLOGY ENG" OR
+"SHENZHEN LEVEKING BIOLOGY ENGI" OR
+"SHENZHEN LEVEKING BIOLOGY ENGINEERING" OR
+"Sheridan Clinical Research Inc" OR
+"Shibuya Hoppmann Corporation" OR
+"Shield Therapeutics" OR
+"ShiftZero KK" OR
+"SHIHEZI UNIVERSITY SCHOOL OF MEDICINE FIRST AFFILIATED HOSPITAL" OR
+"SHIJIAZHUANG YILING PHARMACEUTICAL" OR
+"SHIN NIPPON BIOMEDICAL LAB" OR
+"SHIN NIPPON BIOMEDICAL LABORATORIES" OR
+"SHJNJ Modern Pharmaceutical Technologies Inc" OR
+"SIA Lotos Pharma" OR
+"Siam Chemi-Pharm 1997 Co Ltd" OR
+"SICHUAN XIELI PHARMACEUTICAL" OR
+"SierraSil Health Inc" OR
+"SIFERON Therapeutics" OR
+"SIFIN INST F IMMUNPRAEPARATE" OR
+"SIFIN INST FUER IMMUNPRAEPARAT" OR
+"SIFIN INSTITUT FUER IMMUNPRAEPARATIE UND NAEHRMEDIEN BERLIN" OR
+"SIFIN INSTITUT FÜR IMMUNPRÄPARATE UND NÄHRMEDIEN" OR
+"SIFLON GROUP" OR
+"SIGACHI CHLORO CHEMICALS PVT" OR
+"SignalChem" OR
+"Signature HealthCARE LLC" OR
+"Silicon Kinetics Inc" OR
+"Silimed Comercio de Produtos Medico-Hospitalares Ltda" OR
+"SILIMED LTDA" OR
+"SILIMED SILICONE E INSTRUMENTAL MEDICO CIRURGICO E HOSPITALAR LTDA" OR
+"SILK" OR
+"SIM" OR
+"SIN SIST DE IMPLANTE NAC S A" OR
+"SIN SIST DE IMPLANTE NAC SA" OR
+"SIN SISTEMA DE IMPLANTE NACIONAL S A" OR
+"SIN SISTEMA DE IMPLANTE NACIONAL SA" OR
+"Sinclair Dental" OR
+"SINCLAIR PHARMA S R L" OR
+"SINCLAIR PHARMA SRL" OR
+"SinfoniaRx" OR
+"Singapore Advanced Biologics Pte Ltd" OR
+"Sinnex Technical Development and Advisory Private Limited Company" OR
+"SINOBIOWAY BIOMEDICINE" OR
+"SINOCHEM" OR
+"SIPHARM SISSELN AG" OR
+"SIPPEX" OR
+"Sirmaxo Chemicals Private Limited" OR
+"Sisco Research Laboratories Pvt Ltd" OR
+"Siskiyou Corporation" OR
+"SISKIYOU DESIGN" OR
+"SISTERS OF CHARITY OF LEAVENWORTH HEALTH SERVICES ST MARY S HOSPITAL AND MEDICAL CENTER" OR
+"Sitaram Ayurveda Pharmacy Ltd" OR
+"SIWA Therapeutics" OR
+"SJ Pharmaceuticals LLC" OR
+"SJP" OR
+"SK PHARMA" OR
+"Skyline Vet Pharma" OR
+"SKYMAX LABORATORIES PVT" OR
+"SKYMAX LABORATORIES PVT GUJARAT" OR
+"SKYMAX LABORATORIES PVT INDIA" OR
+"SKYMAX LABORATORIES PVT LIT INDIA" OR
+"SLC" OR
+"SLI Technologies Inc" OR
+"SLS" OR
+"SMITH & NEPHEW" OR
+"Smith & Nephew Extruded Films Limited" OR
+"SMITH AND NEPHEW" OR
+"SMP" OR
+"SMT medical GmbH & Co KG" OR
+"SNBL Clinical Pharmacology Center Inc" OR
+"SOCIETATEA COMERCIALA SINTOFARM S A" OR
+"SOCOTEC" OR
+"SOCOTEC SA" OR
+"Solgar Inc" OR
+"Solgar UK" OR
+"SOMAR" OR
+"SOMEDIC SALES AB" OR
+"Somedic SenseLab AB" OR
+"SOMNOMED" OR
+"SONACARE MEDICAL" OR
+"Soneas Chemicals Ltd" OR
+"SONEAS KUTATÓ KFT" OR
+"SONEAS RESEARCH" OR
+"SONITU Pharmaceuticals" OR
+"SONOMED" OR
+"Sonomed Escalon" OR
+"Sonova Hearing India Pvt Ltd" OR
+"SOTA" OR
+"SOUND TECHNOLOGIES" OR
+"Sound-Eklin" OR
+"SOURCES" OR
+"Sources Nutrascience" OR
+"SOURCON PADENA & KG" OR
+"SOURCON PADENA AG" OR
+"Southern Cross Botanicals Pty Ltd" OR
+"Southern Lights Biomaterials" OR
+"SP Scientific" OR
+"Space Import Export Srl" OR
+"SPCO" OR
+"SPECIALTY LABORATORIES" OR
+"Spectrum Oncology Pvt Ltd" OR
+"SPECTRUM PHARMACEUTICALS" OR
+"SPECTRUM PHARMACEUTICALS U" OR
+"SpePharm AG" OR
+"Sphinx Scientific Laboratory Corporation" OR
+"SPIC" OR
+"Spic Pharma Ltd" OR
+"SPINAL ELEMENTS" OR
+"SPINEMATRIX" OR
+"SpineSelect LLC" OR
+"Spinmed" OR
+"Spirig HealthCare AG" OR
+"SQN" OR
+"SRC Alinda" OR
+"SRL" OR
+"SRS" OR
+"SSI" OR
+"SSS International Clinical Research GmbH" OR
+"ST ANNA KINDERKREBSFORSCHUNG" OR
+"ST ANNA KINDERKREBSFORSCHUNG E V" OR
+"ST&T Research Intl" OR
+"St  Anna Children’s Cancer Research Institute" OR
+"Stab Vida" OR
+"STAB VIDA INVESTIGAÇ O E SERVIÇOS EM CI NCIAS BIOLÓGICAS LDA" OR
+"STAB VIDA INVESTIGACAO E SERVI" OR
+"STAB VIDA INVESTIGACAO E SERVICOS EM CIENCIAS BIOLOG LDA" OR
+"STAB VIDA INVESTIGACAO E SERVICOS EM CIENCIAS BIOLOGICAS LDA" OR
+"STADA ARZEIMITTEL AG" OR
+"STADA ARZNEIMITTEL" OR
+"STADA ARZNEIMITTEL A G" OR
+"STADA ARZNEIMITTEL AG" OR
+"STADA CIS" OR
+"STADA PHARMA CZ sro" OR
+"STADA PHARMA Slovakia sro" OR
+"STADA Pharmaceuticals Asia Ltd" OR
+"STADA-VN Joint Venture Co Ltd" OR
+"Staerkle & Nagler AG" OR
+"STALLERGENES" OR
+"STALLERGENES S A" OR
+"STALLERGENES SA" OR
+"Stanbio Laboratory" OR
+"Stanbio Life Sciences" OR
+"Stanford Center for Genomics and Personalized Medicine" OR
+"State of The Art Medical Products Inc" OR
+"STAUBER" OR
+"Stauber Performance Ingredients Inc" OR
+"Steellex Scientific Instrument Company" OR
+"Steiner & Co Deutsche Arzneimittelgesellschaft mbH & Co KG" OR
+"STEM CELL MEDICINE" OR
+"StemCare A/S" OR
+"Stemcell Medicine Ltd" OR
+"STEMEDICA CELL TECHNOLOGIES" OR
+"StemProtein LLC" OR
+"Stemtech HealthSciences Corp" OR
+"STEMTECH INT" OR
+"STEMTECH INTERNAT" OR
+"STEMTECH INTERNATIONAL" OR
+"STERIMED" OR
+"SteriPack Contract Manufacturing" OR
+"STERIPACK MEDICAL" OR
+"STERN LASER S R L" OR
+"STERN LASER S R L APPIANO" OR
+"Sternlaser Srl" OR
+"STEVENS" OR
+"Stevens Home Medical Supplies" OR
+"STICHING SANQUIN BLOEDVOORZIENING" OR
+"STICHTING SANQUIN" OR
+"Stockguard Laboratories NZ Limited" OR
+"STOKELY VAN CAMP" OR
+"STOKELY Y VAN CAMP" OR
+"Strand Analytical Laboratories" OR
+"STRAND DIAGNOSTICS" OR
+"STRAUMANN AG" OR
+"STRAUMANN HOLDING" OR
+"STRAUMANN HOLDING AG" OR
+"Straumann USA LLC" OR
+"Striking Development Inc" OR
+"StromaCel Inc" OR
+"Strong Dental" OR
+"Structural Genomics Consortium" OR
+"Structured Monitoring Products Inc" OR
+"SUANFARMA SA" OR
+"Suction India" OR
+"Sudpack Medica AG" OR
+"SUDPACK VERPACKUNGS" OR
+"SUDPACK VERPACKUNGS &" OR
+"SUDPACK VERPACKUNGS GESELLSCHAFT M B H &" OR
+"SUDPACK VERPACKUNGSGES MBH &" OR
+"SUMI" OR
+"SUNQUEST INFORMATION SYSTEMS" OR
+"SUNQUEST INFORMATION SYSTEMS I" OR
+"Sunzen Biotech Bhd" OR
+"SUNZEN LIFESCIENCES SDN BHD" OR
+"SUNZEN SDN BHD" OR
+"SUPER BAC PROTECAO AMBIENTAL S A" OR
+"SUPER BAC PROTEÇÃO AMBIENTAL S A" OR
+"SuperBAC BioTechnology Solutions" OR
+"Superior HealthPlan" OR
+"SureCalm Healthcare Ltd" OR
+"Surgical Care Affiliates" OR
+"Surgicore Co Ltd" OR
+"Surya Phamaceutical Limited" OR
+"SURYA PHARMACEUTICAL" OR
+"Sutter Gould Medical Foundation" OR
+"SUTTER HEALTH" OR
+"Suzhou Franken Man Medical Devices Co Ltd" OR
+"SUZHOU FRANKENMAN MEDICAL EQUIPMENT" OR
+"SW SEED" OR
+"SW SEED LDT" OR
+"SwissCo Services AG" OR
+"Swisslab GmbH" OR
+"SYENZ Laboratory" OR
+"SYGNIS BIOSCIENCE" OR
+"SYGNIS BIOSCIENCE & KG" OR
+"SYGNIS BIOSCIENCE KG" OR
+"SYMANS Pharmaceuticals Pvt Ltd" OR
+"SYNAPTIC SYSTEMS GESELLSCHAFT FÜR NEUROBIOLOGISCHE FORSCHUNG ENTWICKLUNG UND PRODUKTION MBH" OR
+"Synaptic Systems GmbH" OR
+"Syne qua non" OR
+"SYNERGENZ BIOSCIENCE" OR
+"Synergenz BioScience Limited" OR
+"SYNERGY HEALTH PLC" OR
+"Synergy HealthCare Limited" OR
+"SYNEXUS" OR
+"SYNLAB International GmbH" OR
+"SYNLAB MEDIZINISCHES VERSORGUNGSZENTRUM HEIDELBERG" OR
+"SYNLAB SERVICES" OR
+"SYNTHESIS MED SHANGHAI" OR
+"SYNTIUM Inc" OR
+"Synutra Ingredients" OR
+"SYNUTRA NUTRITIONAL FOOD" OR
+"Systagenix" OR
+"SYSTAGENIX WOUND MAN IP" OR
+"SYSTAGENIX WOUND MANAGEMENT" OR
+"SYSTAGENIX WOUND MANAGEMENT IP").app_gp. 
+
+-ket:/release/KISTI_PATENT_XML_EXPORT_2015
+-bwy

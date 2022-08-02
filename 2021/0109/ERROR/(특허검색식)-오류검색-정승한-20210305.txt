@@ -1,0 +1,44 @@
+[특허검색식 작업 안내문]
+
+1. gpass.kisti.re.kr 에 로그인
+
+2. 검색식 작업 팁
+ - Advanced Search 에서 검색
+ - 주로 and , or 연산자를 활용하여 검색식을 작성하며 영어로 작성함. 
+ - 검색식에서 wildcard (*, ?) 는 적용한 검색엔진에서 안먹히는 경우가 있어서 가능한 사용하지 말라고 함.
+ - 출원일: APDATE=(20130101-20201231)   최근 8년 
+ - 특허 발행청 : AU=(US)   미국특허만 대상으로 함.
+ - 문서유형: DTYPE=(P OR U)   특허와 실용신안 
+ - 특허를 이용해서 고용경제효과를 계산하므로 특허가 최소한 한 건은 나오는 것이 좋음.
+ - 실제 데이터 다운로드는 개발자와 협의하여 일괄 다운로드 받는 것으로 계약되어 있으나 개발자가 검색식의 오류까지 검토하지는 않으므로 오류없는 검색식을 제출해야 함.
+ - 검색식을 엑셀로 저장하는 과정에서 큰따옴표의 모양이 이상하게 변경되는 경우가 있어서 엑셀양식을 버리고 텍스트 양식을 선택하게 되었음. 
+ 
+3. 제출 내용
+ - 중분류 코드, 검색식, 검색건수   : 코드별 검색식과 검색건수도 제출해야 실제로 개발자가 다운로드한 건수와 비교해서 정확도를 점검할 수 있음.
+ - 텍스트 에디터 (울트라에디터, Notepad++ 등) SW에서 작성하여 제출 (*.txt 파일로)
+
+4. 개발자가 다운로드해서 주는 파일의 명칭 형식 :   정밀의료_T01.txt  
+
+
+=========== [ 분과명: 태양광 ] 중분류코드별 특허검색식 및 건수 =============
+T01	오믹스 정보획득 : 35건  정밀의료
+AU=(US) APLT=(Y) (DTYPE=(P OR U) APDATE=(20130101-20201231) (TI=(((genetic or genomic or transcriptomic or proteomic or metabolomic or epigenomic or epigenetic or pharmocogenomic or pharmacogenetic or nutrigenomic or omics) and (medicine or medical or health or diagnosis or therapy) and (expression or changes or differences or profiles or array or assay) and (information or data)) not (algorithm or "machine learning" or "deep learning"))) OR AB=(((genetic or genomic or transcriptomic or proteomic or metabolomic or epigenomic or epigenetic or pharmocogenomic or pharmacogenetic or nutrigenomic or omics) and (medicine or medical or health or diagnosis or therapy) and (expression or changes or differences or profiles or array or assay) and (information or data)) not (algorithm or "machine learning" or "deep learning"))))	)
+	
+ T06	전주기 경제성 분석 플랫폼 : 77개
+APLT=(Y) and AU=(US) and DTYPE=(P OR U) APDATE=(20130101-20201231) TI= (("Life cycle") OR (LCA)) OR ("life cycle analysis") OR ("life cycle assess") OR ("techno-economic") OR ("economic")) AND AB=((Biochemical OR "Bio-chemical" OR bioenergy OR "bio-energy" OR bioresource OR "bio-resource" OR "bio-fuel" OR biofuel OR "bio-mass" OR biomass OR "bio-diesel" OR biodiesel OR "bio-ethanol" OR bioethanol OR "bio-oil" OR biooil OR "bio-methane" OR biomethane OR "bio-hydrogen" OR biohydrogen OR "bio-jet" OR biojet) OR (potential OR produc OR manufactur OR manufacture OR make) OR (database OR db OR databank OR dbms))
+
+#T04	미활용 바이오매스 에너지화(바이오) : 6건 (OK)
+#APLT=(Y) AU=(US) DTYPE=(P OR U) APDATE=(20130101-20201231) (TI=((bioenergy OR "bio-energy" OR biOResource OR "bio-resource" OR "bio-fuel" OR biofuel OR "bio-mass" OR biomass OR biodiesel OR "bio-diesel" OR "bio-ethanol" OR bioethtanol OR biogas OR "Bio-gas" OR syngas OR synthetic gas OR gasification OR pyrolysis OR solid fuel) AND (unused OR unutilized OR remained OR remaining OR co-firing OR conversion))  AND AB=(availability OR efficiency OR "use efficiency" OR yield OR lignocellulose OR lignocellulosic OR waste OR byproduct OR biomass)) 
+
+#T18	 문화및관광시설관리기술(스마트시티): 1건 (OK)
+#AU=(US) APLT=(Y) DTYPE=(P OR U)  APDATE=(20130101-20201231) TI=(("cultural heritage" or   "monument" or "historic site" or "heritage   site" or "heritage area" or "historic area" or   "cultural legacy" or "cultural traditions" or   "national treasure") and ("management" or   "preserving" or "preserve" or "conservating" or   "conserve" or "protecting" or "protect" or   "restoring" or "restore" or "safety" or   "security"))
+
+#T13	 개인맞춤형약물반응성및안전성예측실증임상연구(정밀의료): 4건 --> 123건으로 잘못나옴.
+#AU=(US) APLT=(Y) DTYPE=(P OR U) APDATE=(20130101-20201231) TI=((drug or pharma or prescription) and ("companion diagnostics" or "companion diagnosis" or CDx or "companion diagnostic device" or "molecular diagnostics" or "pharmacogenetic test" or "drug monitoring" or "disease subtyping" or typing or subtype or "genetic testing")) and (safety or "side effect" or "side effects" or pharmacovigilance or sensitivity or effects or effect or performance)and (device or instrument or analysis or "liquid biopsy" or biopsy or sampling or system or solution or method)) OR AB=((drug or pharma or prescription) and ("companion diagnostics" or "companion diagnosis" or CDx or "companion diagnostic device" or "molecular diagnostics" or "pharmacogenetic test" or "drug monitoring" or "disease subtyping" or typing or subtype or "genetic testing")) and (safety or "side effect" or "side effects" or pharmacovigilance or sensitivity or effects or effect or performance)and (device or instrument or analysis or "liquid biopsy" or biopsy or sampling or system or solution or method))
+
+
+#T22	 바이오뱅크(정밀의료): 64건 -> 594건으로 잘못나옴.
+#AU=(US) APLT=(Y) DTYPE=(P OR U) APDATE=(20130101-20201231) TI=((("bio-bank" or biorepository or biobanks or biobanking or biorepositories or ((repository or repositories or bank or banks) and (gene or genes or genome or "human bioresource" or tissue or biopsy)) or biostorage)))) OR AB=((("bio-bank" or biorepository or biobanks or biobanking or biorepositories or ((repository or repositories or bank or banks) and (gene or genes or genome or "human bioresource" or tissue or biopsy)) or biostorage))))
+
+#T02	 보급확대기반(태양광): 147건 -> 5904건으로 잘못나옴.
+#APDATE=(20130101-20201231) AU=(US) DTYPE=(P OR U) AB=(solar OR sunlight OR "sun light" OR "solar energy" OR "solar power" OR "solar radiation" OR "solar heat" OR "solar heating" OR "solar heater" OR "solar generate" OR "solar generator" OR "solar cell" OR "solar farm" OR photovoltaic OR photovoltaics OR PHV) AND TI=(((MW OR megawatt OR "mega watt") and (test OR assessment OR examination OR check OR substantiation OR demonstration OR exemplification OR empirical OR explanation)) OR (recycle OR recycling OR reuse OR recyclable OR reutilization OR "double deal" OR "re-use" OR reusable OR reclaim OR reprocess) OR (DB OR database "data base") OR (guideline OR "guide line" OR manual OR instructions OR instruct OR handbook OR explanation OR explain) OR ("waste material" OR "useless article" OR "useless thing" OR detritus OR scrappage OR rejectamenta OR arisings OR rubbish OR refuse OR debris OR scrap OR garbage OR trash) OR ("idle land" OR "land lying idle" OR "fallowed field" OR "land in fallow" OR "fallow field" OR "fallow land" OR "fallow ground" OR "land resting") OR ("value chain"))) OR (APDATE=(20130101-20201231) AB=((solar OR sunlight OR "sun light" OR "solar energy" OR "solar power" OR "solar radiation" OR "solar heat" OR "solar heating" OR "solar heater" OR "solar generate" OR "solar generator" OR "solar cell" OR "solar farm" OR photovoltaic OR photovoltaics OR PHV) AND (revenue OR profit OR benefit OR margin OR earnings OR beneficial OR gainings OR income OR earn OR BM OR BusinessModel OR "Business Model" OR Business OR share OR sharing OR rent OR lease)) AND TI=((ground OR land OR field) OR (farming OR agriculture OR agricultural OR agronomy OR farm OR husbandry OR cultivation OR cultivate OR grow) OR ("large scale" OR "grand scale" OR "big scale" OR extensive OR macroscale OR extensiveness OR substantial OR considerable OR great OR "wide range") OR (BAPV OR "Building Integrated Photovoltaic" OR "Building Integrated Photovoltaics" OR "Building Integrated Photo voltaic" OR "Building Integrated Photovoltaic system" OR Building OR "building PHV"))) OR (APDATE=(20130101-20201231) AB=(( solar or "solar energy" OR "solar power" OR "Solar Thermal energy" OR "Solar Thermal Power" OR "solar fuel" OR "solar resource" OR "solar radiation" OR "solar heat" OR "solar heating" OR "solar heater" OR "solar generate" OR "solar generator") AND (public OR community OR society OR common OR supply OR provide OR furnish OR diffusion OR spread OR coverage)) AND TI=(("idle land" OR "land lying idle" OR "fallowed field" OR "land in fallow" OR "fallow field" OR "fallow land" OR "fallow ground" OR "land resting") OR ("salt pond" OR "salt pan" OR "salt field" OR "salt farm" OR ocean OR sea OR marine OR maritime OR "aquatic products" OR "marine products" OR "sea product") OR (farming OR agriculture OR agricultural OR agronomy OR farm OR husbandry OR cultivation OR cultivate OR grow) OR (BAPV OR "Building Integrated Photovoltaic" OR "Building Integrated Photovoltaics" OR "Building Integrated Photo voltaic" OR "Building Integrated Photovoltaic system" OR Building OR "building PHV") OR (recycle OR recycling OR reuse OR recyclable OR reutilization OR "double deal" OR "re-use" OR reusable OR reclaim OR reprocess)))

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<collectionSetting bTreePageSize="8K" baseDirectory="d:\cvs\workspace\KISTI_PATENT-TECH-SENSING_2013_KEYWORD\work\patent" description="featrue selector test" id="patent" indexBulkFactor="1000" largeFileChunksize="1G" server="adminServer" useDBWatcher="false">
+    <repositorySetting compressType="DEFAULT" documentPerSegment="0"/>
+    <schemaSetting allowNull="false" defaultValue="" deliminator="" description="" id="ID" idField="true" multiple="false" multipleValueSize="0" mutable="false" precision="15" strictCheck="false" type="CHAR"/>    
+    <schemaSetting allowNull="true" defaultValue="" deliminator="" description="" id="TITLE" idField="false" multiple="false" multipleValueSize="0" mutable="false" precision="-1" strictCheck="false" type="VARCHAR"/>
+    <schemaSetting allowNull="true" defaultValue="" deliminator="" description="" id="ABSTRACT" idField="false" multiple="false" multipleValueSize="0" mutable="false" precision="-1" strictCheck="false" type="VARCHAR"/>
+    <schemaSetting allowNull="true" defaultValue="" deliminator="," description="" id="LCAT" idField="false" multiple="true" multipleValueSize="10" mutable="false" precision="4" strictCheck="false" type="CHAR"/>
+    <categorySetting categoryField="LCAT" description="" extractor="USEREXTRACTOR" extractorOption="" featureSize="100000" id="LCAT" useEngMap="true" useHanjaMap="true" useSpCharMap="true">
+        <indexField id="TITLE"/>
+        <indexField id="ABSTRACT"/>
+        <userExtractor indexClass="com.diquest.ir.core.index.extractor.TabExtractor" searchClass="com.diquest.ir.core.index.extractor.TabExtractor"/>
+    </categorySetting>
+    <mirrorSetting useMirror="false"/>
+</collectionSetting>

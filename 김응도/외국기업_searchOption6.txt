@@ -1,0 +1,194 @@
+-cn1000
+-au
+-tgi:/kisti/
+-ctt:/release/KISTI_PATENT_XML_EXPORT_2015/result
+-ftTEXT
+-efpno,pndate,pnkind,pncn,dockind,ti,abs,appno,appdate,prino,inventor,assignee,app_gp,pexam,basic_count,nonpatent,references,citations,ipc,cpc,ecla,classc,fcode,mf,cf,family_count
+
+-ru("NETSCIENTIFIC" OR
+"Neu Encepharm GmbH" OR
+"NEURA" OR
+"Neura Therapeutik" OR
+"NeuroGenomeX Inc" OR
+"NEURON" OR
+"NEURON BIO S A" OR
+"NEURON BIOPHARMA S A" OR
+"NEURON BIOPHARMA SA" OR
+"Neuron BioServices" OR
+"Neuron Innoceuticals Pte Ltd" OR
+"NEUROPRO" OR
+"Neuroproject Ltd" OR
+"Neusentis" OR
+"NEUTRON" OR
+"Neutron X-Ray  Imaging Systems Pty Ltd" OR
+"Neutroplast" OR
+"NEUTROPLAST IND DE EMBALAGENS PLASTICAS S A" OR
+"NEUTROPLAST IND STRIA DE EMBALAGENS PLÁSTICAS S A" OR
+"NEW BIO TECHNOLOGY" OR
+"New Engl  Research Institutes" OR
+"New Heights Pharmaceutical" OR
+"New Medical Imaging Co Ltd" OR
+"NEW PHARMA R ESEARCH SWEDEN AB" OR
+"NEW PHARMA RES SWEDEN AB" OR
+"NEW PHARMA RESEARCH AB" OR
+"NEW PHARMA RESEARCH SWEDEN AB" OR
+"NewChem Technologies" OR
+"NewPharma Research Sweden AB" OR
+"NEXGEN PHARMA" OR
+"Nexira" OR
+"NEXIRA INTERNATIONAL" OR
+"Nextar Chempharma Solutions" OR
+"Nextar Pharma Pvt Ltd" OR
+"NEXTAR PHARMACEUTICALS N D" OR
+"NEXUS Personalized Health Technologies" OR
+"NEXUS PHARMA" OR
+"Nexus Pharmaceuticals Inc" OR
+"NEXVET AUSTRALIA PTY" OR
+"Nexvet Biopharma" OR
+"N-Gene Inc" OR
+"NGX" OR
+"NHC" OR
+"NHC Dickson" OR
+"NHC HealthCare Charleston" OR
+"NHC HealthCare Johnson City" OR
+"NHC HealthCare Laurens" OR
+"NHC HealthCare Moulton" OR
+"NHC HealthCare North Augusta" OR
+"NHC Healthcare Sequatchie" OR
+"NHC HealthCare Smithville" OR
+"NHC HealthCare Springfield" OR
+"NHC HealthCare St  Charles" OR
+"NHC HealthCare,  erson" OR
+"NHC HealthCare, Chattanooga" OR
+"NHC HealthCare, Greenville" OR
+"NHC HealthCare, Greenwood" OR
+"NHC Healthcare, Lexington" OR
+"NHC HealthCare, Maryl  Heights" OR
+"NHC HealthCare, Mauldin" OR
+"NHC HealthCare, Parklane" OR
+"NHC HealthCare, Rossville" OR
+"NHC Lewisburg" OR
+"NHC McMinnville" OR
+"NHC Place, Anniston" OR
+"NHC Pulaski" OR
+"NHC Scott" OR
+"NHC Somerville" OR
+"NHP" OR
+"NHS ENGL " OR
+"NI Medical" OR
+"NIA" OR
+"NIBSC" OR
+"Nice Pharmaceuticals" OR
+"NICHI IKO PHARMACEUTICAL" OR
+"NICHI IKO PHARMACEUTICAL LT" OR
+"Nicobr " OR
+"Nigaard Pharma AS" OR
+"NIGHTINGALE" OR
+"NIH Intramural Sequencing Center" OR
+"Nihon Bionics Co Ltd" OR
+"Nihon Servier Co Ltd" OR
+"Nikka Fine Techno Co Ltd" OR
+"Nikofarm LLC" OR
+"Ningbo Distant Chemicals Co Ltd" OR
+"Ninhua Group Co Ltd" OR
+"NIPPON KAYAKU" OR
+"NIPRO" OR
+"Nipro Glass Americas" OR
+"NIPRO GLASS GERMANY AG" OR
+"Nipro JMI Pharma Ltd" OR
+"Nipro Medical Corporation" OR
+"NIPRO MEDICAL IND" OR
+"NIPRO MEDICAL LTDA" OR
+"Nipro Pharma Corporation" OR
+"NIPRO PHARMAPACKAGING GERMANY" OR
+"Nipro Trading Shanghai Co Ltd" OR
+"NIS" OR
+"NISC" OR
+"Nitro Quimica" OR
+"NITTO" OR
+"NIVEA Polska Sp z oo" OR
+"NL Neolab SA" OR
+"NM Genomix" OR
+"NMC" OR
+"NMC Healthcare" OR
+"NMI" OR
+"NO 1 AFFILIATED HOSPITAL OF SHIHEZI UNIVERSITY MEDICINE SCHOOL" OR
+"NOACK" OR
+"NOACK CR spol s ro" OR
+"Nobel Pharma" OR
+"NOBELPHARMA" OR
+"NOBLE MEDICAL COATINGS" OR
+"Noble Medical Inc" OR
+"NOCCR   VRG" OR
+"NOLATO AB" OR
+"Nolato Contour Inc" OR
+"NOLATO TREFF AG DEGERSHEIM" OR
+"Nomeco A/S" OR
+"Nong’s Company Limited" OR
+"NORDMANN RASSMANN " OR
+"NORDMANN RASSMANN  2000 HAMBURG" OR
+"NORDMANN RASSMANN  2001 HAMBURG" OR
+"NORDMANN RASSMANN  2002 HAMBURG" OR
+"NORDMANN RASSMANN  2003 HAMBURG" OR
+"NORDMANN RASSMANN  2004 HAMBURG" OR
+"NORDMANN RASSMANN  2005 HAMBURG" OR
+"NORDMANN RASSMANN  2006 HAMBURG" OR
+"Nordmann Rassmann Bulgaria EOOD" OR
+"Nordmann Rassmann Czech Republic sro" OR
+"Nordmann Rassmann H elsges mbH" OR
+"Nordmann Rassmann Romania SRL" OR
+"Nordmann, Rassmann GmbH" OR
+"Nordmann, Rassmann Hungaria Kft" OR
+"Nordmann, Rassmann Polska Spz oo" OR
+"NORDSON" OR
+"Nordson MARCH" OR
+"Nordson YESTECH" OR
+"NOREVA" OR
+"Norgenix" OR
+"NORGINE" OR
+"NORGINE EUROP" OR
+"NORGINE EUROPE" OR
+"NORGINE LIMITADA" OR
+"NORTHLAKE INTERNAT" OR
+"Northlake International LLC" OR
+"Northwest Newborn Specialists PC" OR
+"NOURISH" OR
+"Nourish Nutrition Support Program" OR
+"Nova Microbial Technologies LLC" OR
+"NovaCare Rehabilitation" OR
+"Novafarma" OR
+"NovAliX" OR
+"NOVALIX DEUTSCHL " OR
+"NovaMatrix" OR
+"NOVATION PHARMACEUTICALS" OR
+"Novation Pharmaceuticals Inc" OR
+"Now Foods" OR
+"NOW HEALTH GROUP" OR
+"NPI" OR
+"NPO Petrovax Pharm" OR
+"NSB POSTECH Inc" OR
+"NSF INTERNATIONAL" OR
+"NSF Pharmalytica" OR
+"Nu Skin Enterprises Inc" OR
+"NU SKIN INTERNATIONAL" OR
+"NUANCE" OR
+"Nuclear Imaging Services" OR
+"Nuline Nutritionals LLC" OR
+"NUMAT BIOMEDICAL S L" OR
+"NuMat Medtech" OR
+"Nu-Mega Ingredients Pty Ltd" OR
+"Nuscience Cehave Korm" OR
+"Nuscience Group" OR
+"Nuscience Hungary Kft" OR
+"NUTRITECH" OR
+"NUTRITECH INTERNATIONAL" OR
+"Nutrition  Sante SAS" OR
+"Nutritional Products International Inc" OR
+"NUVASIVE" OR
+"NuWave Monitoring LLC" OR
+"NV Bristol-Myers Squibb Belgium SA" OR
+"NVC" OR
+"Nypro Healthcare GmbH").app_gp. 
+
+-ket:/release/KISTI_PATENT_XML_EXPORT_2015
+-bwy

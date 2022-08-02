@@ -1,0 +1,353 @@
+-cn1000
+-au
+-tgi:/kisti/
+-ctt:/release/KISTI_PATENT_XML_EXPORT_2015/result
+-ftTEXT
+-efpno,pndate,pnkind,pncn,dockind,ti,abs,appno,appdate,prino,inventor,assignee,app_gp,pexam,basic_count,nonpatent,references,citations,ipc,cpc,ecla,classc,fcode,mf,cf,family_count
+
+-ru("I3" OR
+"I³ Inc" OR
+"IAD" OR
+"IBD" OR
+"IBS" OR
+"IBT" OR
+"ICAGEN" OR
+"ICC" OR
+"ICON" OR
+"IEG" OR
+"Ifotam Co Ltd" OR
+"IGL" OR
+"ILLUMINA" OR
+"IMAGE TECHNOLOGY LAB" OR
+"Image Technology Laboratories Inc" OR
+"ImageIQ" OR
+"IMCD FRANCE SAS" OR
+"IMMUCOR" OR
+"IMMUNO CONCEPTS" OR
+"IMMUNO CONCEPTS N A" OR
+"Immuno Concepts NA Ltd" OR
+"IMMUNODIAGNOSTICS" OR
+"ImmunoSite Technologies LLC" OR
+"IMMUTEP" OR
+"Improved Outcomes Software" OR
+"IMS" OR
+"IMV TECHNOLOGIES" OR
+"IMV TECHNOLOGIES SA" OR
+"IND FARMACÉUTICAS PUERTO GALIANO S A" OR
+"INDAS LAB SA" OR
+"INDAS S A LAB" OR
+"INDAS S A U LAB" OR
+"India Medtronic Pvt Ltd" OR
+"INDIAN COUNCIL OF MEDICAL RESEARCH" OR
+"INDIANA UNIVERSITY SCHOOL OF MEDICINE" OR
+"Indofine Chemical Company Inc" OR
+"INDUSTRIAS FARMACEUTICAS PUERTO GALIANO S A" OR
+"INDUSTRIAS FARMACÉUTICAS PUERTO GALIANO S A" OR
+"Infor-Med Corporation" OR
+"Innominata dba GenBio" OR
+"INNOPHOS" OR
+"INNOVATIVE MEDICAL TECHNOLOGIES" OR
+"iNova Pharmaceuticals Australia Pty Limited" OR
+"INOVA PHARMACEUTICALS PTY" OR
+"INRS" OR
+"INST CARLOS SLIM DE LA SALUD A C" OR
+"INST RES IN BIOMEDICINE IRB" OR
+"INSTEM" OR
+"INSTITUT MERIEUX" OR
+"Institut Rosell-Lallemand" OR
+"INSTITUTE FOR RESEARCH IN BIOMEDICINE" OR
+"Institute of Industrial Organic Chemistry" OR
+"Institute of Vaccines and Medical Biologicals" OR
+"INSTITUTO CARLOS SLIM DE LA SALUD A C" OR
+"Instradent AG" OR
+"INTEGRA LIFESCIENCES" OR
+"INTEGRAMED AMERICA" OR
+"Inter-Africa Dental Pty Ltd" OR
+"InterBioScreen Ltd" OR
+"Inter-Evrogeneks" OR
+"International Immuno-Diagnostics" OR
+"International Pharma Labs" OR
+"International Pharmaceuticals Inc" OR
+"INTERTEK" OR
+"Intestinal Biotech Development" OR
+"INVACARE" OR
+"InvaGen Pharmaceuticals Inc" OR
+"INVIVOSCRIBE TECH" OR
+"INVIVOSCRIBE TECHNOLOGIES" OR
+"IOS" OR
+"IPI" OR
+"IPL" OR
+"IPO" OR
+"IPSEN" OR
+"IPSEN PHARMACEUTICAL BIOLOG TE" OR
+"IRB - Institute for Research in Biomedicine" OR
+"Islandwide Marketing Services Pvt Ltd" OR
+"IST" OR
+"IT&E" OR
+"IT&E International" OR
+"IThenaPharma" OR
+"ITW" OR
+"IU School of Medicine" OR
+"IVAC" OR
+"Ivesco" OR
+"J M SMITH" OR
+"J URIACH" OR
+"JABIL" OR
+"Japan SLC Inc" OR
+"JAYSON" OR
+"Jayson Group of Companies" OR
+"JBS UNITED" OR
+"JBS UNITED ANIMAL HEALTH II" OR
+"JCB" OR
+"Jeiven Pharmaceutical Consulting Inc" OR
+"JIANGXI DIRUI SYNTHETIC CHEMICAL" OR
+"Jiangxi Sanyuan Pharmaceutical Co Ltd" OR
+"Jiangxidirui Synthetic Chemical Co Ltd" OR
+"Jinchi Biotech Ltd" OR
+"JISICO Co Ltd" OR
+"JK BIOTECH" OR
+"JOERNS HEALTHCARE" OR
+"John Theurer Cancer Center" OR
+"JOINT STOCK & LDQUO PHARMASYNTEZ & RDQUO" OR
+"JOINT STOCK PHARMASYNTEZ" OR
+"JOINT STOCK PHARMASYNTEZ JSC PHARMASYNTEZ" OR
+"JOINT STOCK PHARMSYNTHEZ" OR
+"JORGEN KRUUSE A S" OR
+"JØRGEN KRUUSE A S" OR
+"JORGEN KRUUSE AS" OR
+"JØRGEN KRUUSE AS" OR
+"JPC" OR
+"Junifer Pharmacuticals" OR
+"JUST RIGHT SURGICAL" OR
+"JustRight Surgical" OR
+"JUVA SANTE SOC PAR ACTIONS SIM" OR
+"JUYI CHEMICAL IND" OR
+"K G  International Inc" OR
+"K -W  Pfannenschmidt GmbH" OR
+"KAERGAARD HENNING DAM" OR
+"KAERGAARD HENNING DAM FARUM DK" OR
+"KAKETSUKEN" OR
+"Kalbe International Pte Ltd" OR
+"Kallo Inc" OR
+"Kamieniniu lasteliu bankas" OR
+"Kampala Pharmaceutical Industries 1996 Ltd" OR
+"Kanan Ji Pharmaceutical Technology Shanghai Co Ltd" OR
+"KANANJI PHARMACEUTICAL" OR
+"Kapplex Inc" OR
+"KARO PHARMA AB" OR
+"KAY &" OR
+"Kay & Company" OR
+"KDC" OR
+"KERRY" OR
+"Key International Inc" OR
+"KEY INTERNATIONAL MANUFACTURING" OR
+"Key Med Inc" OR
+"KEY PHARMA" OR
+"KEYMED" OR
+"Keypharma Srl" OR
+"KG INTERNATIONAL" OR
+"KIMBALL ELECTRONICS" OR
+"Kimble Chase Life Science and Research Products LLC" OR
+"Kinovate Life Sciences Inc" OR
+"KIT" OR
+"KITTO LIFE" OR
+"KittoLife Co Ltd" OR
+"KLINGE CHEMICALS" OR
+"Klinge Chemicals Limited" OR
+"KLOX TECHNOLOGIES" OR
+"Klox Technologies Inc" OR
+"KNOWLTON DEVELOPMENT" OR
+"Kodak Specialty Chemicals" OR
+"KOMA BIOTECH" OR
+"KOMABIOTECH" OR
+"KONINKLIJKE PHILIPS" OR
+"Korea Institute of Toxicology" OR
+"Korea UCB Co Ltd" OR
+"KOREA UNITED PHARM" OR
+"KOREAN DRUG" OR
+"KORHISPANA SL" OR
+"KOWA CHEMICAL" OR
+"KOWA CHEMICAL IND" OR
+"KOWA CHEMICAL INDUSTRIES" OR
+"KPI" OR
+"KRC" OR
+"Kriger Research Group International" OR
+"KRUUSE Polska Sp z oo" OR
+"KSS" OR
+"KWS BioTest Ltd" OR
+"KWS LOCHOW GMBH" OR
+"KWS LOCHOW POLSKA Sp z oo" OR
+"KWS SAAT SE" OR
+"KWS Semillas Iberica SL" OR
+"KWS UK Ltd" OR
+"Kyongshin Scientific Co Ltd" OR
+"KYOWA HAKKO KIRIN" OR
+"Kyushu Toho Co Ltd" OR
+"La Floridienne" OR
+"La Unimed Scientifica Srl" OR
+"Lab Plus AG" OR
+"Lab Store Pte Ltd" OR
+"Lab3 Ltd" OR
+"LabCorp Clinical Trials" OR
+"Labindia Healthcare" OR
+"LABINDIA INSTRUMENTS PVT" OR
+"Laboratoire Elaiapharm" OR
+"Laboratoire Gefa" OR
+"LABORATOIRE MAYOLY SPINDLER" OR
+"Laboratoire ObvieLine" OR
+"Laboratoires Galeniques Vernin" OR
+"Laboratoires Juva Sante" OR
+"LABORATOIRES MAYOLY SPINDLER" OR
+"LABORATOIRES PHARMA 5" OR
+"Laboratoires Plasto Sante" OR
+"LABORATOIRES SERVIER" OR
+"LABORATORIES BAGO S A" OR
+"LABORATORIES BAGO SA" OR
+"Laboratories INDAS SAU" OR
+"Laboratorio Bago de Chile SA" OR
+"Laboratorio Dr Lazar & Cia SAQ e I" OR
+"LABORATORIO MEDINFAR PRODUTOS FARM S A" OR
+"LABORATORIO MEDINFAR PRODUTOS FARMACEUTICOS S A" OR
+"LABORATORIO MEDINFAR PRODUTOS FARMACÊUTICOS S A" OR
+"LABORATORIO MEDINFAR PRODUTOS FARMACEUTICOS SA" OR
+"Laboratorio Sanobiol" OR
+"LABORATORIO SANOBIOL LTDA" OR
+"LABORATORIOS BAGO S A" OR
+"LABORATORIOS BAGO SA" OR
+"LABORATORIOS INDAS S A U" OR
+"Laboratorios Laprin SA" OR
+"LABORATORIOS REVEEX S A" OR
+"Laboratorios Santa Elena SA" OR
+"Laboratorios Serra Pamies" OR
+"Laboratorios Serral" OR
+"LABORATORIOS SYVA DE INDUSTRIAS" OR
+"Laboratorios SYVA SAU" OR
+"LABORATORIOS VIR SA" OR
+"Laboratorios Vivax Pharmaceuticals CA" OR
+"Laboratory for Personalized Molecular Medicine" OR
+"Laboratory of Enzymology at Interfaces and Physiology of Lipolysis" OR
+"LABORATORY SCIENTIFIC SUPPLIES FZC" OR
+"LABPLUS" OR
+"LabPMM GmbH" OR
+"Labservice M Sdn Bhd" OR
+"LABSTORE" OR
+"LabTech ? Alliance eG" OR
+"Labtop Medizinische Laboratorien AG" OR
+"Lahore Medical Instruments Pvt Limited" OR
+"Lakeside Pharma SA de CV" OR
+"LALLEMAND" OR
+"LALLEMAND ANIMAL NUTRITION NORTH AMERICA" OR
+"Lallemand Health Solutions" OR
+"LAMBERTS" OR
+"Lamberts Healthcare Ltd" OR
+"LAMDA LABORATORIES S A" OR
+"Lamda Pharmaceuticals SA" OR
+"LANTHIO PEP" OR
+"Lanthio Pharma" OR
+"LANTHIOPEP" OR
+"Lantmannen" OR
+"LANTMANNEN AS FAKTOR" OR
+"LANTMANNEN BIOAGRI AB" OR
+"LANTMANNEN EK FOR" OR
+"LANTMANNEN ENERGI" OR
+"Lantmannen SW Seed BV" OR
+"Lapidot Group" OR
+"LAPIDOT MEDICAL IMP AND MARKETING" OR
+"LAPIDOT MEDICAL IMPORT AND MARKETING" OR
+"Larrea Bioscience" OR
+"Lash Group" OR
+"LATAM" OR
+"Latam Clinical Trials" OR
+"LATHAM" OR
+"Latham BioPharm Group" OR
+"Lathrop Engineering Inc" OR
+"Lattice Biotech" OR
+"LAVI" OR
+"Lavi Med-Tech" OR
+"Laviana Corporation" OR
+"LAVIANA PHARMACHEM" OR
+"LAVIANA TAIZHOU PHARMACEUTICAL CHEMICALS" OR
+"LAZAR" OR
+"LEHIGH VALLEY HEALTH NETWORK" OR
+"Leo Hellas Pharmaceuticals SA" OR
+"LEO PHARMA" OR
+"LEO PHARMACEUTICALS" OR
+"Les Laboratoires Pharmaceutiques Pharma 5" OR
+"Lesaffre Human Care" OR
+"Leung Kai Fook Medical Company Pte Ltd" OR
+"Leveking" OR
+"LFE" OR
+"LHC" OR
+"LHI" OR
+"LIBA" OR
+"Liba Laboratuarlari AS" OR
+"Liberator Medical Supply Inc" OR
+"Libertas Pharma" OR
+"Liberty Medical LLC" OR
+"Life Sciences Research Inc" OR
+"LifeArc" OR
+"LifebankUSA" OR
+"LIFELINE BIOTECHNOLOGIES" OR
+"LifeMap Sciences Inc" OR
+"Lifemed Corporation" OR
+"LIFEMED ID" OR
+"LIGAMED MEDICAL PRODUKTE" OR
+"Ligamed SA" OR
+"Lilium Otsuka Co Ltd" OR
+"Lilly Deutschland GmbH" OR
+"LIMITED LIABILITY NEARMEDIC PLUS" OR
+"LIMITED LIABILITY NEWCHEM TECHNOLOGY" OR
+"LIMITED TECHNOPATH DISTRIBUTION" OR
+"Lincare Holdings Inc" OR
+"Lincoln Dental Supply" OR
+"Lineage Therapeutics Inc" OR
+"LINEAR" OR
+"Linear Clinical Research Limited" OR
+"LINZ" OR
+"Linz Pharmaceuticals Pvt Ltd" OR
+"LIPIGON PHARMACEUTICALS AB" OR
+"Lipigon Pharmacuticals AB" OR
+"Lipo do Brasil Ltda" OR
+"Lipo Technologies" OR
+"Litha Pharma" OR
+"LKF MEDICAL" OR
+"LMC" OR
+"LMI" OR
+"Logistics Health Incorporated" OR
+"Logitem Tsumura Co Ltd" OR
+"London Research Institute" OR
+"Longchem Co Ltd" OR
+"LOTUS" OR
+"Lotus Clinical Research LLC" OR
+"Loudon Far East" OR
+"Lovelace Scientific Resources" OR
+"LPS" OR
+"LRI" OR
+"LSP" OR
+"LSR" OR
+"LSS" OR
+"LTA" OR
+"LTD LIABILITY NEARMEDIC PLUS" OR
+"LTD TECHNOPATH DISTRIB" OR
+"LUBRIS" OR
+"Lubris BioPharma" OR
+"LUCAS MEYER COSMETICS" OR
+"LUCAS MEYER COSMETICS S A" OR
+"LUCAS MEYER COSMETICS SA" OR
+"LUCAS MEYER COSMETICS SAS" OR
+"Lucron ELITechGroup" OR
+"LUITPOLD PHARMACEUTICALS" OR
+"LUNDBECK" OR
+"Lupus Research Institute" OR
+"LUSOMEDICAMENTA S A" OR
+"Lusomedicamenta Sociedade Tecnica Farmaceutica SA" OR
+"LYONDELLBASELL ACETYLS" OR
+"LYONDELLBASELL ADVANCED POLYOL" OR
+"LYONDELLBASELL ADVANCED POLYOLEFINS USA" OR
+"LYONDELLBASELL FLAVORS & FRAGRANCES" OR
+"LyondellBasell Industries N V " OR
+"LYOPHILIZATION SERVICES OF NEW ENGLAND" OR
+"Lyophilization Technology Inc").app_gp. 
+
+-ket:/release/KISTI_PATENT_XML_EXPORT_2015
+-bwy

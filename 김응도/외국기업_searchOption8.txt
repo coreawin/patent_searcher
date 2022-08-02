@@ -1,0 +1,584 @@
+-cn1000
+-au
+-tgi:/kisti/
+-ctt:/release/KISTI_PATENT_XML_EXPORT_2015/result
+-ftTEXT
+-efpno,pndate,pnkind,pncn,dockind,ti,abs,appno,appdate,prino,inventor,assignee,app_gp,pexam,basic_count,nonpatent,references,citations,ipc,cpc,ecla,classc,fcode,mf,cf,family_count
+
+-ru("T3 LABORATORIES" OR
+"T3 Labs" OR
+"Taconic Biosciences" OR
+"TACONIC FARMS" OR
+"Tadbir Kalaye Jam Trading Company TKJ" OR
+"TAG Medical" OR
+"TAG MEDICAL DEVICES AGRICULTURE COOPERATIVE" OR
+"TAIHO ONCOLOGY INC" OR
+"TAIHO PHARMACEUTICAL" OR
+"TAISHO PHARMA TOYAMA CHEMICAL" OR
+"Taisho Toyama Pharmaceutical Co Ltd" OR
+"TAIWAN YU SHING BIOTECH" OR
+"Taiwan Yushing Biotech Co Ltd" OR
+"TAIYO NIPPON SANSO" OR
+"TAIYO NIPPON SANSO CORPORAITON" OR
+"TAIYO NIPPON SANSO CORPRATION" OR
+"TAKATA Pharmaceutical Co Ltd" OR
+"TAKATA SEIYAKU" OR
+"Tamro" OR
+"Tamro Estonia OU" OR
+"Tamro UAB" OR
+"TandemLife" OR
+"TANVEX BIOLOG" OR
+"TANVEX BIOLOGICS" OR
+"TANVEX BIOLOGICS JOLLA BIOLOGICS" OR
+"Tanvex BioPharma Inc" OR
+"TARTIS AGING" OR
+"Tartis Inc" OR
+"TCB" OR
+"TcLand Expression SA" OR
+"TCLAND R" OR
+"Techcomp Holdings Limited" OR
+"TECHCOMP INTERNAT" OR
+"TECHNIMARK" OR
+"TECHNO STAT IND" OR
+"Technology Consult Berlin GmbH" OR
+"Technopath" OR
+"TECHNOPATH DISTRIBUTION" OR
+"TECHNOPHAGE INVESTIG E DESENVOLVIMENTO EM BIOTECNOLOGIA SA" OR
+"TECHNOPHAGE INVESTIGA O E DESENVOLVIMENTO EM BIOTECNOLOGIA S A" OR
+"TECHNOPHAGE INVESTIGA O E DESENVOLVIMENTO EM BIOTECNOLOGIA SA" OR
+"TECHNOPHAGE INVESTIGACAO E DES" OR
+"TechnoPhage SA" OR
+"TechnoSTAT Ltd" OR
+"Tecno Farma SA" OR
+"TECNOFARMA" OR
+"Tegent" OR
+"TEGENT TIANJIN BIOLOG TECHNOLOGY" OR
+"TEI Medical Inc" OR
+"TEKNA" OR
+"Tekna Farmacia de Manipulacao Ltda" OR
+"Teknokroma Anlitica SA" OR
+"TEKNOKROMA S COOP CATALANA" OR
+"TEKNOKROMA S COOP CATALANA LTDA" OR
+"TELOS FHARMACEUTICALS" OR
+"TELOS PHARMACEUTICALS" OR
+"Telos Scientific LLC" OR
+"Tempsys" OR
+"TEMPTIME" OR
+"Tentamus QTS Analytical Ltd" OR
+"TERRY S FOX" OR
+"TESSENDERLO CHEM" OR
+"TESSENDERLO CHEM SA" OR
+"TESSENDERLO CHEMIE" OR
+"TESSENDERLO CHEMIE S A" OR
+"Tessenderlo Group" OR
+"TEVA PHARMACEUTICAL" OR
+"TEVA PHARMACEUTICAL INDUSTRIES" OR
+"TEVA PHARMACEUTICALS" OR
+"TEXAS A&M UNIVERSITY" OR
+"TFS" OR
+"Thalassaemia International Federation" OR
+"The Aftermarket Group" OR
+"The BioAnalytics Group LLC" OR
+"The Canadian Cord Blood bioRepository" OR
+"The Cancer Therapy and Research Center" OR
+"The Center for Assessment Technology and Continuous Health" OR
+"The Center for Pharmaceutical Research" OR
+"The Centre for Advanced Imaging" OR
+"The Centre For Prevention GIGIENA-MED Ltd" OR
+"The Chemical Division of Kowa Amerian Corporation" OR
+"THE CHEMO SERO THERAPEUTIC RESEARCH INSTITUE" OR
+"THE CHEMO SERO THERAPEUTIC RESEARCH INSTITUTE" OR
+"The Clinical Study Center" OR
+"THE DENTAL WAREHOUSE GROUP" OR
+"The DMS Group" OR
+"The Dolomite Centre Ltd" OR
+"The Donnelly Centre for Cellular and Biomolecular Research" OR
+"The Gatorade Company" OR
+"THE GEM CITY ENGINEERING" OR
+"THE GENERAL HOSPITAL A MASSACHUSETTS" OR
+"The Government Pharmaceutical Organization" OR
+"THE GOVERNMENT PHARMACEUTICAL ORGANIZATION RESEARCH AND DEVELOPMENT INSTITUTE" OR
+"The Ingredient Company" OR
+"THE INSTITUTE FOR RESEARCH IN BIOMEDICINE" OR
+"The International Biotechnology Center Generium" OR
+"The Jackson Laboratory" OR
+"THE LINDE GROUP" OR
+"The Medical Affairs Company" OR
+"The Menarini Group" OR
+"The Michael J  Fox Foundation for Parkinson's Research" OR
+"THE MURDOCH CHILDRENS RESEARCH INSTITUTE" OR
+"The Myositis Association" OR
+"The National Institute of Diabetes and Digestive and Kidney Diseases" OR
+"THE NATIVE ANTIGEN" OR
+"The Native Antigen Company Ltd" OR
+"The NHLS" OR
+"THE OHIO STATE UNIVERSITY" OR
+"The Orthopaedic Implant Company" OR
+"The OSUCCC ? James" OR
+"The Pipette Company" OR
+"THE PUBLIC HEALTH AGENCY OF CANADA" OR
+"The Purist Company Pty Ltd" OR
+"The Research and Development Center for Ophthalmic Innovations SILK" OR
+"The Sainsbury Laboratory" OR
+"The San Raffaele-Telethon Institute for Gene Therapy" OR
+"The SCOOTER Store" OR
+"The Terry Fox Research Institute" OR
+"THE TEXAS A & M UNIVERSITY" OR
+"THE TEXAS A AND M UNIVERSITY" OR
+"The Texas A&M Institute for Preclinical Studies" OR
+"The University of Queensland" OR
+"The University Of Tokyo" OR
+"THE UNIVERSITY OF TORONTO" OR
+"The Vaccine Research Institute" OR
+"THE WAND" OR
+"The Woundcare Company Inc" OR
+"Therabel" OR
+"Therabel Europe Limited" OR
+"THERABEL IND SA" OR
+"THERABEL INDUSTRIES S A" OR
+"THERABEL PHARMACEUTICALS" OR
+"THERABEL PHERMACEUTICALS" OR
+"Theraview Technology" OR
+"THERAWIS DIAGNOSTICS" OR
+"Therawis Pharma GmbH" OR
+"Thermi" OR
+"THERMO FISHER SCIENTIFIC" OR
+"Thoele Dental Laboratory" OR
+"Thoroughbred Remedies Manufacturing Limited" OR
+"THREE KINGS HOLDINGS" OR
+"Tianjin Sinobioway Biomedicine Co Ltd" OR
+"TIANJIN SPHINX SCIENTIFIC LAB" OR
+"TIANJIN TEDA PHARMACEUTICAL" OR
+"Tianjin Teda Steyuan Pharmaceutical Co Ltd" OR
+"Tianjin Zhongan Pharmaceutical Company Ltd" OR
+"TIB MOLBIOL GmbH" OR
+"TIF" OR
+"Timeline Bioresearch AB" OR
+"TissueBond" OR
+"TISSUEMED" OR
+"TISSUEMED LEEDS" OR
+"TISSUEMED LEEDS GB" OR
+"Titertek-Berthold" OR
+"TKJ" OR
+"TMA" OR
+"Tocris Bioscience" OR
+"TOHO HOLDINGS" OR
+"Tohoku Nipro Pharmaceutical Corporation" OR
+"Tollpharma" OR
+"TOR VM" OR
+"Toronto Recombinant Antibody Centre" OR
+"Torrent Pharma UK Ltd" OR
+"TORRENT PHARMACEUTICALS" OR
+"TOSHIBA MEDICAL SYSTEMS" OR
+"Toxikon Europe NV" OR
+"TRAC" OR
+"Trajan Scientific and Medical" OR
+"TRAJAN SCIENTIFIC AUSTRALIA PTY" OR
+"Transdermal Specialties Inc" OR
+"TRANSFERRA Nanosciences Inc" OR
+"Transgenic Rabbit Models" OR
+"Trapollo" OR
+"TREFF A G" OR
+"Treff AG" OR
+"TREFF AG PRAEZISIONSTEILE AUS THERMOPLAST DEGERSHEIM" OR
+"Triesta" OR
+"Trilogy Health Services" OR
+"TRIMEDAL AG" OR
+"TRIOLAB AB" OR
+"TrioxBio Inc" OR
+"TRIREME MEDICAL" OR
+"TRITON" OR
+"Triton Algae Innovations" OR
+"Trividia Manufacturing Solutions Inc" OR
+"TRM" OR
+"TRM Leipzig" OR
+"TSI" OR
+"TSL" OR
+"TSUMURA &" OR
+"TSUMURA AND" OR
+"Tsuruhara Pharmaceutical Co Ltd" OR
+"TSURUHARA SEIYAKU" OR
+"TURGUT İLACLARI A S" OR
+"Turgut Ilaclari AS" OR
+"Tuteur" OR
+"TUTEUR C A C I F I A LAB" OR
+"TUTEUR S A C I F I A" OR
+"Twin Star ECS" OR
+"TWIN STAR MEDICAL" OR
+"TWOWIN PHARMA" OR
+"TWOWINPHARMA CO LTD" OR
+"U S NUTRACEUTICALS D B A VALENSA INTERNATIONAL" OR
+"U S NUTRACEUTICALS DBA VALENSA INTERNATIONAL" OR
+"UAB Balticpharma" OR
+"UAS LABORATORIES" OR
+"UAS Labs" OR
+"UBC" OR
+"UBI" OR
+"Ubichem Research Ltd" OR
+"UC San Diego" OR
+"UC Santa Barbara" OR
+"UCB" OR
+"UConn Health" OR
+"UHS" OR
+"UK Stem Cell Bank" OR
+"UKHIFU Ltd" OR
+"UL" OR
+"UL MDT" OR
+"UL Medicines Ltd" OR
+"Ultra Pure Solutions Inc" OR
+"ULTRASIS INTERNATIONAL" OR
+"Ultrasis PLC" OR
+"ULTRASIS UK" OR
+"UMASS MEDICAL SCHOOL" OR
+"UMCG" OR
+"UNIConnect LC" OR
+"UNILABS TELELABS AS" OR
+"UNIMED" OR
+"UNIMED PHARM INC" OR
+"UNIMED PHARMA SPOL S R O" OR
+"UNIMED PHARMA SPOL SRO" OR
+"UNIMED PHARMACEUTICAL" OR
+"UNIMED PHARMACEUTICALS" OR
+"UNIMED SCIENTIFIC" OR
+"UNIMED SRL" OR
+"Unipex Solutions Canada" OR
+"United Bio Research Inc" OR
+"United Biochemicals" OR
+"United BioSource Corporation" OR
+"United Douglas Pharm Inc" OR
+"UNITED HEALTHCARE" OR
+"United Medical Industries Co Ltd" OR
+"United States Drug Testing Laboratories" OR
+"UNITRON" OR
+"Univalor" OR
+"Universal Cells Inc" OR
+"Universal for Technology Transfer" OR
+"Universal Health Services Inc" OR
+"Universal Hospital Services" OR
+"UNIVERSIDAD NACIONAL DE ROSARIO" OR
+"UNIVERSIDADE DE LISBOA" OR
+"UNIVERSITA DEGLI STUDI DE MILANO BICOCCA" OR
+"UNIVERSITA DEGLI STUDI DI MILANO BICOCCA" OR
+"UNIVERSITA DI MILANO BICOCCA" OR
+"UNIVERSITAET TUEBINGEN" OR
+"Universitas Gadjah Mada" OR
+"UNIVERSITAT LEIPZIG" OR
+"UNIVERSITÄT LEIPZIG" OR
+"UNIVERSITATSKLINIKUM REGENSBURG" OR
+"UNIVERSITE D AVIGNON" OR
+"UNIVERSITÉ D AVIGNON" OR
+"UNIVERSITY D AVIGNON" OR
+"UNIVERSITY GOTHENBURG" OR
+"University Hospital Regensburg" OR
+"UNIVERSITY LEIPZIG" OR
+"University Medical Center Groningen" OR
+"UNIVERSITY MILANO BICOCCA" OR
+"University Of Avignon" OR
+"UNIVERSITY OF CALIFORNIA AT SAN DIEGO" OR
+"UNIVERSITY OF CALIFORNIA AT SANTA BARBARA" OR
+"UNIVERSITY OF CALIFORNIA SAN DIEGO" OR
+"UNIVERSITY OF CALIFORNIA SANTA BARBARA" OR
+"UNIVERSITY OF CONNECTICUT HEALTH CENTER" OR
+"University of Gothenburg" OR
+"University of Lisbon" OR
+"University of Milano-Bicocca" OR
+"UNIVERSITY OF QUEENSLAND" OR
+"UNIVERSITY OF QUEENSLAND THE" OR
+"UNIVERSITY OF TASMANIA THROUGH THE MENZIES RESEARCH INSTITUTE" OR
+"UNIVERSITY OF THE QUEENSLAND" OR
+"UNIVERSITY OF TOKYO THE" OR
+"UNIVERSITY OF TORONTO" OR
+"University of Tuebingen" OR
+"UNIVERSITY TUEBINGEN" OR
+"UNIVERSITY YALE" OR
+"UNIVERSITY YALE SCHOOL OF MEDICINE" OR
+"UNOR AG" OR
+"UNOR Labor-Service" OR
+"UPS" OR
+"Uriach" OR
+"URIACH J" OR
+"URSAFARM Moscow" OR
+"URSAPHARM ARZNAIMITTEL & KG" OR
+"URSAPHARM ARZNEIMITTEL" OR
+"URSAPHARM ARZNEIMITTEL & KG" OR
+"URSAPHARM ARZNEMITTEL" OR
+"US Bioservices" OR
+"US DRUG TESTING LAB" OR
+"UTT" OR
+"Vaccine & Gene Therapy Institute of Florida" OR
+"VACCINE & INFECTIOUS DISEASE ORGANIZATION" OR
+"Valensa International" OR
+"VALENT BIOSCIENCE" OR
+"VALENT BIOSCIENCES" OR
+"Valent Canada Inc" OR
+"Valent de Mexico" OR
+"VALENT U S A" OR
+"VALENT USA" OR
+"Valera LLC" OR
+"VALIRX PLC" OR
+"ValiSeek" OR
+"Vall d'Hebron Research Institute" OR
+"VAMED Aktiengesellschaft" OR
+"VAMED KMB KRANKENHAUSMAN UND B" OR
+"VAMED KMB KRANKENHAUSMAN UND BETR SFÜHRUNGS GESMBH" OR
+"VAMED KMB KRANKENHAUSMANAGEMENT UND BETRIEBSFUEHRUNGS GESMBH" OR
+"VAMED KMB KRANKENHAUSMANAGEMENT UND BETRIEBSFÜHRUNGS" OR
+"Vancive Medical Technologies" OR
+"VANDERBILT UNIVERSITY MEDICAL CENTER" OR
+"Vanderbilt-Ingram Cancer Center" OR
+"VANTAGE" OR
+"VANTAGE SPECIALTY CHEMICALS" OR
+"VANTAGE SPECIALTY INGREDIENTS" OR
+"VAP" OR
+"Vaso Corporation" OR
+"VASO MEDICAL" OR
+"Vatsal Ayurvedic Products P Ltd" OR
+"Vaudaux-Eppendorf AG" OR
+"VaxServe Inc" OR
+"Vaxxilon AG" OR
+"VDI Laboratory" OR
+"VEOLIA ENVIRONNEMENT" OR
+"VEOLIA ENVIRONNEMENT RECH ET INNOVATION" OR
+"VEOLIA ENVIRONNEMENT VE" OR
+"VEOLIA ENVIRONNMENT VE" OR
+"VerGo Clinicals" OR
+"VERGO PHARMA RESEARCH LABORATORIES PVT" OR
+"Verium Diagnostics formerly SpineMatrix, Inc " OR
+"vermicon AG" OR
+"Verum Diagnostica GmbH" OR
+"VeruTech AB" OR
+"VETERINARY DIAGNOSTICS INSTITUTE" OR
+"ViCare Medical A/S" OR
+"Victorian Clinical Genetics Services" OR
+"VIDA PHARMA" OR
+"VIDA Pharma Pharmaceutical Manufacturing Inc" OR
+"VIDO-InterVac" OR
+"VIFOR FRESENIUS MEDICAL CARE RENAL PHARMA" OR
+"Villapharma Research SL" OR
+"VILNIAUS UNIVERSITETAS" OR
+"VINGMED" OR
+"VINGMED A S" OR
+"VINGMED AS" OR
+"VIPHARM S A LAB" OR
+"Vipharm Slovakia sro" OR
+"VIR" OR
+"VIRBAC" OR
+"Viscofan BioEngineering" OR
+"Visiometrics" OR
+"Vision Source" OR
+"Vistek Medical" OR
+"VITA 34 AG" OR
+"Vita Health Products Inc" OR
+"VitaCeutical Labs" OR
+"Vital Solutions GmbH" OR
+"VITAL SOLUTIONS SWISS AG" OR
+"VitaLys I/S" OR
+"VITAMEX" OR
+"Vitec Nutrition" OR
+"Vitesse Biologics LLC" OR
+"VIVAX" OR
+"Viveiro Flora Brasil" OR
+"VIVEIROS FLORA BRASIL LTDA ME" OR
+"VladMiVa" OR
+"Volcano AtheroMed Inc" OR
+"VRI" OR
+"VU Institute of Biotechnology" OR
+"VU University Medical Center" OR
+"VU UNIVERSITY MEDICAL CENTRE AMSTERDAM" OR
+"VUE TEK SCIENTIFIC" OR
+"VueTek Scientific" OR
+"VWR INTERNATIONAL" OR
+"VWR Lab Products Pvt Ltd" OR
+"VWR Singapore Ltd" OR
+"Wacker Biotech GmbH" OR
+"WACKER CHEMIE" OR
+"WACKER CHEMIE A G" OR
+"WACKER CHEMIE AG" OR
+"Waegener" OR
+"WAEGENER INTERNAT AG" OR
+"WAEGENER INTERNATIONAL AG" OR
+"Wako Chemicals GmbH" OR
+"Wako Chemicals USA Inc" OR
+"Wales Cancer Bank" OR
+"Walischmiller Engineering GmbH" OR
+"WALISCHMILLER HANS" OR
+"Wallace Pharmaceuticals Inc" OR
+"WALLACE PHARMACEUTICALS PVT" OR
+"WAMA Diagnostica" OR
+"WAMA PRODUTOS PARA LABORATÓRIO LTDA" OR
+"Wand Dental Inc" OR
+"Warner Instruments LLC" OR
+"Washington Biotechnology Inc" OR
+"WASSENBURG MEDICAL" OR
+"Wassenburg Medical Devices BV" OR
+"Waters Medical Systems LLC" OR
+"WATSON MARLOW" OR
+"Watson-Marlow Fluid Technology Group" OR
+"WBI" OR
+"WCB" OR
+"WEDGE THERAPEUTICS" OR
+"Wedge Therapeutics LLC" OR
+"Weifa AS" OR
+"WEIFANG HAPPY PHARMACEUTICAL" OR
+"WEIGAO GROUP" OR
+"WEIGAO GROUP SHANDONG" OR
+"WellCentive Inc" OR
+"Wellman Center for Photomedicine" OR
+"Werfen Germany" OR
+"WerfenLife" OR
+"WEST COAST SURGICAL" OR
+"Westcoast Surgical and Medical Supplies" OR
+"WESTROCK SOLUTIONS" OR
+"WestRock Switzerland Ltd" OR
+"WEYLCHEM FRANKFURT" OR
+"WeylChem International GmbH" OR
+"WEYLCHEM SWITZERLAND AG" OR
+"WEYLCHEM SWTIZERLAND AG" OR
+"WEYLCHEM WIESBADEN" OR
+"WHEN" OR
+"Whitehouse Labs" OR
+"WiCell" OR
+"WICELL RES INST" OR
+"WICELL RESEARCH INST" OR
+"WICELL RESEARCH INSTITUTE" OR
+"William Laboratories Inc" OR
+"Winship Cancer Institute" OR
+"WOLF G M B H RICHARD" OR
+"WOO YOUNG MEDICAL" OR
+"Woo Young Medical Co Ltd" OR
+"WOO YOUNG MEDICAL PAJU KYUNGGI KR" OR
+"World Courier Ground Europe Limited" OR
+"World Health Energy Holdings Inc" OR
+"World Medicine Ilac San ve Tic AS" OR
+"WORLD MEDICINE İLAÇ SANAYİ VE TİCARET ANONİM ŞİRKETİ" OR
+"WORLD MEDICINE ILAC SANAYI VE TICARET SIRKETI" OR
+"Wusuli River Pharmacy" OR
+"WUXI APPTEC" OR
+"Wyss Institute for Biologically Inspired Engineering" OR
+"X BACK BRACING SERVICES" OR
+"XBACK Bracing Services Inc" OR
+"Xcelience" OR
+"XCELRIS LAB" OR
+"XCELRIS LABS" OR
+"Xcelris Molecular Diagnostics" OR
+"XI AN HUI TIAN BLOOD PRODUCTS" OR
+"XI AN HUITIAN BLOOD PRODUCT" OR
+"XI AN HUITIAN BLOOD PRODUCTS" OR
+"XI AN MANARECO NEW MAT" OR
+"XI AN YUENSUN BIOLOGICAL TECH" OR
+"Xian Hui Tian Blood Products Co Ltd" OR
+"Xi'an Manareco New Materials Co Ltd" OR
+"Xian Yuensun Biological Technology Co Ltd" OR
+"Xieli" OR
+"XIN TECH" OR
+"XinTech Bio Sciences" OR
+"XUCHANG HAOFENG CHEMICAL TECH" OR
+"XUCHANG HAOFENG CHEMICAL TECHNOLOGY" OR
+"XuChangHaoFeng chemical technology Co LTD" OR
+"XYLEM" OR
+"Xylem Analytics" OR
+"XYLEM WATER SOLUTIONS" OR
+"Xymogen" OR
+"Yakuhan Pharmaceutical Co Ltd" OR
+"Yakult Central Institute for Microbiological Research" OR
+"YAKULT HONSAH" OR
+"YAKULT HONSHA" OR
+"Yale Cancer Center" OR
+"Yale Center for Molecular Discovery" OR
+"YALE SCHOOL OF MEDICINE" OR
+"YALE UNIVERSITY" OR
+"YALE UNIVERSITY SCHOOL OF MEDICINE" OR
+"YAMATO SCIENTIFIC" OR
+"Yamato Scientific America Inc" OR
+"Yamato Scientific Shanghai Corp" OR
+"YAMATO SCIENTIFIC TOKIO TOKYO JP" OR
+"Yancheng YouHua Pharmaceutical & Chemical Technology Co Ltd" OR
+"YAOPHARMA" OR
+"YaoPharma Co Ltd" OR
+"Yiling International" OR
+"YILING PHARMACEUTICAL SHIJIAZHUANG" OR
+"YINO PHARMA" OR
+"Yino Pharma Ltd" OR
+"Yisheng Biopharma Co Ltd" OR
+"YISHENG BIOPHARMA HOLDINGS" OR
+"YISHENG BIOPHARMA PTE" OR
+"YISHENG BIOPHARMA SINGAPORE PTE" OR
+"YMS" OR
+"Yolia Health" OR
+"YOO YOUNG PHARM" OR
+"YOOYOUNG Pharma Co Ltd" OR
+"York Bioanalytical Solutions Limited" OR
+"Yoshitomiyakuhin Corporation" OR
+"YOUHUA PHARMACEUTICAL" OR
+"YOUNG MICROBRUSH" OR
+"YOUTH CHEMICAL" OR
+"Youth Chemical Co Ltd" OR
+"YSI Life Sciences" OR
+"Ysterplaat Medical Supplies" OR
+"YU SHENG PHARMACEUTICAL" OR
+"YUAN SHI BIOTECHNOLOGY" OR
+"YUAN SHI SUQIAN BIOTECHNOLOGY" OR
+"Yuanshi Suqian Biotechnology Co Ltd" OR
+"YUNG SHIN PHARMA IND" OR
+"YUNG SHIN PHARMACEUTICAL" OR
+"YUNG SHIN PHARMACEUTICAL IND" OR
+"YUNGSHIN PHARM IND CARLSBAD TECHNOLOGY" OR
+"YUNGSHIN PHARM IND CO LTD" OR
+"YuSheng Pharmaceutical Co" OR
+"Y냐" OR
+"ZAKLADY FAMACEUTYCZNE POLPHARMA SA" OR
+"ZAKLADY FARM POLPHARMA SA" OR
+"ZAKLADY FARMACEUTYCZNE" OR
+"ZAKLADY FARMACEUTYCZNE POLPHARMA" OR
+"ZAKŁADY FARMACEUTYCZNE POLPHARMA S A" OR
+"Zaklady Farmaceutyczne UNIA Spoldzielnia Pracy" OR
+"ZAMBON" OR
+"Zambon Belgique" OR
+"Zambon Company SpA" OR
+"ZAMBON GROUP" OR
+"Zambon Nederland BV" OR
+"Zambon SAU" OR
+"Zambon Switzerland SA" OR
+"ZARBEES" OR
+"Zarbee's Inc" OR
+"Zavod Medsintez LLC" OR
+"ZEST ANCHORS" OR
+"ZHEJIANG CENWAY MAT" OR
+"ZHEJIANG CENWAY NEW SYNTHETIC MATERIAL" OR
+"ZHEJIANG CENWAY SYNTHETIC NEW MATERIAL" OR
+"ZHEJIANG RITZ MEDICAL ENGINEERING" OR
+"ZHEJIANG RUIBANG LAB" OR
+"ZIMMER BIOMET CMF AND THORACIC" OR
+"ZIMMER BIOMET SPINE" OR
+"ZOETIS" OR
+"Zoetis China" OR
+"Zoetis Croatia" OR
+"Zoetis Global Poultry" OR
+"Zoetis India Limited" OR
+"ZOETIS P" OR
+"Zoetis Philipines" OR
+"ZOLL International Holding BV" OR
+"ZOLL MEDICAL" OR
+"ZOLL Medical Australia" OR
+"ZOLL MEDICAL CORPOARATION" OR
+"ZOLL MEDICAL CORPORATON" OR
+"ZOLL Medical Deutschland GmbH" OR
+"ZOLL Medical France" OR
+"ZYMED" OR
+"ZYMED LABORATORIES" OR
+"ZYMED MEDICAL INSTRUMENTATION" OR
+"Zymed Medical Products Handel GmbH" OR
+"고마바이오텍 주" OR
+"명문제약" OR
+"명문제약 주식회사" OR
+"비엘엔에이치 주식회사" OR
+"삼익제약" OR
+"주 진올바이오테크놀러지" OR
+"주식회사 써지코어" OR
+"주식회사 케어젠" OR
+"주식회사 휴코드" OR
+"지시코 주식회사" OR
+"케어젠").app_gp. 
+
+-ket:/release/KISTI_PATENT_XML_EXPORT_2015
+-bwy

@@ -1,0 +1,471 @@
+-cn1000
+-au
+-tgi:/kisti/
+-ctt:/release/KISTI_PATENT_XML_EXPORT_2015/result
+-ftTEXT
+-efpno,pndate,pnkind,pncn,dockind,ti,abs,appno,appdate,prino,inventor,assignee,app_gp,pexam,basic_count,nonpatent,references,citations,ipc,cpc,ecla,classc,fcode,mf,cf,family_count
+
+-ru("O J S C VEROPHARM" OR
+"O M A R  S r l  Pharmaceutical Blister Solution" OR
+"Oak Therapeutics Inc" OR
+"OBSCHESTVO S OGRANICHENNOI OTVETSTVENNOSTIJU RADA PHARMA" OR
+"OBSCHESTVO S OGRANICHENNOI OTVETSTVENNOSTJU MEZHDUNARODNY BIOTEKHNOLOGICHESKY TSENTR GENERIUM" OR
+"OBSCHESTVO S OGRANICHENNOI OTVETSTVENNOSTJU MEZHDUNARODNY BIOTEKHNOLOGICHESKY TSENTR GENERIUM OOO MBTS GENERIUM" OR
+"OBSCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU OSTEROS BIOMEDIKA" OR
+"OBSCHESTVO S OGRANICHENNOY OTVETSTVENNOSTYOU PHARMAPARK" OR
+"OBSHCHESTVO S OGRANICHENNOJ OTVETSTVENNOST JU MEZHDUNARODNYJ BIOTEKHNOLOGICHESKIJ TSENTR GENERIUM" OR
+"OBSHCHESTVO S OGRANICHENNOJ OTVETSTVENNOST JU NIKOFARM" OR
+"OBSHCHESTVO S OGRANICHENNOJ OTVETSTVENNOST JU TOR VM" OR
+"OBSHCHESTVO S OGRANICHENNOJ OTVETSTVENNOST JU TSENTR PROFILAKTIKI GIGIENA MED" OR
+"OBSHCHESTVO S OGRANICHENNOJ OTVETSTVENNOST JU ZAVOD MEDSINTEZ" OR
+"OBSHCHESTVO S OGRANICHENNOJ OTVETSTVENNOSTJU MEZHDUNARODNYJ BIOTEKHNOLOGICHESKIJ TSENTR GENERIUM" OR
+"OBSHCHESTVO S OGRANICHENNOJ OTVETSTVENNOSTYU VLADMIVA" OR
+"OCI" OR
+"OCTANE BIOTECH" OR
+"Octane Medical Group" OR
+"OHIO STATE UNIVERSITY THE" OR
+"OHIOHEALTH" OR
+"OHM Pharmaceuticals Labs Pvt Ltd" OR
+"OIC" OR
+"OJSC VEROPHARM" OR
+"OKAN UNIVERSITESI" OR
+"OKAN ÜNİVERSİTESİ YENİLİKÇİ TASARIM MERKEZİ" OR
+"Okan University" OR
+"OKLAHOMA MEDICAL RESEARCH FOUNDATION" OR
+"OKOPHARM FORSCHUNGS UND ENTWIC" OR
+"OKOPHARM FORSCHUNGS UND ENTWICKLUNG S" OR
+"OKOPHARM FORSCHUNGS UND ENTWICKLUNGS" OR
+"Okopharm GmbH" OR
+"OLFERT LANDT TIB MOLBIOL SYNTH" OR
+"OLIC Thailand Limited" OR
+"OMAR S R L" OR
+"OMAR S R L PARMA" OR
+"OMAR SRL" OR
+"OMEGA PHARMA" OR
+"OMI" OR
+"OMRF" OR
+"ONCODNA SA" OR
+"Oncology Services International" OR
+"OncoPlex Diagnostics" OR
+"Oncovision" OR
+"ONCOVISION GENERAL EQUIPMENT FOR MEDICAL IMAGING S A" OR
+"Ondine Biomedical Inc" OR
+"ONDINE TECH" OR
+"ONE DROP DIAGNOSTICS SÃ€RL" OR
+"ONE DROP DIAGNOSTICS SARL" OR
+"ONE DROP DIAGNOSTICS SÀRL" OR
+"OneNet PPO LLC" OR
+"OOO TSENTR PROFILAKTIKI GIGIENA MED" OR
+"OOO VIPS MED" OR
+"OPC" OR
+"OPEN JOINT STOCK PHARMSYNTHEZ" OR
+"OPERATING ROOM SAFETY ENTERPRISES" OR
+"OPI" OR
+"OPKO HEALTH" OR
+"OPL" OR
+"OPMEDIC Group Inc" OR
+"Oppenheimer Urologic Reference Laboratory" OR
+"OPTIMAL MEDICAL" OR
+"Optimal Medical Products Pte Ltd" OR
+"OPTIMAL MEDICAL TECH" OR
+"Optimum Mobile Imaging" OR
+"Opto Circuits India Ltd" OR
+"OPTUM" OR
+"OptumRx Inc" OR
+"OR SAFETY Enterprises LLC" OR
+"Oral Arts Dental Laboratory" OR
+"ORAL ARTS LABORATORY" OR
+"Orange Drugs Limited" OR
+"ORANGE GROUP" OR
+"Ordain Health Care Global Pvt Ltd" OR
+"OREGON HEALTH & SCIENCE UNIVERSITY" OR
+"OREGON HEALTH AND SCIENCE UNIVERSITY" OR
+"OREGON HEALTH SCIENCE UNIVERSITY" OR
+"OREGON HEALTH&SCIENCE UNIVERSITY" OR
+"Oriola" OR
+"ORIOLA KD" OR
+"Oriola OOO" OR
+"ORIOLA OY" OR
+"ORMED" OR
+"Ormed Medical Technology Limited" OR
+"Orofino Biopharma" OR
+"Orofino Injectalia" OR
+"OROFINO PHARMACEUTICALS GROUP S R L" OR
+"OROFINO PHARMACEUTICALS GROUP SRL" OR
+"Orpegen Peptide Chemicals GmbH" OR
+"Orphan Australia Pty Ltd" OR
+"Ortho Molecular Products Inc" OR
+"ORTHO SELECT IMPLANT TECHNOLOGY GESELLSCHAFT FUER MEDIZINALTECHNIK MBH" OR
+"ORTHO SELECT IMPLANT TECHNOLOGY GESELLSCHAFT FÜR MEDIZINALTECHNIK MBH" OR
+"ORTHOCYTE" OR
+"Orthonika" OR
+"OrthoSera GmbH" OR
+"Orthotic Centre NZ Limited" OR
+"ORTOWAY AB" OR
+"OSCAR BOSCAROL SRL" OR
+"Osho Pharma Pvt Ltd" OR
+"OSI" OR
+"OSIO D B A YOLIA HEALTH" OR
+"OSPEDALE SAN RAFFAELE" OR
+"OSPEDALE SAN RAFFAELE S R L" OR
+"OSPEDALE SAN RAFFAELE SLR" OR
+"OSPEDALE SAN RAFFAELE SRL" OR
+"OSSTEM IMPLANT" OR
+"OsteoVantage Inc" OR
+"Oster Chemical & Pharmaceutical Works Pvt Ltd" OR
+"OTKRYTOE AKTSIONERNOE OBSCHESTVO NAUCHNO TEKHNICHESKY TSENTR RATEK" OR
+"OTKRYTOE AKTSIONERNOE OBSCHESTVO PHARMSYNTHEZ" OR
+"Otogenetics Corporation" OR
+"OTOMED" OR
+"OTSUKA PHARMACEUTICAL" OR
+"Outpost Medicine" OR
+"Oviya MedSafe Pvt Ltd" OR
+"OVOS Natural Health" OR
+"OWL MANOR MEDICAL" OR
+"P T KALBE FARMA" OR
+"P T KALBE FARMA JAKARTA" OR
+"P212121 LLC" OR
+"P2D" OR
+"P-95" OR
+"Pacific Immunology" OR
+"PAKHEIM PHARMA" OR
+"PALEX MEDICAL" OR
+"PALEX MEDICAL S A" OR
+"Palsons Derma" OR
+"PAMLICO PHARMACEUTICAL" OR
+"Panjin Green Biological Development Co Ltd" OR
+"PANNONPHARMA GYOGYSZERGYARTO KFT" OR
+"PANNONPHARMA GYÓGYSZERGYÁRTÓ KFT" OR
+"PANO-VAC Inc" OR
+"Papgene Inc" OR
+"PAR PHARMACEUTICAL" OR
+"PARACEL" OR
+"Paragon Scientific Limited" OR
+"PARAMIT" OR
+"PAREXEL INTERNATIONAL" OR
+"PARI" OR
+"Particle Analytical ApS" OR
+"PARTNERS HEALTHCARE RESEARCH VENTURES & LICENSING" OR
+"PARTNERS HEALTHCARE SYSTEM" OR
+"PATH Malaria Vaccine Initiative" OR
+"PAUL HARTMANN" OR
+"PAUL HARTMANN A G" OR
+"PAUL HARTMANN AG" OR
+"PB Gelatins Belgium" OR
+"PB GELATINS FRANCE SA" OR
+"PBM PHARMACEUTICALS" OR
+"PCA Skin" OR
+"PCAS" OR
+"PCG" OR
+"PDH Pharmaceuticals Pvt Ltd" OR
+"PDI" OR
+"PEACCEL" OR
+"Pediatric Praziquantel Consortium" OR
+"PEDIATRIX MEDICAL GROUP" OR
+"PEI" OR
+"Pengzhou Maoyuan Biochemical Technology Co Ltd" OR
+"PEP-Therapy" OR
+"PEQLAB BIOTECHNOLOGIE" OR
+"Percell Biolytica" OR
+"Perelman School of Medicine" OR
+"Perfusion com Inc" OR
+"PERKINELMER" OR
+"PERKINELMER INFORMATICS" OR
+"PES" OR
+"PETROVAX" OR
+"Pet-Vet Ltd" OR
+"PetVivo Holdings Inc" OR
+"PFANNENSCHMIDT" OR
+"PFANNENSCHMIDT 2000 HAMBURG" OR
+"PFANNENSCHMIDT 2000 HAMBURG DE" OR
+"PFM S P A" OR
+"pfm SA S A" OR
+"PHARMA 5 LAB" OR
+"PHARMA BASE S A" OR
+"Pharma Clinical SAG 2003 Ltd" OR
+"Pharma Ethics Ltd" OR
+"PHARMA FORCE PHARMAZEUTISCHE PRODUKTIONS ENTWICKLUNGS UND HANDELS" OR
+"Pharma Integra Limited" OR
+"Pharmaceutical Innovations Inc" OR
+"Pharmaceutical Project Solutions Inc" OR
+"Pharmaceutical Technologies International Inc" OR
+"PHARMACHEM LABORATORIES" OR
+"Pharmacoidea Ltd" OR
+"Pharmacos Biopharmaceutical Services LLC" OR
+"Pharma-Cos Ltd" OR
+"PHARMACTIVE ILAÇ SANAYI VE TICARET A Ş" OR
+"PHARMACTIVE İLAÇ SANAYI VE TICARET A Ş" OR
+"PHARMACTIVE ILAÇ SANAYI VE TLCARET A Ş" OR
+"PharmaDirections Inc" OR
+"PHARMALOG Institut fur klinische Forschung GmbH" OR
+"PHARMANEL COMMERCIAL PHARMACEUTICAL SA" OR
+"PHARMANEL PHARMACEUTICAL COMMERCIAL AND INDUSTRIAL S A" OR
+"PHARMANIAGA BERHAD" OR
+"Pharmapar Inc" OR
+"PharmaPraxis" OR
+"PHARMAQ AS" OR
+"PHARMARON BEIJING" OR
+"PHARMAS D O O" OR
+"Pharmasolve Specialities I PVT LTD" OR
+"Pharmasum Therapeutics AS" OR
+"Pharmasyntez" OR
+"Pharmstandard JSC" OR
+"Phi Therapeutics" OR
+"PHIBRO ANIMAL HEALTH" OR
+"Philimmune LLC" OR
+"PHILIPS" OR
+"Philips Burton" OR
+"PHILIPS KONINKLIJKE" OR
+"Philips Respironics" OR
+"Phoenix Dental Inc" OR
+"PHOENIX GROUP" OR
+"PHOENIX ORTHOPAEDIC" OR
+"Phoenix Pharma Central Services S Pte Ltd" OR
+"Physician Therapeutics" OR
+"Physicians Choice Dialysis" OR
+"Physiogenex SAS" OR
+"Phytomer" OR
+"PI" OR
+"PIC" OR
+"PIL" OR
+"PIONEER BIOTECH" OR
+"PIPELINE BIOTECH A S" OR
+"Piveg Inc" OR
+"PIVOTAL SOFTWARE" OR
+"PJK GmbH" OR
+"PK PETERS KRIZMAN SA" OR
+"PLANMECA" OR
+"Pliant Therapeutics" OR
+"PLP" OR
+"PLT Health Solutions" OR
+"PLUMAT PLACE & LUBECK &" OR
+"PLUMAT PLATE & LUBECK" OR
+"PLUMAT PLATE & LUBECK &" OR
+"PLUMAT PLATE & LUBECK & C" OR
+"POC Clinical Research Inc" OR
+"POCT BIOTECHNOLOGY" OR
+"POCT DX" OR
+"POCT DX BIOTECH" OR
+"Polleo Pharma Limited" OR
+"Polymedco Inc" OR
+"POLYMEDICS" OR
+"Polyorganix" OR
+"POS Bio-Sciences" OR
+"PouraTeb Pharmaceutical Co" OR
+"PPC" OR
+"PPP" OR
+"PPT" OR
+"PRAXIS" OR
+"Precikot Pharma Pvt Ltd" OR
+"PRECISA A G" OR
+"PRECISA AG" OR
+"Preome Ltd" OR
+"Prescott's Inc" OR
+"PRESIDENT AND FELLOWS OF HARVARD COLLEGE" OR
+"Prevest Denpro Limited" OR
+"PRI" OR
+"PRIDE MOBILITY PRODUCTS" OR
+"PRIDE MOBILITY PRODUCTS AUSTRALIA PTY" OR
+"PRIDE MOBILITY PRODUCTS CORPORTION" OR
+"Primary Wound Care Specialists LLC" OR
+"PRIME PHARMACEUTICAL" OR
+"Prime Pharmaceuticals Company" OR
+"Prime Time Medical" OR
+"PrimeGene" OR
+"Prism Life Sciences Ltd" OR
+"PRL Central Laboratory Services" OR
+"PRM" OR
+"PRM Lifesciences" OR
+"PRN" OR
+"PRN Pharmaceutical Research Network LLC" OR
+"PRO PAC PACKAGING PTY" OR
+"Procamed AG" OR
+"PROCARE HEALTH BARCELONA S L" OR
+"PROCARE HEALTH IBERIA S L" OR
+"Procelltech Srl" OR
+"PROCLARX" OR
+"PROCYON PHARMACEUTICALS" OR
+"Prodivet pharmaceuticals sa/nv" OR
+"ProductLife Group" OR
+"Professional Therapy Associates" OR
+"PROFIL" OR
+"Profil Institut fur Stoffwechselforschung GmbH" OR
+"Profil Institute for Clinical Research Inc" OR
+"Progenics Cord Blood Cryobank" OR
+"PROGENIKA BIOPHARMA S A" OR
+"PROGENIKA BIOPHARMA SA" OR
+"Progenika Inc" OR
+"PROGENITOR LABS" OR
+"Progenitor Life Sciences" OR
+"Progenus" OR
+"Pro-Lab Diagnostics" OR
+"ProMedDx LLC" OR
+"PROMETIC BIO THERAPEUTICS" OR
+"PROMETIC BIOSCENCES" OR
+"PROMETIC BIOSCIENCES" OR
+"PROMETIC BIOTHERAPEUTICS" OR
+"Propath UK Limited" OR
+"ProRetina Therapeutics SL" OR
+"Prostate Oncology Specialists Inc" OR
+"Protagenic Therapeutics Inc" OR
+"PROTEOBRAS DESENVOLVIMENTO BIOTECNOLAGICO LTDA" OR
+"ProteoNic" OR
+"PROTEONOMIX" OR
+"PROTEX INTERNATIONAL" OR
+"PROTON Impex 2000 SRL" OR
+"PROVECTO SISTEMAS ANALITICOS LTDA" OR
+"Proveri Inc" OR
+"Provet" OR
+"PRS" OR
+"PRZEDSIEBIORSTWO PRODUKCJI FARMACEUTYCZNEJ HASCO LEK S A" OR
+"PRZEDSIEBIORSTWO PRODUKCJIFARMACEUTYCZNEJ HASCO LEK S A" OR
+"PRZEDSIEBIORSTWO PRODUKCYJNO WDROZENIOWE IFOTAM SP Z O O" OR
+"PRZEDSIĘBIORSTWO PRODUKCYJNO WDROŻENIOWE IFOTAM SP Z O O" OR
+"PSA" OR
+"PSC Biotech" OR
+"PSI" OR
+"PSI CRO AG" OR
+"PSL" OR
+"PSO Laboratory LLC" OR
+"Psoria-Shield Inc" OR
+"PSP" OR
+"PSW" OR
+"PT Arico Sainsindo Nusantara" OR
+"PT Bernofarm" OR
+"PT KALBE PHARMA" OR
+"PT Mersifarma Tirmaku Mercusana" OR
+"PT  TEGUHSINDO LESTARITAMA" OR
+"PTRX" OR
+"PTS" OR
+"PUBLIC HEALTH AGENCY OF CANADA" OR
+"PURAPHARM" OR
+"Putnam Plastics Corporation" OR
+"PVS MERIDIAN CHEMICALS" OR
+"QDS" OR
+"QIAGEN" OR
+"QMAB co" OR
+"QPL" OR
+"QRC" OR
+"QRC Consultants Ltd" OR
+"QSI" OR
+"QSynth" OR
+"QTS ANALYTICAL" OR
+"Quality Clinical Research Inc" OR
+"Quality Compliance Laboratories" OR
+"Quality Home Health Care" OR
+"Quality Pharmaceutical Laboratory Ltd" OR
+"Quantum Northwest Inc" OR
+"QUANTUM PHARMACEUTICAL" OR
+"Quercus Labo bvba" OR
+"Quest Biomedical Limited" OR
+"QUEST DIAGNOSTICS" OR
+"QUINCY BIOSCIENCE" OR
+"QUINCY BIOSCIENCE LIC" OR
+"QuinXell Technologies Pte Ltd" OR
+"Quotient Clinical" OR
+"QUOTIENT DIAGNOSTICS" OR
+"Radicura Pharmaceuticals Pvt LTD" OR
+"Radiology 24/7" OR
+"Radiology Imaging Associates" OR
+"RADLINK" OR
+"RadNet Inc" OR
+"Rainbow Light Nutritional Systems" OR
+"Rakesh Pharmaceuticals" OR
+"RapidAssays ApS" OR
+"Rapross Pharmaceuticals P Ltd" OR
+"Ratan Ayurvedic Sansthan" OR
+"Ray Pharma Pvt Limited" OR
+"Rayere" OR
+"Rcadia Medical Solutions Ltd " OR
+"RCR" OR
+"RDT" OR
+"Ream Surgical" OR
+"REANAL FINOMVEGYSZERGYAAR HU" OR
+"REANAL FINOMVEGYSZERGYAR BUDAPEST HU" OR
+"REANAL FINOMVEGYSZERGYAR HU" OR
+"Reanal Laboratory Chemicals LLC" OR
+"Reanal Private Ltd" OR
+"REANAL^FINOMVEGYSZERGYAR ^^ HU" OR
+"RECIPROCAL LABS D B A PROPELLER HEALTH" OR
+"Recombio" OR
+"Recorders & Medicare Systems Pvt Ltd" OR
+"Redwood Toxicology Laboratory" OR
+"REDX PHARMA" OR
+"REDX PHARMA PLC" OR
+"RegenerAge SAPI de CV" OR
+"Regulatory Pharma Net Srl" OR
+"Regulatory Resources Group Ltd" OR
+"RehaxOne SA" OR
+"REICHERT TECHNOLOGY SA" OR
+"Reliable Medical Supply Inc" OR
+"RELIANCE LIFE SCIENCES" OR
+"Reliant Rehabilitation" OR
+"Renaissance Clinical and Translational Science Institute" OR
+"Research & Development RA SA" OR
+"Research Pharmaceutical Limited" OR
+"Research Toxicology Centre SpA" OR
+"ResearchDx" OR
+"Respimedic Sdn Bhd" OR
+"RESTECH" OR
+"Rester" OR
+"Retort Pharmaceuticals P Ltd" OR
+"Reva Pharmachem P Ltd" OR
+"REVEEX DE VENEZUELA C A LAB" OR
+"Revital Healthcare EPZ Limited" OR
+"REVITOPE" OR
+"Revive BioScience Inc" OR
+"RIA" OR
+"RICHARD WOLF G M B H" OR
+"Richardson Seeds Ltd" OR
+"RICHCORE LIFE SCIENCES PVT" OR
+"RICHCORE LIFESCIENCES PVT" OR
+"Richmond Pharmacology" OR
+"Rigas Farmaceitiska Fabrika AS" OR
+"RIGAS LABS SA" OR
+"Right Med Bio System" OR
+"Rigi Medizintechnik GmbH" OR
+"RiMO Therapeutics LLC" OR
+"RIPHARMA" OR
+"Ritter Implants" OR
+"RMO" OR
+"RMS" OR
+"Robertson Microlit Laboratories Inc" OR
+"ROCHE HOLDING AG" OR
+"ROCHE HOLDING AG BASEL" OR
+"Rochem International Inc" OR
+"Rockwood Clinic" OR
+"ROCKWOOD LITHIUM" OR
+"Rocky Mountain Instrumental Laboratories" OR
+"Rohto-Mentholatum Research Laboratories" OR
+"ROIVANT HEPATOLOGY" OR
+"Romen Pharma" OR
+"ROMSONS SCIENTIFIC & SURGICAL INDUSTRIESPVT" OR
+"Rondaxe" OR
+"RONGCHANG PHARMACEUTICAL" OR
+"RONGCHANG PHARMACEUTICAL ZIBO" OR
+"RONGCHANG PHARMACEUTICS YANTAI CITY" OR
+"Rongda Pharm & Chem Co Ltd" OR
+"RONTIS HELLAS S A" OR
+"Roper Technologies Inc" OR
+"ROQUETTE FRERES" OR
+"Roquette Klotze GmbH & Co KG" OR
+"ROSA" OR
+"Rosa & Co LLC" OR
+"Roselabs Bioscience Ltd" OR
+"Ross’ Gold" OR
+"ROTAM" OR
+"Rox San Pharmacy" OR
+"Royal Biotech" OR
+"RPB" OR
+"RPI" OR
+"RRC" OR
+"RS Synthesis LLC" OR
+"RTC" OR
+"RTI INTERNATIONAL" OR
+"Ruetschi Technology AG" OR
+"Rugby Laboratories" OR
+"Ruger Chemical" OR
+"RX Healthcare Systems Ltd").app_gp. 
+
+-ket:/release/KISTI_PATENT_XML_EXPORT_2015
+-bwy

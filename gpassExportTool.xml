@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<project name="dddd" default="main">
+	<property name="version" value="0.0.2b" />
+    <property name="src.dir" value="./" />
+    <property name="target.dir" value="d:/release/KISTI_PATENT_XML_EXPORT_2015" />
+    <property name="target.top" value="d:/release/" />
+   
+	<!-- TASK 등록 (nsis를 사용할수 있도록 하는 TASK) -->
+	<tstamp>
+		<format property="TODAY" pattern="yyyy-MM-dd hh-mm-ss" locale="ko,KR" />
+	</tstamp>
+
+	<target name="makeDir">
+		<delete dir="${target.dir}" failonerror="false" includeemptydirs="true" />
+		<mkdir dir="${target.dir}" />
+	</target>
+
+	<!-- jar �� -->
+	<target name="makeJar" depends="makeDir">
+		<jar destfile="${target.dir}/lib/gpass_export_tool-${version}.local.jar" update="true">
+			<fileset dir="${src.dir}/bin/">
+				<include name="com/diquest/**" />
+				 <include name="log4j.xml" />
+			</fileset>
+		</jar>
+	</target>
+
+	<target name="copyFile" depends="makeJar">
+		<copy todir="${target.dir}/lib" preservelastmodified="true" verbose="true">
+			<fileset dir="${src.dir}/lib/">
+			     <include name="**/**" />
+			</fileset>
+		</copy>
+		<copy todir="${target.dir}/work" preservelastmodified="true" verbose="true">
+            <fileset dir="${src.dir}/work/">
+                 <include name="**/**" />
+            </fileset>
+        </copy>
+        <copy todir="${target.dir}/data" preservelastmodified="true" verbose="true">
+            <fileset dir="${src.dir}/data/">
+                 <include name="**/**" />
+            </fileset>
+        </copy>
+		<copy todir="${target.dir}" preservelastmodified="true" verbose="true">
+			<fileset dir="${src.dir}">
+				<include name="*.sh" />
+			</fileset>
+		</copy>
+	</target>
+
+	<target name="main" depends="copyFile">
+	</target>
+</project>

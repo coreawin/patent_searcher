@@ -1,0 +1,93 @@
+[특허검색식 작업 안내문]
+
+1. gpass.kisti.re.kr 에 로그인
+
+2. 검색식 작업 팁
+ - Advanced Search 에서 검색
+ - 주로 and , or 연산자를 활용하여 검색식을 작성하며 영어로 작성함. 
+ - 검색식에서 wildcard (*, ?) 는 적용한 검색엔진에서 안먹히는 경우가 있어서 가능한 사용하지 말라고 함.
+ - 출원일: APDATE=(20130101-20201231)   최근 8년 
+ - 특허 발행청 : AU=(US)   미국특허만 대상으로 함.
+ - 문서유형: DTYPE=(P OR U)   특허와 실용신안 
+ - 특허를 이용해서 고용경제효과를 계산하므로 특허가 최소한 한 건은 나오는 것이 좋음.
+ - 실제 데이터 다운로드는 개발자와 협의하여 일괄 다운로드 받는 것으로 계약되어 있으나 개발자가 검색식의 오류까지 검토하지는 않으므로 오류없는 검색식을 제출해야 함.
+ - 검색식을 엑셀로 저장하는 과정에서 큰따옴표의 모양이 이상하게 변경되는 경우가 있어서 엑셀양식을 버리고 텍스트 양식을 선택하게 되었음. 
+ 
+3. 제출 내용
+ - 중분류 코드, 검색식, 검색건수   : 코드별 검색식과 검색건수도 제출해야 실제로 개발자가 다운로드한 건수와 비교해서 정확도를 점검할 수 있음.
+ - 텍스트 에디터 (울트라에디터, Notepad++ 등) SW에서 작성하여 제출 (*.txt 파일로)
+
+4. 개발자가 다운로드해서 주는 파일의 명칭 형식 :   정밀의료_T01.txt  
+
+
+=========== [ 분과명: 스마트팜 ] 중분류코드별 특허검색식 및 건수 =============
+
+T01	환경정보측정: 28건
+AU=(US) APLT=(Y) DTYPE=(P OR U) APDATE=(20130101-20201231) TI=((("sensing" or sensor* or measur* or monitor* or detect*) and (air or meteorological or light or lighting or "carbon dioxide" or co2 or climate or weather or frost or rainfall or snowfall or rain or oxigen or oxygen or O2 or ammonia)) or "quantum meter" or psychrometer* or hygrometer* or thermometer* or "carbon dioxide detector") and AB=(agricultur* or farm* or greenhouse* or crop* or fruit* or vegetable* or livestock or husbandry or "domestic animal" or cultiva* or culture or harvest)
+
+T02	복합환경제어: 16건
+AU=(US) APLT=(Y) DTYPE=(P OR U) APDATE=(20130101-20201231) TI=(("sensor" and "data fusion") or "sensor fusion" or " Multi sensor" or " Multi sensors" or "automatic control" or "hybrid control" or "hybrid environmental control") and AB=(agricultur* or farm* or greenhouse* or crop* or fruit* or vegetable* or livestock or husbandry or "domestic animal" or cultiva* or culture or harvest)
+
+T03	관수관비측정: 50건
+AU=(US) APLT=(Y) DTYPE=(P OR U) APDATE=(20130101-20201231) TI=(("sensing" or sensor* or measur* or monitor* or detect*) and ("electrical conductivity" or prssure or pH or ion or subirrigation or irrigation or "nutrient solution" or soil or substrate) ) and AB=(agricultur* or farm* or greenhouse* or crop* or fruit* or vegetable*)
+
+T04	스마트관수관비제어: 69건
+AU=(US) APLT=(Y) DTYPE=(P OR U) APDATE=(20130101-20201231) TI=((control or controls or management or "model" or "modeling" or predict* or warning) and ("electrical conductivity" or prssure or pH or ion or subirrigation or irrigation or "nutrient solution" or soil or substrate)) and AB=(agricultur* or farm* or greenhouse* or crop* or fruit* or vegetable*)
+
+T05	급이·급수측정/제어: 11건
+AU=(US) APLT=(Y) DTYPE=(P OR U) APDATE=(20130101-20201231) TI=((measure or sensor or sensing or inspect or instrumentation or monitor or detect or control or management) and (feed or feedstuff or forage or fodder or irrigration or supplyand)) and AB=(livestock or husbandry or animal)
+
+T06	냉난방공조제어: 88건
+AU=(US) APLT=(Y) DTYPE=(P OR U) APDATE=(20130101-20201231) TI=("heating" or "cooling" or "heat pump" or VENTILATION or "Air Distribution" or "Air conditioning" or "conditioning equipment" or "Air handling" or "Energy Management" or "Energy monitoring") and AB=(agricultur* or farm* or greenhouse* or crop* or fruit* or vegetable* or livestock or husbandry or "domestic animal" or cultiva* or culture or harvest)
+
+T07	생체·사양정보측정: 27건
+AU=(US) APLT=(Y) DTYPE=(P OR U) APDATE=(20130101-20201231) TI=(("growth" or "ripening" or physiolog* or photosynthesis or malnutrition or sugar or evaporation or "stock keeping" or "rate of gain") and ("sensing" or sensor* or measur* or monitor* or detect*)) and AB=(agricultur* or farm* or greenhouse* or crop* or fruit* or vegetable* or livestock or husbandry or "domestic animal" or cultiva* or culture or harvest)
+
+T08	스마트농작업기계: 1,465건
+AU=(US) APLT=(Y) DTYPE=(P OR U) APDATE=(20130101-20201231) TI=(equipment or machiner* or tractor* or vehicle* or conveyor* or harvester* or combine* or transplanter* or "harnesting machine" or car or "weeding robot" or "weeding robots" or milking or "collecting egg" or feed or compost) and AB=(agricultur* or farm* or greenhouse* or crop* or fruit* or vegetable* or livestock or husbandry or "domestic animal" or cultiva* or culture or harvest)
+
+T09	병해충·건강진단측정: 31건
+AU=(US) APLT=(Y) DTYPE=(P OR U) APDATE=(20130101-20201231) TI=(("sensing" or sensor* or measur* or monitor* or detect* or diagonosis) and (pest or symptom or disease or INVASIVE or PATHOGENICITY or HEXAPODA or BEMISIA or FRANKLINIELLA or TRIALEURODES or BOTRYTIS or WHITEFLY or BACILLUS or BEAUVERIA or FUSARIUM or TRICHODERMA or virus or insect or bacteria)) and AB=(agricultur* or farm* or greenhouse* or crop* or fruit* or vegetable* or livestock or husbandry or "domestic animal" or cultiva* or culture or harvest)
+
+T10	병해충·건강관리: 220건
+AU=(US) APLT=(Y) DTYPE=(P OR U) APDATE=(20130101-20201231) TI=((control or controls or management or remov* or prevent* or prescription or fumigat* or "unattended sprayer" or pesticide) and (Arthropods or infected or pest or symptom or disease or INVASIVE or PATHOGENICITY or HEXAPODA or BEMISIA or FRANKLINIELLA or TRIALEURODES or BOTRYTIS or WHITEFLY or BACILLUS or BEAUVERIA or FUSARIUM or TRICHODERMA or antifungal or antagonistic or virus or insect or bacteria)) and AB=(agricultur* or farm* or greenhouse* or crop* or fruit* or vegetable* or livestock or husbandry or "domestic animal" or cultiva* or culture or harvest)
+
+T11	스마트상품선별: 21건
+AU=(US) APLT=(Y) DTYPE=(P OR U) APDATE=(20130101-20201231) TI=(sort* or classif* or infrared or select or categorize) and AB=((quality or grade or weight or shape or color or "sugar content" or size or bulk or "Nondestructive assessment" or "DEFECT DETECTION" or "hyperspectral imaging" or "defect inspection") and (agricultur* or farm* or greenhouse* or crop* or fruit* or vegetable* or livestock or husbandry or "domestic animal" or cultiva* or culture or harvest))
+
+T12	장기저장패키징기술: 70건
+AU=(US) APLT=(Y) DTYPE=(P OR U) APDATE=(20130101-20201231) TI=((Packag* or store or stroage or maintain) and (fresh* or "long term" or extended or quality or crop* or fruit* or vegetable* or product* or food or "expiration date" or "shelf life" or "expiry date")) and AB=(agricultur* or farm* or greenhouse* or crop* or fruit* or vegetable*)
+
+T13	폐쇄형생산기술: 7건
+AU=(US) APLT=(Y) DTYPE=(P OR U) APDATE=(20130101-20201231) TI=("vertical farm" or "plant factory" or "closed plant" or "closed type" or "closen system") and AB=(agricultur* or farm* or greenhouse* or crop* or fruit* or vegetable* or livestock or husbandry or "domestic animal" or cultiva* or culture or harvest)
+
+T14	멀티센싱기반지능형제어: 9건
+AU=(US) APLT=(Y) DTYPE=(P OR U) APDATE=(20130101-20201231) TI=("Complex Sensor" or "Complex Sensors" or "INTEGRATed SENSORS" or "INTEGRATed SENSOR" or "multiple sensor" or "multiple sensors" or "intelligent control" or "intelligent environmental control") and AB=(agricultur* or farm* or greenhouse* or crop* or fruit* or vegetable* or livestock or husbandry or "domestic animal" or cultiva* or culture or harvest)
+
+T15	인공지능팜봇: 12건
+AU=(US) APLT=(Y) DTYPE=(P OR U) APDATE=(20130101-20201231) TI=(chatbot or talkbot or farmbot or "interactive agent" or "agricultural robot" or CONVERSATIONAL or "speech recognition" or manipulator or pilotless or agbot) and AB=(agricultur* or farm* or greenhouse* or crop* or fruit* or vegetable* or livestock or husbandry or "domestic animal" or cultiva* or culture or harvest)
+
+T16	스마트에너지: 168건
+AU=(US) APLT=(Y) DTYPE=(P OR U) APDATE=(20130101-20201231) TI=(((renewable or wind or BIODIESEL or HYDROGEN or "SOLAR ENERGY" or solar or geotherm* or wave or hydrogen or waste or tidal or biomass or zero or smart) and (energy or power)) or bioenergy or "fuel cell") and AB=(agricultur* or farm* or greenhouse* or crop* or fruit* or vegetable* or livestock or husbandry or "domestic animal" or cultiva* or culture or harvest)
+
+T17	수자원유기물재이용: 23건
+AU=(US) APLT=(Y) DTYPE=(P OR U) APDATE=(20130101-20201231) TI=(("organic" and (reuse or recycl* or reclaim* or use or uptake)) or  ((water or wastewater or "Waste water")and (reuse or recycl* or reclaim* or purif* or desalinat*))) and (AB=(agricultur* or farm* or greenhouse* or crop* or fruit* or vegetable*) or TI=(agricultur* or farm* or greenhouse* or crop* or fruit* or vegetable*))
+
+T18	맞춤형기능성분제어: 12건
+AU=(US) APLT=(Y) DTYPE=(P OR U) APDATE=(20130101-20201231) TI=("food processing" or fortification or Biofortification or "Bio-fortification" or (food and enrichment) or bioavailability or bioactivity) and (AB=(agricultur* or farm* or greenhouse* or crop* or fruit* or vegetable*) or TI=(agricultur* or farm* or greenhouse* or crop* or fruit* or vegetable*))
+
+T19	나노바이오센싱: 167건
+AU=(US) APLT=(Y) DTYPE=(P OR U) APDATE=(20130101-20201231)  TI=("Nano-Biosensor" or NanoBiosensor* or "Nano-Biosensors" or (nano* and Biosens*) or micro or sensor) and (AB=(agricultur* or farm* or greenhouse* or crop* or fruit* or vegetable*) or TI=(agricultur* or farm* or greenhouse* or crop* or fruit* or vegetable*)) 
+
+T20	환경정보통합처리플랫폼: 2건
+AU=(US) APLT=(Y) DTYPE=(P OR U) APDATE=(20130101-20201231) TI=(((("sensing" or sensor* or measur* or monitor* or detect* or control or controls or management or "model" or "modeling" or predict* or warning) and (air or meteorological or light or lighting or "carbon dioxide" or co2 or climate or weather or frost or rainfall or snowfall or rain or "electrical conductivity" or prssure or pH or ion or subirrigation or irrigation or "nutrient solution" or soil or substrate)) or "quantum meter" or psychrometer* or hygrometer* or thermometer* or "carbon dioxide detector" or ("sensor" and "data fusion") or "sensor fusion" or " Multi sensor" or " Multi sensors")) and (AB=((agricultur* or farm* or greenhouse* or crop* or fruit* or vegetable*) and platform*) or TI=((agricultur* or farm* or greenhouse* or crop* or fruit* or vegetable*) and platform*))
+
+T21	빅데이터플랫폼: 5건
+AU=(US) APLT=(Y) DTYPE=(P OR U) APDATE=(20130101-20201231) TI=(((("growth" or "ripening" or physiolog* or photosynthesis or malnutrition or sugar or evaporation or "growth and development") and ("sensing" or sensor* or measur* or monitor* or detect* or observat* or "noticing")) or ((yield or "production amount" or "growth") and ("model" or "modeling" or predict* or simulat* or forecast*)))) and (AB=((agricultur* or farm* or greenhouse* or crop* or fruit* or vegetable* or livestock or husbandry or "domestic animal" or cultiva* or culture or harvest) and platform*) or TI=((agricultur* or farm* or greenhouse* or crop* or fruit* or vegetable* or livestock or husbandry or "domestic animal" or cultiva* or culture or harvest) and platform*))
+
+T22	생산성최적관리플랫폼: 5건
+AU=(US) APLT=(Y) DTYPE=(P OR U) APDATE=(20130101-20201231) TI=(((Arthropods or infected or pest or symptom or disease or INVASIVE or PATHOGENICITY or HEXAPODA or BEMISIA or FRANKLINIELLA or TRIALEURODES or BOTRYTIS or WHITEFLY or BACILLUS or BEAUVERIA or FUSARIUM or TRICHODERMA)) or (("sensing" or sensor* or measur* or monitor* or detect* or control or controls or management or "model" or "modeling" or predict* or warning or optimiz* or surveilla* or manage*) and (equipment or machiner* or tractor* or vehicle* or conveyor* or harvester* or combine* or transplanter* or "harnesting machine" or car or "weeding robot" or "weeding robots")))) and (AB=((agricultur* or farm* or greenhouse* or crop* or fruit* or vegetable*) and platform*) or TI=((agricultur* or farm* or greenhouse* or crop* or fruit* or vegetable*) and platform*))
+
+T23	수확후농산물스마트관리플랫폼: 26건
+AU=(US) APLT=(Y) DTYPE=(P OR U) APDATE=(20130101-20201231) TI=("post harvest" or postharvest or post-harvest) and (AB=(agricultur* or farm* or greenhouse* or crop* or fruit* or vegetable*) or TI=(agricultur* or farm* or greenhouse* or crop* or fruit* or vegetable*))
+

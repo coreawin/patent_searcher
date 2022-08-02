@@ -1,0 +1,4 @@
+[2022.04.21]
+	-  com.diquest.patent.searcher._2021.external.PatentSearcher_2021
+	- #LIMIT, #ABS 검색식에 추가
+	- refNo 번호에 국가코드가 없어서 오류나는 현상 수정

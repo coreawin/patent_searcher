@@ -1,0 +1,29 @@
+-cn1000
+-au
+-tgi:/kisti/
+-ctt:/release/KISTI_PATENT_XML_EXPORT_2015/result
+-ftTEXT
+-efpno,pndate,pnkind,pncn,dockind,ti,abs,appno,appdate,prino,inventor,assignee,app_gp,pexam,basic_count,nonpatent,references,citations,ipc,cpc,ecla,classc,fcode,mf,cf,family_count
+
+-ru(
+"H & J" OR
+"H&J CRO International Inc" OR
+"H  Dam Kaergaard A/S" OR
+"H  Medica Argentina" OR
+"H?REL Corporation" OR
+"HACKENSACK UNIVERSITY MEDICAL CENTER" OR
+"HALMA PLC" OR
+"Hammersmith Medicines Research" OR
+"Hampford Research" OR
+"HANS WALISCHMILLER" OR
+"HANSTEEL GROUP HANBAO IRON & STEEL" OR
+"HARBIN PHARM GROUP SANJING PHARMACEUTICAL NUOJIE" OR
+"Harbin Pharma Group Sanjing Pharmaceutical Co Ltd" OR
+"HARBIN PHARMACEUTICAL GROUP SANJING PHARMACEUTICAL" OR
+"HARVARD APPARATUS" OR
+"HARVARD COLLEGE PRESIDENT AND FELLOWS OF" OR
+"HASKELL" OR
+"HAVEL S").app_gp. 
+
+-ket:/release/KISTI_PATENT_XML_EXPORT_2015
+-bwy

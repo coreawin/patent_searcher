@@ -1,0 +1,34 @@
+-cn1000
+-au
+-tgi:/kisti/
+-ctt:/release/KISTI_PATENT_XML_EXPORT_2015/result
+-ftTEXT
+-efpno,pndate,pnkind,pncn,dockind,ti,abs,appno,appdate,prino,inventor,assignee,app_gp,pexam,basic_count,nonpatent,references,citations,ipc,cpc,ecla,classc,fcode,mf,cf,family_count
+
+-ru(
+
+"HENRY SCHEIN" OR
+"HHP HOME HEALTH PRODUCTS" OR
+"HID" OR
+"HK Korea Co Ltd" OR
+"HKKOREA" OR
+"HLI CELLULAR THERAPEUTICS" OR
+"HMA" OR
+"HMR" OR
+"HOME DIAGNOSTICS" OR
+"home health products GmbH" OR
+"HomeChoice Partners Inc" OR
+"HOVEROUND" OR
+"HPI" OR
+"HRI" OR
+"HSM" OR
+"HTE" OR
+"hte GmbH" OR
+"HUCORD" OR
+"HUMANA" OR
+"HUNAN KEYUAN BIO PRODUCTS" OR
+"HUREL"
+).app_gp. 
+
+-ket:/release/KISTI_PATENT_XML_EXPORT_2015
+-bwy

@@ -1,0 +1,455 @@
+-cn1000
+-au
+-tgi:/kisti/
+-ctt:/release/KISTI_PATENT_XML_EXPORT_2015/result
+-ftTEXT
+-efpno,pndate,pnkind,pncn,dockind,ti,abs,appno,appdate,prino,inventor,assignee,app_gp,pexam,basic_count,nonpatent,references,citations,ipc,cpc,ecla,classc,fcode,mf,cf,family_count
+
+-ru("BAKER HEART AND DIABETES INSTITUTE" OR
+"ONE DROP DIAGNOSTICS SRL" OR
+"ZYMED LAB" OR
+"Pi Patient interaction" OR
+"1Drop Diagnostics" OR
+"3 Kings Holding Limited" OR
+"3 QBD" OR
+"3QBD" OR
+"A & D" OR
+"A & G PHARMACEUTICAL" OR
+"A & T" OR
+"A & Z PHARMACEUTICAL ZHONGSHAN" OR
+"A &D" OR
+"A AND G PHARMACEUTICAL" OR
+"A C E M S P A" OR
+"A K TEK" OR
+"A LINE" OR
+"A M SYSTEMS S A" OR
+"A MENARINI INDUSTRIE FARMACEUTICHE RIUNITE" OR
+"A MENARINI INDUSTRIE FARMACEUTICHE RIUNITE S R" OR
+"A MENARINI INDUSTRIE FARMACEUTICHE RIUNITE S R L" OR
+"A MENARINI INDUSTRIE FARMACEUTICHE RIUNITE SRL" OR
+"A Service A Plus LLC" OR
+"A V MEDICAL TECHNOLOGIES" OR
+"A&D Company Limited" OR
+"A&G PHARMACEUTICAL" OR
+"A&G Pharmaceutical Inc" OR
+"A&T Corporation" OR
+"A&Z Pharmaceutical Inc" OR
+"A&Z Pharmaceutical LLC" OR
+"A K  TEK MEDIZINTECHNIK" OR
+"A/S Den norske Eterfabrikk" OR
+"A+ Science AB" OR
+"ACCU SCIENCE" OR
+"AccuScience Ireland Ltd" OR
+"ACEM SpA" OR
+"ACINO AG" OR
+"ACP" OR
+"ACPHARM" OR
+"ACTELION PHARMACEUTICALS" OR
+"Acuherb Marketing International Corporation" OR
+"AD REM TECHNOLOGY" OR
+"ADCOCK INGRAM" OR
+"ADCS" OR
+"ADD TECH" OR
+"Addtech AB" OR
+"ADHEREX TECHNOLOGIES" OR
+"ADI" OR
+"Adiagene" OR
+"ADMECO AG" OR
+"ADVANCED BIONICS" OR
+"Aesculap Chifa Sp z oo" OR
+"AGI" OR
+"Agilux Laboratories Inc" OR
+"AK KIM KIMYA SANAYI VE TICARET ANONIM SIRKETI" OR
+"Ak-Kim Kimya Sanayi ve Ticaret AS" OR
+"ALA" OR
+"ALA Scientific Instruments Inc" OR
+"Alexandria Compounding Pharmacy" OR
+"ALFRESA PHARAMA" OR
+"ALFRESA PHARMA" OR
+"ALine Inc" OR
+"ALLERGAN" OR
+"ALLMED MEDICAL PRODUCTS" OR
+"ALLMED MEDICAL PRODUCTS TRADING" OR
+"ALMIRALL S A" OR
+"ALMIRALL SA" OR
+"ALS THERAPY DEVELOPMENT INSTITUTE" OR
+"ALTAN" OR
+"ALVOGEN KOREA" OR
+"Alvogen Romania" OR
+"Alzheimer's Disease Cooperative Study" OR
+"A-M Systems" OR
+"AMCA PHARM LAB" OR
+"Amcapharm Pharmaceutical GmbH" OR
+"AMCO" OR
+"Amdipharm Mercury Company Limited" OR
+"AMERISOURCEBERGEN" OR
+"AMGA" OR
+"AMGEN" OR
+"AMIC" OR
+"AMNEAL PHARMACEUTICALS" OR
+"AmniSure International LLC" OR
+"AMPLIFON" OR
+"AmpliGeneIndia Biotech Pvt Ltd" OR
+"AMR" OR
+"AMRI" OR
+"AN EX ANALYTICAL SERVICES" OR
+"AN EX ANALYTICAL SERVICES LIMI" OR
+"ANAND MEDICAIDS PRIVATE" OR
+"Anceta LLC" OR
+"Anelixis Therapeutics LLC" OR
+"An-eX analytical services ltd" OR
+"ANGLO FRENCH DRUGS AND INDUSTRIES" OR
+"Anglo-French Drugs & Industries Limited" OR
+"Animated Dynamics Inc" OR
+"ANPARIO PLC" OR
+"ANS" OR
+"ANTIGENICS & UNIVERSITY OF CONNECTICUT HEALTH CENTER USA" OR
+"AOR" OR
+"AP" OR
+"API HEALTHCARE" OR
+"APLUS SCIENCE AB" OR
+"Apoplogic Pharmaceuticals Inc" OR
+"Apothecaries" OR
+"AppliChem GmbH" OR
+"APPLIED VISUAL SCIENCES" OR
+"APS" OR
+"Aps Biotech Pvt Ltd" OR
+"Arab Company for Drug Industries & Medical Appliances" OR
+"ARAB FOR DRUG IND AND" OR
+"ARAI MEDPHOTON RES LAB" OR
+"ARAI MEDPHOTON RES LABORATORIES" OR
+"ARAI MEDPHOTON RESEARCH LABORATORIED" OR
+"ARAI MEDPHOTON RESEARCH LABORATORIES" OR
+"Arai-Medphoton Research Laboratories Corporation" OR
+"ARANDA PHARMA" OR
+"Aranda Pharma Ltd" OR
+"ARBIN PHARMACEUTICAL GROUP SANJING PHARMACEUTICAL HOLDINGS" OR
+"ARISTO PHARMA" OR
+"ARIVIS AG" OR
+"Arizona Nutritional Supplements" OR
+"ARRHYTHMIA RESEARCH TECHNOLOGY" OR
+"Arya Tina Gene" OR
+"AS Oriola" OR
+"ASAHI GLASS" OR
+"ASAHI ROENTGEN IND" OR
+"ASAHI ROENTGEN KOGYO" OR
+"AsahiRoentgen Ind Co Ltd" OR
+"ASAP" OR
+"ASCO" OR
+"ASH INGREDIENTS" OR
+"ASPEN" OR
+"Association Fran?aise contre les Myopathies" OR
+"ASSOCIATION FRANCAISE CONTRE LES MYOPATHIES" OR
+"ASSOCIATION FRANCAISE CONTRE LES MYOPATHIES PARIS" OR
+"ASSOCIATION FRANCAISE CONTRE LES MYOPATHIES PARIS FR" OR
+"AssuraMed" OR
+"ASTELLAS PHARMA" OR
+"ATG" OR
+"ATLANTIC PRO NUTRIENTS DBA XYMOGEN" OR
+"Auxano Biomedical LLC" OR
+"AV Medical Technologies Ltd" OR
+"AV THERAPEUTICS" OR
+"AVERY DENNISON" OR
+"AVTherapeutics" OR
+"AXELACARE HOLDINGS" OR
+"AXONAL" OR
+"AZELIS DEUTSCHLAND KOSMETIK" OR
+"B & D Electromedical LTD" OR
+"B & P" OR
+"B & S" OR
+"B & W" OR
+"B BRAUN" OR
+"B E MARUBISHI" OR
+"B SYS" OR
+"B&C Group sa" OR
+"B&P Company Inc" OR
+"B&S Group" OR
+"B&W SRL" OR
+"B E MARUBISHI Thailand Co Ltd" OR
+"B‘SYS GmbH" OR
+"Bactlab Diagnostics Ltd" OR
+"Bahrain Pharma" OR
+"BAKER HEART RESEARCH INSTITUTE" OR
+"Baker IDI Central Australia" OR
+"BAKER IDI HEART & DIABETES INSTITUTE" OR
+"BAKER IDI HEART AND DIABETES" OR
+"Bangkok Cytogenetics Center Co Ltd" OR
+"Bangkok Inter Products" OR
+"BAR ILAN UNIVERSITY" OR
+"BARENBRUG USA" OR
+"BARILAN UNIVERSITY" OR
+"Bar-Ilan University" OR
+"BAT" OR
+"BAUSCH" OR
+"Bausch Advanced Technology Inc" OR
+"BBGR SA" OR
+"BBI SOLUTIONS OEM" OR
+"BCC" OR
+"BCT" OR
+"BD" OR
+"BDS" OR
+"Beantown Chemical Corporation" OR
+"Beaverstate Dental Systems" OR
+"BEIERSDORF" OR
+"BEIERSDORF A G" OR
+"BEIERSDORF AG" OR
+"BEIERSDORF AG DE" OR
+"BEIJING HUAWEI BRAVOBIO" OR
+"BEIJING STEELLEX BIOLOG TECHNOLOGY" OR
+"BEIJING STEELLEX BIOLOGICAL TECHNOLOGY" OR
+"BEIJING STEELLEX BIOTECHNOLOGY" OR
+"Beltone" OR
+"BELTONE HEARING AID" OR
+"BERPU MEDICAL TECH" OR
+"BERTHOLD DETECTION SYSTEMS" OR
+"BERTHOLD DETECTION SYSTEMS GMB" OR
+"BETA CAT PHARMACEUTICALS" OR
+"BetaCat Pharmaceuticals Inc" OR
+"BI" OR
+"BIB" OR
+"BIO BOTANICA" OR
+"BIO MEDICAL SERVICES" OR
+"BIO PRODUCTS" OR
+"Bio Products Inc" OR
+"BIO SCIENTIFIC" OR
+"BIO TECH" OR
+"BIO TECHNE" OR
+"BIOCHECK" OR
+"Bio-Check UK Ltd" OR
+"BIO-CHECK LABORATORIES LTD" OR
+"Bio-Collagen Technologies Sdn Bhd" OR
+"BIOFARMA" OR
+"BIOGAL PHARMACEUTICAL" OR
+"BIOGAL PHARMACEUTICALS" OR
+"Biogal, Galed Labs Acs Ltd" OR
+"BIOGENESYS" OR
+"Bio-Genesys Ltd" OR
+"Bio-India Biologicals Bib Corporation" OR
+"BIOJECT" OR
+"BIOJECT MEDICAL TECHNOLOGIES" OR
+"BIOJECT MEDICAL TECHNOLOGIES I" OR
+"BIOLIK" OR
+"Biological Industries Israel Beit-Haemek Ltd" OR
+"Bio-Medical Services" OR
+"BioMedion GmbH" OR
+"BIOMENDI SAU" OR
+"BIOMERIEUX" OR
+"bioMerieux Suisse SA" OR
+"BIOMERIEUX S A" OR
+"BIOMERIEUX SA" OR
+"BIOMERIEUX SA FR" OR
+"BIONUCLEONICS" OR
+"Bio-Nucleonics" OR
+"BioScientific Pty Ltd" OR
+"BIOSCRIP" OR
+"BioServe Biotechnologies India Pvt Ltd" OR
+"Biostatem" OR
+"BIOSYNTHESIS" OR
+"Bio-Synthesis Inc" OR
+"Bio-Tech Consulting Ltd" OR
+"BIOTECHRABBIT" OR
+"BIOTELEMETRY TECHNOLOGY APS" OR
+"BIOTIME" OR
+"BIP" OR
+"BL" OR
+"BL&H Co Ltd" OR
+"BLACKTRACE HOLDINGS" OR
+"Blue Ash Therapeutics LLC" OR
+"BM" OR
+"BOBC" OR
+"BODE TECHNOLOGY GROUP" OR
+"BODY ORGAN BIOMEDICAL" OR
+"BODY ORGAN BIOMEDICAL CORPORATIO" OR
+"BodyLogic Internacional SA de CV" OR
+"Boffo - Ipsen Tianjin Pharmaceutical Co Ltd" OR
+"BOSCAROL PRODUCTION S R L" OR
+"Boucart Medical" OR
+"BP" OR
+"Brainshake Ltd" OR
+"BREAS MEDICAL AB" OR
+"BREAS MEDICAL AB GOETEBORG SE" OR
+"BRINGWELL INTERNATIONAL AB" OR
+"BRISTOL MYERS SQUIBB" OR
+"BROOKS AUTOMATION" OR
+"BRT" OR
+"BSN MEDICAL" OR
+"BTC" OR
+"Burleson Research Technologies" OR
+"BURTON" OR
+"C & J INDUSTRIES" OR
+"C & O Pharmaceutical Technology Holdings Limited" OR
+"C & O PHARMACEUTICAL TECHNOLOGY HOLDINGS" OR
+"C R BARD" OR
+"C&J Industries" OR
+"CA BOTANA INTERNATIONAL INC" OR
+"CAB" OR
+"Cable & Tubing Solutions GmbH" OR
+"CABLON MEDICAL" OR
+"CALDIC DEUTSCHLAND CHEMIE" OR
+"Calea France" OR
+"CAN MED" OR
+"CANCER GENETICS" OR
+"Cancer Science Institute of Singapore" OR
+"CANCER THERAPY & RESEARCH CENTER" OR
+"CANCER THERAPY AND RESEARCH CENTER" OR
+"Cancer Trials Australia" OR
+"CAN-med Healthcare" OR
+"CAP" OR
+"Capillary Film Technology Ltd" OR
+"CAPSUGEL" OR
+"CARBOGEN AMCIS AG" OR
+"CARDIACASSIST" OR
+"CARDINAL HEALTH" OR
+"Cardinova AB" OR
+"CardioNexus Corporation" OR
+"CAREGEN" OR
+"Caremark Rx Inc" OR
+"Care-Tech Laboratories Inc" OR
+"Cargen co Ltd" OR
+"CATALENT AUSTRALIA PTY" OR
+"CATALENT CTS" OR
+"CATALENT JAPAN" OR
+"CATALENT PHARMA SOLUTIONS" OR
+"CATAMARAN" OR
+"CCA" OR
+"CCBR A S" OR
+"CCBR AS" OR
+"CCM" OR
+"CCRM" OR
+"Celeris doo" OR
+"Celesio AG" OR
+"Celimmune LLC" OR
+"CELL PHARM GESELLSCHAFT FÜR PHARMAZEUTISCHE UND DIAGNOSTISCHE PRÄPARATE MBH" OR
+"cell pharm GmbH" OR
+"CellSight Technologies Inc" OR
+"Cemelog Ltd" OR
+"CENTENE" OR
+"CENTRE FOR COMMERCIALIZATION OF REGENERATIVE MEDICINE" OR
+"Centre national de biologie experimentale" OR
+"CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE" OR
+"CFT" OR
+"Chang Zhou Rui Ming Pharmaceutical Co Ltd" OR
+"Changing Times Vitamins, Inc  CTVX" OR
+"CHANGZHOU RUI MING PHARMACEUTICAL" OR
+"CHANGZHOU RUIMING PHARMACEUTICAL" OR
+"CHARLES RIVER LABORATORIES" OR
+"CHART" OR
+"CHART BIOMEDICAL" OR
+"CHART IND" OR
+"CHART INDUSTRIES" OR
+"Chart-MVE" OR
+"Chelab Silliker" OR
+"Chelated Minerals International" OR
+"CHEM MASTER INTERNATIONAL" OR
+"CHEM MET" OR
+"Chemaid Laboratories Inc" OR
+"Chemical Company of Malaysia Bhd" OR
+"Chem-Master International Inc" OR
+"ChemMet LLC" OR
+"CHEMO SERO THERAPEUTIC RESEARCH INST" OR
+"CHEMO SERO THERAPEUTIC RESEARCH INSTITUT" OR
+"CHEMO SERO THERAPEUTIC RESEARCH INSTITUTE" OR
+"Chengdu Easyhealth Technology Co Ltd" OR
+"CHENGDU SINO STRONG PHARMACEUTICAL" OR
+"Chengdu Sino-Strong Pharmaceutical Co Ltd" OR
+"CHEST M I" OR
+"Chest MI Inc" OR
+"China Berpu Medical Technology Co Ltd" OR
+"CHINA CHEMICAL & PHARMACEUTICAL" OR
+"China Chemical & Pharmaceutical Co Ltd" OR
+"CHINA NATIONAL BLUESTAR" OR
+"China National BlueStar Group Co Ltd" OR
+"CHINA NATIONAL BLUESTAR GROUP" OR
+"China National Group Corp of Traditional & Herbal Medicine" OR
+"CHINA NATIONAL GROUP OF TRADITIONAL & HERBAL MEDICINE" OR
+"CHINA NATIONAL GROUP OF TRADITIONAL &HERBAL MEDICINE" OR
+"CHINA NATIONAL GROUP OF TRADITIONAL AND HERBAL MEDICINE" OR
+"CHOICE SPINE L P" OR
+"CHOICE SPINE LP" OR
+"ChoiceSpine" OR
+"CHONGQING CHUANDONG CHEMICAL GROUP" OR
+"Chromosomal Labs Bode Technology" OR
+"Ci Medical Technologies Inc" OR
+"CIPLA" OR
+"Cirina Inc" OR
+"CIS" OR
+"CLEAR CUT MEDICAL" OR
+"ClearCut Medical" OR
+"CLH" OR
+"Clinical Conduct Associates Ltd" OR
+"Clinical Investigation Specialists Inc" OR
+"Clinical Labs of Hawaii" OR
+"Clinical Medicine Infomatics India Pvt Ltd" OR
+"Clinical Network Services CNS Pty Ltd" OR
+"Clinical Pathology Laboratories Southeast" OR
+"Clinical Trial Assistance Programs" OR
+"ClinicalRM" OR
+"CliniRx Tangent Research India Pvt Ltd" OR
+"CLOVER" OR
+"CMI" OR
+"CNS" OR
+"CO MA DI S" OR
+"CO MA DI S SPA" OR
+"COA" OR
+"COLLAGEN SOLUTIONS NZ" OR
+"COLLAGEN SOLUTIONS PLC" OR
+"COLUMBIA LABORATORIES" OR
+"Community Oncology Alliance" OR
+"COMPANHIA NITRO QUIMICA BRASILEIRA" OR
+"Company_Name" OR
+"COMS" OR
+"COMS Interactive LLC" OR
+"CONCORDIA INTERNATIONAL AB" OR
+"CONSOLIDATED INDUSTRIES" OR
+"Consorci Sanitari de Terrassa" OR
+"Consumer Product Testing Co Inc" OR
+"Continucare Corporation" OR
+"Contract Pharmacal Corp" OR
+"CONVATEC" OR
+"CONVATEC TECH" OR
+"CONVATEC TECHNOLOGIES" OR
+"CONVATEC TECHONOLOGIES" OR
+"COOPERSURGICAL" OR
+"COREALIS Pharma" OR
+"CORPORATE SPONSORED RESEARCH AND LICENSING FOR MASSACHUSETTS GENERAL HOSPITAL PARTNERS HEALTHCARE SYSTEM" OR
+"COVANCE" OR
+"COX COMMUNICATIONS" OR
+"CPC" OR
+"CPL" OR
+"CPR" OR
+"CPT" OR
+"CREATE" OR
+"CReATe Cord Blood Bank" OR
+"CREMER" OR
+"CRESSET BIOMOLECULAR DISCOVERY" OR
+"CRESSET THERAPEUTICS" OR
+"CROSS BAY MEDICAL" OR
+"CROSS CHEM" OR
+"CrossBay Medical Inc" OR
+"CrossChem LP" OR
+"CRYO SAVE AG" OR
+"CS BIO" OR
+"CSBio Company Inc" OR
+"CSI" OR
+"CSM" OR
+"CST" OR
+"CTA" OR
+"CTL" OR
+"CTR" OR
+"CTS" OR
+"CTV" OR
+"CURE PHARMACEUTICAL" OR
+"CVS" OR
+"CVS PHARMACY" OR
+"Cyprotex" OR
+"Cyrcadia Health" OR
+"CytoGlobe GmbH" OR
+"CYTONOME" OR
+"CYTONOME ST" OR
+"CYTONOME ST ILC" OR
+"CytonomeST LLC" OR
+"CYTOPATHFINDER" OR
+"CytoPathfinder Inc").app_gp. 
+
+-ket:/release/KISTI_PATENT_XML_EXPORT_2015
+-bwy

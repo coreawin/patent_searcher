@@ -1,0 +1,75 @@
+-cn1000
+-au
+-tgi:/kisti/
+-ctt:/release/KISTI_PATENT_XML_EXPORT_2015/result
+-ftTEXT
+-efpno,pndate,pnkind,pncn,dockind,ti,abs,appno,appdate,prino,inventor,assignee,app_gp,pexam,basic_count,nonpatent,references,citations,ipc,cpc,ecla,classc,fcode,mf,cf,family_count
+
+-ru(
+"G TREEBNT" OR
+"Gadea Grupo Farmaceutico" OR
+"GATC Biotech AG" OR
+"GBT" OR
+"GC AESTHETICS" OR
+"GC AESTHETICS MANUFACTURING" OR
+"GEFA" OR
+"GEISTLICH PHAMA AG" OR
+"GEISTLICH PHARMA AG" OR
+"Geistlich Surgery" OR
+"GEM CITY ENGINEERING" OR
+"GEM CITY ENGINEERING THE" OR
+"GEN BIO" OR
+"GeneAll Biotechnology Co Ltd" OR
+"GeneInsight" OR
+"GENERAL HOSPITAL A MASSACHUSETTS" OR
+"General Research Laboratory Inc" OR
+"GeneSeek Inc" OR
+"Genetic Improvement and Farm Technologies Sdn Bhd" OR
+"GENETICS" OR
+"Genfar SA" OR
+"Genhelix" OR
+"GenoLogics" OR
+"GENOTYPE" OR
+"Geno-Type Biotechnology" OR
+"Georges Walther AG" OR
+"Geospiza Inc" OR
+"GESTION UNIVALOR" OR
+"GESTION UNIVALOR S E C" OR
+"GESTION UNIVALOR SOCIÉTÉ EN COMMANDITE" OR
+"GETINGE" OR
+"Ghanada Optical" OR
+"GIFT" OR
+"GlucoSense Diagnostics Ltd" OR
+"GLYCOM A S" OR
+"GLYCOM AS" OR
+"Glycosan BioSystems Inc" OR
+"GOG" OR
+"GOOD LITE" OR
+"GORDIAN HOLDING" OR
+"GRACE MEDICAL" OR
+"GRAIL" OR
+"GREEN MATE" OR
+"GreenMate Biotech Corp" OR
+"GREYSTONE PHARMACEUTICALS" OR
+"GRL" OR
+"Grupo Biotoscana" OR
+"GRUPO CH WERFEN S A" OR
+"Grupo Farmasierra SL" OR
+"Grupo Ferrer Internacional SA" OR
+"Grupo Neolpharma" OR
+"Grupo SIM" OR
+"Grupo Taper SA" OR
+"Grupo Venta Internacional SA de CV" OR
+"GtreeBNT Co Ltd" OR
+"Guangxi Liucheng Chuandong Chemical Co Ltd" OR
+"Guangxi Liucheng Chuandong Phosphorus Chemical Co Ltd" OR
+"Guangzhou JunKang Biotech Co Ltd" OR
+"GUANGZHOU RIBOBIO" OR
+"Guangzhou RiboBio Co Ltd" OR
+"GUY & O NEILL" OR
+"Guy & O'Neill Inc" OR
+"GVI" OR
+"Gynecologic Oncology Group GOG").app_gp. 
+
+-ket:/release/KISTI_PATENT_XML_EXPORT_2015
+-bwy

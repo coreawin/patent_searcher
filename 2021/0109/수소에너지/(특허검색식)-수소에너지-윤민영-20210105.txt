@@ -1,0 +1,126 @@
+[특허검색식 작업 안내문]
+
+1. gpass.kisti.re.kr 에 로그인
+
+2. 검색식 작업 팁
+ - Advanced Search 에서 검색
+ - 주로 and , or 연산자를 활용하여 검색식을 작성하며 영어로 작성함. 
+ - 검색식에서 wildcard (*, ?) 는 적용한 검색엔진에서 안먹히는 경우가 있어서 가능한 사용하지 말라고 함.
+ - 출원일: APDATE=(20130101-20201231)   최근 8년 
+ - 특허 발행청 : AU=(US)   미국특허만 대상으로 함.
+ - 문서유형: DTYPE=(P OR U)   특허와 실용신안 
+ - 특허를 이용해서 고용경제효과를 계산하므로 특허가 최소한 한 건은 나오는 것이 좋음.
+ - 실제 데이터 다운로드는 개발자와 협의하여 일괄 다운로드 받는 것으로 계약되어 있으나 개발자가 검색식의 오류까지 검토하지는 않으므로 오류없는 검색식을 제출해야 함.
+ - 검색식을 엑셀로 저장하는 과정에서 큰따옴표의 모양이 이상하게 변경되는 경우가 있어서 엑셀양식을 버리고 텍스트 양식을 선택하게 되었음. 
+ 
+3. 제출 내용
+ - 중분류 코드, 검색식, 검색건수   : 코드별 검색식과 검색건수도 제출해야 실제로 개발자가 다운로드한 건수와 비교해서 정확도를 점검할 수 있음.
+ - 텍스트 에디터 (울트라에디터, Notepad++ 등) SW에서 작성하여 제출 (*.txt 파일로)
+
+4. 개발자가 다운로드해서 주는 파일의 명칭 형식 :   정밀의료_T01.txt  
+
+
+=========== [ 분과명: 수소 ] 중분류코드별 특허검색식 및 건수 =============
+
+T01	Gray/BLUE 수소 생산 : 315건 
+AU=(US) APLT=(Y) DTYPE=(P OR U) APDATE=(20130101-20201231) (TI=("grey hydrogen" or "blue hydrogen" or "steam" or "plasma" or "gastification" or "solid fuel" or "pyrolysis" or "syngas") or (("methane" or "natural gas") and (react or reform)) or (("CO2" or "carbon dioxide") and (capture or "zero")) or ("CCS" and ("carbon dioxide" or "CO2")) or "carbon capture and storage" AND AB=("hydrogen" or "h2") NOT AB=("fuel cell" or coal or "hydrogen peroxide" or "etching" or "benzene"))
+
+
+T02 	경제성 분석 : 6건
+AU=(US) APLT=(Y) DTYPE=(P OR U) APDATE=(20130101-20201231) AB=("life cycle" and (cost or capital or expense)) or "business cycle" or "cost cycle" or "benefit cycle" or "capital cycle" or "economic cycle" or "business model" or "cost model" or "benefit model" or (capital and model) or (economic and model) or (feasible and expense) or (assess and expense) or (capital and expense) or (economic and expense) or (business and cost) or (assess and cost) or (capital and cost) or "economic cost") AND AB=("hydrogen"or "h2") NOT AB=("hydrogen sulfide")
+
+
+T03	수소품질 : 81건
+AU=(US) APLT=(Y) DTYPE=(P OR U) APDATE=(20130101-20201231) AB=(("quality" and (improve or improvement or improving or demonstrate or monitor or monitoring)) or ((eliminate or remove) and impurity) or "hydrogen quality") AND AB=("hydrogen" or "h2") NOT AB=("hydrogen peroxide" or "casting system" or "semiconductor" or "hydrogen fluoride" or "hydrogenation")
+
+
+T04	Power to X : 242건
+AU=(US) APLT=(Y) DTYPE=(P OR U) APDATE=(20130101-20201231) (TI=("power" and (gas or methane or hydrogen)) or renewable or solar or wind or (water and electrolysis) or (water and electrolyte) AND AB=("hydrogen" or "h2"))
+
+
+T05	수소융복합 실증단지 : 3건
+AU=(US) APLT=(Y) DTYPE=(P OR U) APDATE=(20130101-20201231) TI=(("energy" or "electric power" or "final energy" or "renewable") and (integration or integrating or integrate)) or "hydrogen community" or "h2 community" or (industry and cluster) or "energy complex" or "electric power complex" or "final energy complex" AND AB=("hydrogen" or "h2")
+
+
+T06	미래 Green 수소생산 : 30건
+AU=(US) APLT=(Y) DTYPE=(P OR U) APDATE=(20130101-20201231) TI=(photocatalyst or ("solar water" and split) or "artificial photosynthesis" or (anaerobic and (digestion or fermentation)) or photofermentate or "solar thermal" or (thermochemic and cycle) or (nuclear and "hydrogen production")) AND AB=("hydrogen" or H2) NOT AB=("hydrogen water chemistry")
+
+
+T07	Green 수소생산 : 1,058건
+AU=(US) APLT=(Y) DTYPE=(P OR U) APDATE=(20130101-20201231) (TI=((((alkaline and "water electrolysis") or (membrane or electrode) or ("PEM" and "water electrolysis") or "MEA" or biogas or (bipolar and plate)) or (reform or syngas or catalyst)))) AND AB=("hydrogen" or "h2")) NOT AB=("Hydrogen peroxide" or "hydrogen bonding" or "hydrogen sulphate" or "hydrogen containing functional group")
+
+
+T08	환경 영향 분석 : 1건
+AU=(US) APLT=(Y) DTYPE=(P OR U) APDATE=(20130101-20201231) TI=("global warming" or "green house gas" or "climate change" or (((gas or air or particle or "carbon dioxide") and (pollution or polluting or pollutant)) or "green energy" and (analysis or analyze or assess or assessment or tool)) or "public acceptance" or "local accept" or "local acceptance" or "local accepting" or "local understanding" or "community acceptance" ) and AB=("hydrogen" or "h2")
+
+
+T09	해상 수소 운송 : 49건
+AU=(US) APLT=(Y) DTYPE=(P OR U) APDATE=(20130101-20201231) TI=("liquid tank" or cryogenic or refuel or refueling or "port logistics" or "port logistic" or "platform integration" or ((maritime or ocean or sea or marine or ship) and (transport or transportation))) AND AB=("hydrogen" or "h2")
+
+
+T10	수소환원제철 : 3건
+AU=(US) APLT=(Y) DTYPE=(P OR U) APDATE=(20130101-20201231) TI=(((refinement or refining or refine) and iron) or ((reducement or reducing or reduce) and steel) and (manufacture or manufacturing or industry)) or ((iron or steel) and (deoxidate or deoxidation or deoxidating or "carbon monoxide" or "carbon dioxide"))) AND AB=("hydrogen" or "h2")
+
+
+T11	수소터빈 발전 : 39건
+AU=(US) APLT=(Y) DTYPE=(P OR U) APDATE=(20130101-20201231) TI=((turbine and (develop or developing or development or system or process or construct or constructing or construction)) or "power plant" or ((mix or mixing or mixture) and (fuel or "natural gas" or CNG)) or "co-feeding") AND AB=(("hydrogen" OR "H2") NOT ("nuclear power plant"))
+
+
+T12	수소시범도시 : 25건
+AU=(US) APLT=(Y) DTYPE=(P OR U) APDATE=(20130101-20201231) TI=((hydrogen and ("pilot" or city or town or delivery)) or "onsite" or "energy demand" or "energy supply" or "energy control" or (sharing and platform) or grid) AND AB=(("hydrogen" or "h2") NOT "HYDROGEN PEROXIDE")
+
+
+T13	액상수소저장 : 5건
+AU=(US) APLT=(Y) DTYPE=(P OR U) APDATE=(20130101-20201231) TI=(("liquid" and organic and hydrogen and carrier) or "chemical hydride" or catalyst or "inorganic hydride" or ammonia or hydrazine) and storage) AND AB=("hydrogen" or "h2")
+
+
+T14	고체수소저장 : 8건
+AU=(US) APLT=(Y) DTYPE=(P OR U) APDATE=(20130101-20201231) TI=((metal and hydride) or (solid and hydrogen and storage) or chemisorption or absorb or absorbing or physisorption or ((metal and organic) or (covalent and organic)) and framework) or (polymer AND (absorb or absorbing or physisorption)) or (absorbing and alloy)) AND AB=("hydrogen" or "h2" NOT ("hydrogen sulfide" or "hydrogen-ion"))
+
+
+T15	액체수소저장 : 4건
+AU=(US) APLT=(Y) DTYPE=(P OR U) APDATE=(20130101-20201231) TI=( liquefaction and (cycle or plant) or "tank lorry" or (cryogenics and (storage or store or (transfer or transferring) or (construct or constructing or construction) or (build or building) or (insulate or insulation or insulating)))) AND AB=("hydrogen" or "h2") 
+
+
+T16	육상수소운송 : 2건
+AU=(US) APLT=(Y) DTYPE=(P OR U) APDATE=(20130101-20201231) TI=((mobile and fueling and station) or ((transport or transportation or transporting) and (land or car or truck)) or (tube and trailer) or (composite and tank) or "cryogenic temperature" or vaporize) AND AB=("hydrogen" or "h2" NOT ("HYDROGEN PEROXIDE"))
+
+
+T17	기체수소저장 : 5건
+AU=(US) APLT=(Y) DTYPE=(P OR U) APDATE=(20130101-20201231) TI=(("high pressure" and (tube or trailer or pipe or "tube fitting" or "pipe fitting" or "trailer fitting")) or (("non-mechanical" or "non mechanical" or "electrochemical" or "adsorption desorption" and compress) or (electrochemic or thermochemic or hybrid) and compress) or ("high pressure" and (detect or leak or seal))) AND AB=("hydrogen" or "h2") NOT AB=("HYDROGEN PEROXIDE" or "hydrogen sulphate")
+
+
+T18	수소충전소 : 56건
+AU=(US) APLT=(Y) DTYPE=(P OR U) APDATE=(20130101-20201231) TI=((sensor or sense or sensing) or (("micro-electro" or mechanic or mechanical) and system) or ((measure or measuring) and system) or ((refuel or refueling) and system) or compressor or (dispense or dispensing) or chiller or "embrittlement" or ("fuel cell" and (bus or "electric bus")) and (charging or ((charge or charging) and (platform or site or station)))) or ( charging or ((charge or charging) and (platform or site or station))) AND AB=("hydrogen" or "h2" not ("hydrogen atom"))
+
+
+T19	HESS : 103건
+AU=(US) APLT=(Y) DTYPE=(P OR U) APDATE=(20130101-20201231) TI=((("large capacity" or "high pressure" or "long term") and (storage or store) and system) or "welding" or (leak and test) or (plastic and pressure and pipe) or (home or building or industry) and demonstrate) or station or grid or "mega station" or stable or durable)) AND AB=("hydrogen" or "HESS") NOT AB=(hybrid or renewable or "hydrogen sulfide" or "ammonia")
+
+
+T20	수소재료안전 : 2건
+AU=(US) APLT=(Y) DTYPE=(P OR U) APDATE=(20130101-20201231) TI=((material or component or pipe) and (safe or safety)) AND AB=("hydrogen" or "h2")
+
+
+T21	제품 설치 안전 : 9건
+AU=(US) APLT=(Y) DTYPE=(P OR U) APDATE=(20130101-20201231) AB=(((safe or safety) or secure) and ((install or installing or installment) or (equip or equipment or equipping) or (fit or fitting))) AND AB=("hydrogen" or "h2") NOT AB=("hydrogen peroxide" or "hydrogen bonding" or "hydrogen sulfide")
+
+
+T22	수소안전 교육 및 홍보 : 18건
+AU=(US) APLT=(Y) DTYPE=(P OR U) APDATE=(20130101-20201231) TI=((safety or safe or secure) or ((safety or safe or secure) and (install or equip or fit))) AND AB=("hydrogen" or "h2" not ("hydrogen atom" or "hydrogen fluoride"))
+
+
+T23	사고예방/피해예측/안전진단/모니터링 : 25건
+AU=(US) APLT=(Y) DTYPE=(P OR U) APDATE=(20130101-20201231) TI=(((prevent or predict) and (accident or damage)) or failure or (risk and manage) or fire or "jet fire" or ((product or facility) and safety) or (monitor or monitoring)) AND AB=("hydrogen" or "h2" not ("nickel-hydrogen" or "hydrogen sulfide" or "hydrogen phosphate" or "hydrogen chloride" not "silicon-hydrogen" not "hydrogen peroxide"))
+
+
+T24	융복합시설안전 : 105건
+AU=(US) APLT=(Y) DTYPE=(P OR U) APDATE=(20130101-20201231) TI=((((complex or "multi-fusion") and facility) and (safe or safety or secure)) or reform or standardize) AND AB=("hydrogen" or "h2")
+
+
+T25	수소물성 데이터 베이스 구축 : 5건
+AU=(US) APLT=(Y) DTYPE=(P OR U) APDATE=(20130101-20201231) TI=((physical and property and ("data" or database)) or (property and test) or evaluate or (reliable and test) or (cycle and test)) AND AB=("hydrogen" OR "h2") NOT AB=("Gamma rays" or "hydrogen intrusion")
+
+
+T26	안전 표준화 : 1건
+AU=(US) APLT=(Y) DTYPE=(P OR U) APDATE=(20130101-20201231) AB=((safe or safety) and (stand or standard)) AND AB=("hydrogen" or "h2" NOT "hydrogen peroxide")

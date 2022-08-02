@@ -1,0 +1,76 @@
+-cn1000
+-au
+-tgi:/kisti/
+-ctt:/release/KISTI_PATENT_XML_EXPORT_2015/result
+-ftTEXT
+-efpno,pndate,pnkind,pncn,dockind,ti,abs,appno,appdate,prino,inventor,assignee,app_gp,pexam,basic_count,nonpatent,references,citations,ipc,cpc,ecla,classc,fcode,mf,cf,family_count
+
+-ru("National Institute of Dental Craniofacial Research" OR
+"National Institute of Malaria Research" OR
+"National Institute of Mental Health" OR
+"National Institute of Neurological Disorders Stroke" OR
+"NATIONAL INSTITUTE OF TRANSPLANTATION FOUNDATION" OR
+"National Institute on Alcohol Abuse Alcoholism NIAAA" OR
+"NATIONAL INSTITUTES OF HEALTH" OR
+"National Microbiology Laboratory" OR
+"NATIONAL PETROCHEMICAL" OR
+"National Pharmaceutical Industries Co SAOG" OR
+"National Rehab Equipment Inc" OR
+"National Vitamin Co Inc" OR
+"NATIVE ANTIGEN THE" OR
+"NATRIUM" OR
+"Natrium Products Inc" OR
+"Natrodale" OR
+"Natur Produkt" OR
+"NATURAL BALANCE PET FOODS" OR
+"NATURAL IND" OR
+"Natural Industries" OR
+"NATURALIFE" OR
+"Naturalife Health" OR
+"Nature's Answer" OR
+"NATURIN VISCOFAN" OR
+"NATURPRODUKT CZ SPOL S R O" OR
+"Navarro Discount Pharmacy" OR
+"NB HEALTH LABORATORY" OR
+"NB POSTECH" OR
+"NBHL ltd" OR
+"NBT" OR
+"NBT New Bio Technology Ltd" OR
+"NBTY" OR
+"NCBIO" OR
+"NC-Bio" OR
+"NCI" OR
+"NCT" OR
+"NEA Optical Inc" OR
+"NEARMEDIC PLUS" OR
+"Needle Free Solutions LLC" OR
+"NEI" OR
+"NeilMed Pharmaceuticals Inc" OR
+"NEILMED PRODUCTS" OR
+"NELIPAK" OR
+"Nelipak Healthcare Packaging" OR
+"NELSON LABORATORIES" OR
+"Nelson Techno Medical CO Ltd" OR
+"NEMCOMED" OR
+"Nemcomed Instruments Implants" OR
+"Nemera" OR
+"NEMERA LA VERPILLERE" OR
+"NEMERA LA VERPILLIERE" OR
+"NEMERA LA VERPILLIÈRE" OR
+"Neo-Advent Technologies LLC" OR
+"NEOGEN" OR
+"NEOLAB" OR
+"NEOLPHARMA" OR
+"NEOLPHARMA S A DE C V" OR
+"Neptune Pharma Limited" OR
+"NEPTUNE PHARMACEUTICAL" OR
+"NERI" OR
+"NERIUM BIOTECHNOLOGY" OR
+"Nerium SkinCare Inc" OR
+"NERV" OR
+"NESTLE" OR
+"Nestle Health Science" OR
+"Nestle Institute of Health Sciences SA").app_gp. 
+
+-ket:/release/KISTI_PATENT_XML_EXPORT_2015
+-bwy

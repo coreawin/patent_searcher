@@ -1,0 +1,30 @@
+# [level]	[left Tag]	[right Tag]	[target Tag]
+# level 1 : 명사구 생성
+# -가 뒤따라 나올때
+0	NP	-	NP
+0	JJ	-	JJ
+0	VBN	-	VBN
+0	FW	-	FW
+#0	RB	-	RB
+#0	VBG	-	VBG
+
+# 동일한 품사가 연속적으로 나올때
+0	NP	POS	JJ
+0	JJ	JJ	JJ
+0	NP	NP	NP
+
+# 다른 품사가 합쳐질때
+0	JJ	NP	NP
+0	VBN	NP	NP
+0	FW	NP	NP
+#0	RB	JJ	JJ
+#0	RB	NP	NP
+#0	VBG	NP	NP
+
+# 수식구 생성규칙
+1	DT	NP	DTNP
+1	IN	NP	INNP
+1	TO	NN	TONP
+1	IN	DTNP	INNP
+1	TO	DTNP	TONP
+

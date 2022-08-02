@@ -1,0 +1,65 @@
+-cn1000
+-au
+-tgi:/kisti/
+-ctt:/release/KISTI_PATENT_XML_EXPORT_2015/result
+-ftTEXT
+-efpno,pndate,pnkind,pncn,dockind,ti,abs,appno,appdate,prino,inventor,assignee,app_gp,pexam,basic_count,nonpatent,references,citations,ipc,cpc,ecla,classc,fcode,mf,cf,family_count
+
+-ru("MyungMoon Pharm Co Ltd" OR
+"N GENE RES LAB" OR
+"N GENE RESEARCH LABORATIORIES" OR
+"N GENE RESEARCH LABORATORIES" OR
+"N GENE RESEARCH LABORATORY" OR
+"N I MEDICAL" OR
+"Nablabs Laboratories" OR
+"NACALAI TESQUE" OR
+"NACALAI TESQUE KYOTO JP" OR
+"Nacalai USA Inc" OR
+"Nadro SA de CV" OR
+"Nagor" OR
+"Naia Limited" OR
+"NAIA METABOLIC" OR
+"NANJING CHEMLIN BIO PHARMACEUTICAL" OR
+"Nanjing Chemlin Chemical Industrial Co Ltd" OR
+"NANJING JOYIN PHARMACEUTICAL TECH" OR
+"Nanjing Joyin Pharmachem Co Ltd" OR
+"Nano Patch Sdn Bhd" OR
+"NANOBIZ" OR
+"Nanobiz NanoBioTechnological Systems Education IT Consultancy RD Limited" OR
+"NANOBIZ NANOBIYOTEKNOLOJIK SISTEMLER EGITIM BILISIM DANISMANLIK ARGE SAN TIC STI" OR
+"NanoDrop Products" OR
+"NANOGEN" OR
+"Nanogen Biopharmaceutical Co" OR
+"NANOGEN PHARMACEUTICAL BIOTECHNOLOGY" OR
+"NANOGEN PHARMACEUTICALS" OR
+"Nanovi A/S" OR
+"NANOVI RADIOTHERAPY A P S" OR
+"NANOVI RADIOTHERAPY APS" OR
+"NANTOMICS" OR
+"NANTOMICS SCIENCE" OR
+"NANTONG CITY EGENS BIOTECHNOLOGY" OR
+"Nantong Egens Bio Technology Company" OR
+"NANTONG EGENS BIOTECHNOLOGY" OR
+"Nantong Sihai Plant Essence Co Ltd" OR
+"NANTONG SIHAI PLANT EXTRACTS" OR
+"NANTONG ZILANG BIOPHARMA TECH" OR
+"Nantong Zilang Chemical Technology Co LTD" OR
+"Nasiff Associates Inc" OR
+"NASIFF ROGER E" OR
+"NAT" OR
+"National Center for Advancing Translational Sciences" OR
+"National Chlorine Industries Co Ltd" OR
+"National Clinical Technology" OR
+"NATIONAL DENTEX" OR
+"National Eye Institute" OR
+"NATIONAL HEALTH LABORATORY SERVICE" OR
+"National Hearing Care" OR
+"National Heart, Lung, Blood Institute" OR
+"National Human Genome Research Institute" OR
+"National Imaging Associates" OR
+"NATIONAL INSTITUTE FOR BIOLOGICAL ST ARDS CONTROL" OR
+"NATIONAL INSTITUTE FOR BIOLOGICAL ST ARDS CONTROL BOARD" OR
+"NATIONAL INSTITUTE FOR BIOLOGICAL ST ARDS CONTROL UNITED KINGDOM").app_gp. 
+
+-ket:/release/KISTI_PATENT_XML_EXPORT_2015
+-bwy

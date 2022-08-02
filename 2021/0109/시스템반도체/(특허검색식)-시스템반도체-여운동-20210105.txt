@@ -1,0 +1,92 @@
+T01	설계/검증 : 11	
+AU=(US) APLT=(Y) DTYPE=(P OR U) PUBL_TYPE=(A) IPC=(H01L* OR H02S* OR G09F* OR G02B* OR H03K* OR H03J* OR H03D*) APDATE=(20130101-20201231) TI=(EDA or "Electronic Design Automation" or "Optical Proximity Correction" or "Layout Versus Schematics" or "Electronic Computer-Aided Design" or ecad))
+
+T02	로직소자 : 451	
+AU=(US) APLT=(Y) DTYPE=(P OR U) PUBL_TYPE=(A) IPC=(H01L* OR H02S* OR G09F* OR G02B* OR H03K* OR H03J* OR H03D*) APDATE=(20130101-20201231) TI=("AND gate" or "OR gate" or "NAND gate" or "NOR gate" or "NOT gate" or "XOR gate" or "Boolean algebra" or "electronic switch" or "Flip-flop" or Adder or "multi-level logic" or "steep switching" )
+
+T03	전력소자 : 1459	
+AU=(US) APLT=(Y) DTYPE=(P OR U) PUBL_TYPE=(A) IPC=(H01L* OR H02S* OR G09F* OR G02B* OR H03K* OR H03J* OR H03D*) APDATE=(20130101-20201231) TI=("power semiconductor" or "wide bandgap semiconductor" or "power converter" or "power switch" or "Silicon Controlled Rectifier" or "Transient Voltage Suppressor" or "Fast Recovery Diode" or "Schottky barrier diode" or "Zener diode" or " Insulated Gate Bipolar Transistor" or IGBT )
+
+T04	광소자 : 530	
+AU=(US) APLT=(Y) DTYPE=(P OR U) PUBL_TYPE=(A) IPC=(H01L* OR H02S* OR G09F* OR G02B* OR H03K* OR H03J* OR H03D*) APDATE=(20130101-20201231) TI=( “laser diode” or Photodetector or “Composite optical device” or “Optical communication device” or “photonic integrated circuit” or “photonic ic”)
+
+T05	센싱소자 : 77	
+AU=(US) APLT=(Y) DTYPE=(P OR U) PUBL_TYPE=(A) IPC=(H01L* OR H02S* OR G09F* OR G02B* OR H03K* OR H03J* OR H03D*) APDATE=(20130101-20201231) TI=(((sensing or sensor*) and device*) and ("Production Process" or "Production Technology" or material* or structure)))
+
+T06	메모리소자 : 800	
+AU=(US) APLT=(Y) DTYPE=(P OR U) PUBL_TYPE=(A) IPC=(H01L* OR H02S* OR G09F* OR G02B* OR H03K* OR H03J* OR H03D*) APDATE=(20130101-20201231) TI=(MRA or "Magnetic RAM" or RRAM or "Phase Change RAM" or PCRAM or "Phase-change Memory" or DRAM or "dynamic ram" or oum or "ovonic unified memory" or SRAM or "Static RAM" or CRAM or "chalcogenide RAM" or ReRAM or "Resistive RAM")) 
+
+T07	아날로그회로 : 3382	
+AU=(US) APLT=(Y) DTYPE=(P OR U) PUBL_TYPE=(A) IPC=(H01L* OR H02S* OR G09F* OR G02B* OR H03K* OR H03J* OR H03D*) APDATE=(20130101-20201231) TI=(PLL or "Phase-Locked Loop" or LDO or "Low Drop Out Regulator" or "Low Dropout Regulator" or LNA or "Low Noise Amplifiers" or "Low Noise Amplifier" or VGA or "Video Graphics Array" or "semiconductor Filter" or "semiconductor Filters" or ADC or "Analog to Digital Converter" or DAC or "Digital-to-analog converter" or ESD or "Electrostatic discharge" or "image sensor" or "image sensors" )
+
+T08	디지털회로 : 713	
+AU=(US) APLT=(Y) DTYPE=(P OR U) PUBL_TYPE=(A) IPC=(H01L* OR H02S* OR G09F* OR G02B* OR H03K* OR H03J* OR H03D*) APDATE=(20130101-20201231) TI=(Timer or UART or "Universal asynchronous receiver-transmitter" or CLK or clock or "Interrupt Controller" or "Audio codec" or "Video Codec" or RNG ot "Random Number Generator"  or AES or "Advanced Encryption Standard")
+
+T09	ROIC(Readout IC) : 114
+AU=(US) APLT=(Y) DTYPE=(P OR U) PUBL_TYPE=(A) IPC=(H01L* OR H02S* OR G09F* OR G02B* OR H03K* OR H03J* OR H03D*) APDATE=(20130101-20201231) TI=(("Read-out" or Readout or (ROIC)))
+
+T10	RFIC : 134	
+AU=(US) APLT=(Y) DTYPE=(P OR U) PUBL_TYPE=(A) IPC=(H01L* OR H02S* OR G09F* OR G02B* OR H03K* OR H03J* OR H03D*) APDATE=(20130101-20201231) TI=(((Transmitter or Receiver or Synthesizer or Amplifier or "Integrated Circuits" or IC or ICs) and (Ladar or wireless or RF or "Radio frequency")) or RFIC)
+
+T11	전력반도체 : 192
+AU=(US) APLT=(Y) DTYPE=(P OR U) PUBL_TYPE=(A) IPC=(H01L* OR H02S* OR G09F* OR G02B* OR H03K* OR H03J* OR H03D*) APDATE=(20130101-20201231) TI=(PMIC or "Power Management Integrated Circuit" or ("POWER MANAGEMENT" and ("Integrated Circuits" or IC or ICs)) or "AC-DC Converter" or "DC-AC Invertor" or "DC-DC CONVERTER" or "Battery charging" or "Power-source selection" or "Voltage scaling" or "Power sequencing" or "Charge pump" or "Piezo driver" or "Low Dropout" or "VOLTAGE SCALING" or "VOLTAGE Switching" or "SOFT SWITCHING" or "BOOST CONVERTER")
+
+T12	디스플레이드라이버 : 232
+AU=(US) APLT=(Y) DTYPE=(P OR U) PUBL_TYPE=(A) IPC=(H01L* OR H02S* OR G09F* OR G02B* OR H03K* OR H03J* OR H03D*) APDATE=(20130101-20201231) TI=((Driver and (display or displays or LCD or "LIQUID CRYSTAL DISPLAY" or leds or LED or "LIGHT EMITTING DIODE" or leds or OLED or oleds or tft or Amoled or PMoled or QLED)) or ddi or "COLUMN DRIVER" or "Chip On Glass" or "Chip On Film" or COG or COF)
+
+T13	프로세서 : 111
+AU=(US) APLT=(Y) DTYPE=(P OR U) PUBL_TYPE=(A) IPC=(H01L* OR H02S* OR G09F* OR G02B* OR H03K* OR H03J* OR H03D*) APDATE=(20130101-20201231) TI=("Micro Processor" or "Multi-core" or CPU or "Central processing unit" or MCU or "Micro Controller Unit " or MPU or "Micro Processor Unit" or ECU or "Electronic Control Unit" or DSP or "Digital signal processor" or GPU or "Graphics processing unit")
+
+T14	AI가속기 : 40
+AU=(US) APLT=(Y) DTYPE=(P OR U) PUBL_TYPE=(A) IPC=(H01L* OR H02S* OR G09F* OR G02B* OR H03K* OR H03J* OR H03D*) APDATE=(20130101-20201231) TI=(AI or "Artificial Intelligence" or Accelerator or TPU or "Tensor Processing Unit" or NNP or (("deep learning" or "machine learning" or "neural network") and Processor*))
+
+T15	양자컴퓨팅반도체 : 73
+AU=(US) APLT=(Y) DTYPE=(P OR U) PUBL_TYPE=(A) IPC=(H01L* OR H02S* OR G09F* OR G02B* OR H03K* OR H03J* OR H03D*) APDATE=(20130101-20201231) TI=("quantum computer" or "quantum computing" or qbit or “quantum logic gate” or “quantum coherent state” or “Spin resonance transistor” or “quantum superposition” or “quantum entanglement” or “quantum dot array” or “Zeeman splitting” or “quantum paralisim” or "quantum communication")
+
+T16	뉴로모픽반도체 : 69	
+AU=(US) APLT=(Y) DTYPE=(P OR U) PUBL_TYPE=(A) IPC=(H01L* OR H02S* OR G09F* OR G02B* OR H03K* OR H03J* OR H03D*) APDATE=(20130101-20201231) TI=(Neuromorphic or NPU or "Neural Processing" or Synapse)
+
+T17	메모리/스토리지 : 23
+AU=(US) APLT=(Y) DTYPE=(P OR U) PUBL_TYPE=(A) IPC=(H01L* OR H02S* OR G09F* OR G02B* OR H03K* OR H03J* OR H03D*) APDATE=(20130101-20201231) TI=(Cache or (Intelligent and Memory) or NVDIMM or "non-volatile dual in-line memory module" or SSD or "solid state drive" or UFS or "Universal Flash Storage" or eMMC or "mbedded Multi-Media Controller" or NVMe or "Non-Volatile Memory express" or PIM or or ("In Memory" and Processor*))
+
+T18	구동제어컨트롤러 : 60
+AU=(US) APLT=(Y) DTYPE=(P OR U) PUBL_TYPE=(A) IPC=(H01L* OR H02S* OR G09F* OR G02B* OR H03K* OR H03J* OR H03D*) APDATE=(20130101-20201231) TI=(((Motor and motors) and (Driver or Controller)) or "Magnetic Control" or "Electronic Control Unit" or "Battery Management System" or "Safety Of The Intended Functionality" or "Fail Safe" or "Integrated central Control Unit" or "Smart Junction Box" or "Transmission Control Unit")
+
+T19	고속인터페이스 : 146
+AU=(US) APLT=(Y) DTYPE=(P OR U) PUBL_TYPE=(A) IPC=(H01L* OR H02S* OR G09F* OR G02B* OR H03K* OR H03J* OR H03D*) APDATE=(20130101-20201231) TI=((("High-Speed" or "high bandwidth") and (Interface or I/O or Serializer or Deserializer)) or HSSI or (Memory and (InterFace or DDR or "Double Data Rate" or HBM or "high bandwidth memory")) or "Serial InterFace" or PCIe or "Peripheral Component Interconnect Express" or MIPI or "Mobile Industry Processor Interface" or USB or Thunderbolt or LPDDR3 or "Display port")
+
+T20	이미지센서 : 2511
+AU=(US) APLT=(Y) DTYPE=(P OR U) PUBL_TYPE=(A) IPC=(H01L* OR H02S* OR G09F* OR G02B* OR H03K* OR H03J* OR H03D*) APDATE=(20130101-20201231) TI=(("image sensor" or "image sensors"))) 
+
+T21	센서(이미지센터제외) : 614"	
+AU=(US) APLT=(Y) DTYPE=(P OR U) PUBL_TYPE=(A) IPC=(H01L* OR H02S* OR G09F* OR G02B* OR H03K* OR H03J* OR H03D*) APDATE=(20130101-20201231) TI=(("pressure sensor" or "temperature sensor" or "color sensor" or "gas sensor" or "strain sensor" or "proximity sensor" or "pH sensor" or "speed sensor" or "remote sensor" or "Acceleration sensor" or "Thermal sensor" or "Pressure sensor" or "Magnetic sensor" or "illuminance sensor" or "Accessing sensor" or "CAPACITIVE SENSOR" or "CHEMICAL SENSOR" or "CURRENT SENSOR" or "PROXIMITY SENSOR" or "Image Sensor") NOT ("image sensor" or "image sensors" or "BIO SENSOR" or "BIOSENSOR" or BIOSENSORs)))
+
+T22	자율이동 : 265	
+AU=(US) APLT=(Y) DTYPE=(P OR U) PUBL_TYPE=(A) IPC=(H01L* OR H02S* OR G09F* OR G02B* OR H03K* OR H03J* OR H03D*) APDATE=(20130101-20201231) TI=(ADAS or "Driver Assistant" or "driving assistance" or "Lane Keeping Assist" or "Adaptive Cruise Control" or "Forward Collision-Avoidance Assist" or "Pedestrian Detection" or "blind spot detection" or "Driver Status Monitoring System" or "Driver Safety Rating" or "Automated parking system" or "night vision" or "Adaptive Front Lighting System" or "Head Up Display" or (Autonomous or "Artificial Intelligent" or "AI" or "self driving" or Cruise or Warning or Recognition or Monitoring or detection or Assistance or tracking or sensing or diagnosis or safty) and (DRIVING or "unmanned aerial vehicle" or vehicle or vehicles or car or cars or automotive or automobiles or automobile or Parking or Tire or "Driver Status") or "Surround View Camera")
+
+T23	보안 : 249	
+AU=(US) APLT=(Y) DTYPE=(P OR U) PUBL_TYPE=(A) IPC=(H01L* OR H02S* OR G09F* OR G02B* OR H03K* OR H03J* OR H03D*) APDATE=(20130101-20201231) TI=(SECURITY or (encription or decription))
+
+T24	통신 : 127	
+AU=(US) APLT=(Y) DTYPE=(P OR U) PUBL_TYPE=(A) IPC=(H01L* OR H02S* OR G09F* OR G02B* OR H03K* OR H03J* OR H03D*) APDATE=(20130101-20201231) TI=("Wireless Communication" or "mobile Communication" or wifi or bluetooth or LPWA or "Low Power Wide Area" or Ehterent or (Iot and communication) or Zigbee or sigfox or lora or lte or "nb-iot" or "Cellular IoT" or gsm or " Cellular Network" or "area network" or OFDM or 5G or "Wi-Fi" or "LiFi" or "Li-Fi" or "Near Field Communication")
+
+T25	영상처리 : 123	
+AU=(US) APLT=(Y) DTYPE=(P OR U) PUBL_TYPE=(A) IPC=(H01L* OR H02S* OR G09F* OR G02B* OR H03K* OR H03J* OR H03D*) APDATE=(20130101-20201231) TI=((Image or Video) and (Processing or Compression or Decompression or MPEG or "Video Coding" or "wide dynamic range" or "High Dynamic Range" or "white balance"))
+
+T26	실감미디어 : 2788	
+AU=(US) APLT=(Y) DTYPE=(P OR U) PUBL_TYPE=(A) IPC=(H01L* OR H02S* OR G09F* OR G02B* OR H03K* OR H03J* OR H03D*) APDATE=(20130101-20201231) TI=("augmented reality" or "virtual reality" or "Head Up Display" or "head mounted display" or Hologram or (Volumetric and (video or vr or content)) or "Immersive Video")
+
+T27	에너지저장관리 : 616	
+AU=(US) APLT=(Y) DTYPE=(P OR U) PUBL_TYPE=(A) IPC=(H01L* OR H02S* OR G09F* OR G02B* OR H03K* OR H03J* OR H03D*) APDATE=(20130101-20201231) TI=((energy or battery) and (management or control) or Charing or Gaging or (monitoring or balancing or procection) or "energy harvest" or "energy storage")
+
+T28	바이오칩 : 66	
+AU=(US) APLT=(Y) DTYPE=(P OR U) PUBL_TYPE=(A) IPC=(H01L* OR H02S* OR G09F* OR G02B* OR H03K* OR H03J* OR H03D*) APDATE=(20130101-20201231) TI=("DNA Chip" or Microfluidics or Microarray or "Protein Chip" or "Lab-on-a-chip" or "MICROFLUIDIC CHIP" or "BIOSENSOR" or "LAB ON A CHIP" or "MICROFLUIDIC DEVICE" or "BIOCHIP" or "BIO CHIP")
+
+T29	생체신호처리 : 189	
+AU=(US) APLT=(Y) DTYPE=(P OR U) PUBL_TYPE=(A) IPC=(H01L* OR H02S* OR G09F* OR G02B* OR H03K* OR H03J* OR H03D*) APDATE=(20130101-20201231) TI=(((Bio or Healthcare) and (device or signal or system)) or ((Medical or Implantable) and device) or (ELECTROCARDIOGRAM or BIOIMPEDANCE or Photoplethysmography or glucose or "blood pressure" or "body temperature" or "Biosignal" or "Bio signal" or "NEURAL SIGNAL"))
+
+T30	의료기기용반도체 : 176	
+AU=(US) APLT=(Y) DTYPE=(P OR U) PUBL_TYPE=(A) IPC=(H01L* OR H02S* OR G09F* OR G02B* OR H03K* OR H03J* OR H03D*) APDATE=(20130101-20201231) TI=( ((Medical or Implantable) and (device or SoC or chip)) or (Medical and (Image or Ultra-sonic or radiation or organ or organs)) or (artificial and (organs or organ or born) ))
+
+T31	실내외측위 : 303	
+AU=(US) APLT=(Y) DTYPE=(P OR U) PUBL_TYPE=(A) IPC=(H01L* OR H02S* OR G09F* OR G02B* OR H03K* OR H03J* OR H03D*) APDATE=(20130101-20201231) TI=(Radar or LiDar or "time of flight" or "Time Difference of Arrival" or "Angle of Arrival" or "Received Signal Strength Indication" or "Approximate Point In Triangle" or "DEPTH SENSOR" or "DEPTH PROFILING" or ((location or Localization or Positioning) and (indoor or outdoor)) )

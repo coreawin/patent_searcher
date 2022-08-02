@@ -1,0 +1,112 @@
+[특허검색식 작업 안내문]
+
+1. gpass.kisti.re.kr 에 로그인
+
+2. 검색식 작업 팁
+ - Advanced Search 에서 검색
+ - 주로 and , or 연산자를 활용하여 검색식을 작성하며 영어로 작성함. 
+ - 검색식에서 wildcard (*, ?) 는 적용한 검색엔진에서 안먹히는 경우가 있어서 가능한 사용하지 말라고 함.
+ - 출원일: APDATE=(20130101-20201231)   최근 8년 
+ - 특허 발행청 : AU=(US)   미국특허만 대상으로 함.
+ - 문서유형: DTYPE=(P OR U)   특허와 실용신안 
+ - 특허를 이용해서 고용경제효과를 계산하므로 특허가 최소한 한 건은 나오는 것이 좋음.
+ - 실제 데이터 다운로드는 개발자와 협의하여 일괄 다운로드 받는 것으로 계약되어 있으나 개발자가 검색식의 오류까지 검토하지는 않으므로 오류없는 검색식을 제출해야 함.
+ - 검색식을 엑셀로 저장하는 과정에서 큰따옴표의 모양이 이상하게 변경되는 경우가 있어서 엑셀양식을 버리고 텍스트 양식을 선택하게 되었음. 
+ 
+3. 제출 내용
+ - 중분류 코드, 검색식, 검색건수   : 코드별 검색식과 검색건수도 제출해야 실제로 개발자가 다운로드한 건수와 비교해서 정확도를 점검할 수 있음.
+ - 텍스트 에디터 (울트라에디터, Notepad++ 등) SW에서 작성하여 제출 (*.txt 파일로)
+
+4. 개발자가 다운로드해서 주는 파일의 명칭 형식 :   정밀의료_T01.txt  
+
+
+=========== [ 분과명: 정밀의료 ] 중분류코드별 특허검색식 및 건수 =============
+
+T01	분산 자원 최적화, 데이터 자원화 : 538
+AU=(US) AND DTYPE=(P OR U) AND AB=(("Energy Forecasting" or "Energy Forecast" or "Energy Prediction" or "Energy Predict" or "Weather Forecasting" "Weather Forecast" or "Resource Map" or "energy Data Mining" or "Renewable energy data" or "Renewable energy resource" or "Distributed Resource" or "Data Resource")) AND APLT=(Y) AND APDATE=(20130101-20201231)
+
+
+T02	안정적 재생에너지 계통 연계 : 1206
+AU=(US) AND DTYPE=(P OR U) AND AB=("Grid connection" or "Grid Interface" or "Renewable Energy grid" or "Energy grid" or "Grid Stability" or "Grid Inverter" or "Wind power grid" or "Solar power grid" or "Photovoltaic power grid" or "stable energy grid" or "Renewable Energy connection"or "Energy connection" or "stable grid" or "Wind grid" or "Solar grid" or "Photovoltaic grid" or "power grid") AND APLT=(Y) AND APDATE=(20130101-20201231)
+
+
+T03	DC 그리드 시스템 : 707
+AU=(US) AND DTYPE=(P OR U) AND AB=((DC or "direct current") and (Grid or "Distribution Network" or "Nested Network")) AND APLT=(Y) AND APDATE=(20130101-20201231)
+
+
+T04	ESS 및 X2G 통합 운영 : 409
+AU=(US) AND DTYPE=(P OR U) AND AB=((ESS or "Energy Storage Stem" or EESS or "Electric ESS" or TESS or "Thermal ESS" or "Electric Vehicle" or "Electric Storage Stem" or "Energy Aggregator" or "Thermal Storage Stem" or "battery charging and discharging" or "battery charg" or X2G) and (operation or operat or integrate)) AND APLT=(Y) AND APDATE=(20130101-20201231)
+
+
+T05	나노그리드 시스템 : 2081
+AU=(US) AND DTYPE=(P OR U) AND AB=("Micro Grid" or microgrid or "micro grid" or "nano grid" or "Nano Grid" or nanogrid or "DC/DC converter" or "grid droop control" or "grid voltage control" or "AC/DC hybrid system" or "CC-CV control" or "DC-DC converter" or "Small distribution network" or "Small power grid") AND APLT=(Y) AND APDATE=(20130101-20201231))
+
+
+T06	전력/에너지 빅데이터 : 1067
+AU=(US) AND DTYPE=(P OR U) AND AB=("Big data platform" or "Electricity data service" or "Electricity data" or "energy consulting" or "Power quality monitoring" or "power data" or "electric data") AND APLT=(Y) AND APDATE=(20130101-20201231))
+
+
+T07	미래 전력망/설비 안전성 감시제어 : 3061
+AU=(US) AND DTYPE=(P OR U) AND AB=(("reliability monitoring" or "Situational awareness" or "Phasor measurement" or "disturbance analysis" or "Generation plant validation" or "performance Evaluation" or control or "monitor control") and ("Power system" or WAMAC or "Wide Power system")) AND APLT=(Y) AND APDATE=(20130101-20201231)
+
+
+T08	차세대 배전운영 : 2492
+AU=(US) AND DTYPE=(P OR U) AND AB=("Distribution Management System" or "Distribution Management" or "advanced Distribution Management" or "Electric Supervisory Control" or ADMS or "distribution system" or "Renewable energy connection" or "EV charging" or "Optimizing power flows" or "Switching Schedule" or "power Safety Management" or "power State Estimation" or "Volt-VAR Control" or "power Fault Management" or "power System estoration") AND APLT=(Y) AND APDATE=(20130101-20201231)
+
+
+
+T09	미래 전력계통 운영 : 373
+AU=(US) AND DTYPE=(P OR U) AND AB=((power or electric or electricity) AND ("system operation" or "Automatic generation control" or "Automatic generation control" or "frequency control" or "volage control" or "Operation security" or "State estimation" or "Demand forecasting" or "renewable operation" or "Operating Reserve control" or "grid security" or "grid operation" or "grid control" or "grid reinforcement" or "grid restore" or "grid operate")) AND APLT=(Y) AND APDATE=(20130101-20201231)
+
+
+
+T10	재생에너지 최적화 및 지능 제어 : 524
+AU=(US) AND DTYPE=(P OR U) AND AB=("renewable energy optimization" or "distributed resource control" or "energy control" or "distributed optimization control" or "smart grid control" or "enargy prediction control" or "Distributed Control" or "energy Intelligent Control" or "energy Predictive Control")  AND APLT=(Y) AND APDATE=(20130101-20201231)
+
+
+
+T11	가상발전소 구축 및 운영 : 188
+AU=(US) AND DTYPE=(P OR U) AND AB=(VPP or "Virtual Power Plant" or "Virtual Power" or "virtual plant" or "virtual operation" or "virtual power build" or "imagination power" or "image power" or "fancy power" or "simulation power" or "imagination plant" or "image plant" or "fancy plant" or "simulation plant" or "virtual energy") AND APLT=(Y) AND APDATE=(20130101-20201231)
+
+
+T12	마이크로그리드 기술 : 579
+AU=(US) AND DTYPE=(P OR U) AND AB=("Micro Grid" or microgrid or "distributed generation operation" or "distributed control" or "blockchain power transaction" or "Micro Grid controller") AND APLT=(Y) AND APDATE=(20130101-20201231)
+
+
+T13	지능적 통합 정보 네트워크 구축 : 434
+AU=(US) AND DTYPE=(P OR U) AND AB=("Advanced Metering Infrastructure" or AMI or Net-metering or "net metering" or "Intelligent Electric Device" or "Remote Terminal Unit" or RTU or "Automatic Transfer Switch" or ATS or "Closed Transition Transfer Switch" or CTTS or "Phasor Measurement Unit" or PMU or "smart metering" or "energy integration gateway" or "energy integration network") AND APLT=(Y) AND APDATE=(20130101-20201231)
+
+
+T14	xEMS : 954
+AU=(US) AND DTYPE=(P OR U) AND AB=(EMS or "Energy Management System" or "Home EMS" or HEMS or "Building EMS" or BEMS or "Factory EMS" or FEMS or ("energy data" and (management or monitoring or IoT or "load control" or scheduling)))  AND APLT=(Y) AND APDATE=(20130101-20201231)
+
+
+T15	분산자원 거래 시장 : 39
+AU=(US) AND DTYPE=(P OR U) AND AB=("blockchain prosumer" or "Prosumer P2P electricity trading" or "Prosumer P2P trading" or "Prosumer P2P trade"or "energy Prosumer" or "distributed resource trade" or "distributed resource trading" or "prosumer trade" or "prosumer trading" or "local exchange" or "transactive energy" or "retail market integration" or "demand resourch transaction" or prosumer) AND APLT=(Y) AND APDATE=(20130101-20201231)
+
+
+
+T16	소비자 참여형 신재생에너지 플랫폼 : 884
+AU=(US) AND DTYPE=(P OR U) AND AB=(("renewable energy" or energy) and (gateway or flatform or "consumer flatform" or "service flatform" or "consumer service" or "distributed resources supply" or "distributed resources power" or "distributed resources platform"or "metering infra" or "hyperconnectivity intelligence" or "Electricity transaction" or service)) AND APLT=(Y) AND APDATE=(20130101-20201231)
+
+
+
+T17	재생에너지 수요 예측/관리 : 754
+AU=(US) AND DTYPE=(P OR U) AND AB=((electric or "renewable energy" or "distributed resource" or "sunlight" or "wind power") and ("load management" or "load control" or demand or "demand response" or "peak load control" or "smart meter" or aggregation or "demand side management" or "load forecasting" or "load prediction" or "demand forecast" or "demand prediction" or "consumption prediction" or "prediction model" or "non-intrusive load monitoring"))  AND APLT=(Y) AND APDATE=(20130101-20201231)
+
+
+
+T18	신재생연계 보조서비스 : 362
+AU=(US) AND DTYPE=(P OR U) AND AB=(("power plant" or "renewable energy" or renewable or "distributed resource" or "Solar power" or "wind power" or Photovoltaic or energy) and ("frequency response" or "frequency adjustment" or "auxiliary service" or reserve or "spinning reserve" or "voltage maintenance" or aggregation or "risk management" or "DER service" or controllability)) AND APLT=(Y) AND APDATE=(20130101-20201231)
+
+
+T19	수요반응자원의 보조서비스 : 392
+AU=(US) AND DTYPE=(P OR U) AND AB=(("demand responses" or "demand response" or "demand resource" or ADR or "energy demand" or DR) and (aggregation or "risk management" or "regulation service" or "DR control" or "spinning reserve" or "open automated" or open or controllability or "frequency response" or "frequency adjustment" or service or control or reserve or adjustment or "Automatic power" or "Automatic power generation" or "reduction estimate" or estimate or prediction or predict or "power system" or management)) AND APLT=(Y) AND APDATE=(20130101-20201231)
+
+
+T20	소매가격 고도화 : 564
+AU=(US) AND DTYPE=(P OR U) AND AB=((electric or electricity or energy) and (trade or transaction or "consumer behavior analysis" or "price elasticity" or "tariff structure" or taxation or "retail prices" or "retail price" or "retail service innovation" or "dynamic pricing" or "time-of-use pricing" or "price responsive demand" or price or pricing or "demand market" or "retail market" or "demand forecast" or "local market" or "local service" or "local price" or "rate structure" or "tax policy" or "price easticity")) AND APLT=(Y) AND APDATE=(20130101-20201231)
+
+
+T21	전력시장 고도화 : 518
+AU=(US) AND DTYPE=(P OR U) AND AB=((electric or energy or electricity) and (trade or transaction or "real-time market" or "Renewable resources market" or "Demand response market" or "Power aggregator" or "Virtual power plant" or "demand forecasting" or "renewable generation forecasting" or "ancillary services design" or "unit commitment" or "dispatch models" or "real-time pricing" or "scarcity pricing" or "market management system" or "demand market" or "demand forecast" or modeling or "market operation system" or "service design")) AND APLT=(Y) AND APDATE=(20130101-20201231)

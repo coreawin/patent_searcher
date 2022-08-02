@@ -1,0 +1,384 @@
+-cn1000
+-au
+-tgi:/kisti/
+-ctt:/release/KISTI_PATENT_XML_EXPORT_2015/result
+-ftTEXT
+-efpno,pndate,pnkind,pncn,dockind,ti,abs,appno,appdate,prino,inventor,assignee,app_gp,pexam,basic_count,nonpatent,references,citations,ipc,cpc,ecla,classc,fcode,mf,cf,family_count
+
+-ru("M D BIO" OR
+"M J BIOPHARM PVT" OR
+"M S TRIESTA SCIENCES PRIVATE" OR
+"M SQUARED" OR
+"M Squared Associates Inc" OR
+"M A R C O  GmbH & Co KG" OR
+"M/S Sterimed Medical Devices Pvt Ltd" OR
+"M3" OR
+"mAbxience" OR
+"MABXIENCE S A" OR
+"MABXIENCE SA" OR
+"Macquarie Medical Imaging" OR
+"Mahban Chemi Co" OR
+"MAIIA AB" OR
+"MAIIA Diagnostics" OR
+"Maine Biotechnology Services" OR
+"MAISON CHEMICAL" OR
+"MAJESTY" OR
+"MAJESTY Software GmbH" OR
+"Major Pharmaceuticals" OR
+"Malayan Daching Co  Pte Ltd" OR
+"Malaysian Diagnostics Corporation Sdn Bhd" OR
+"MANAC" OR
+"Manac Incorporated" OR
+"Managed Health Care Associates Inc" OR
+"Mann & Schroder GmbH" OR
+"MANN & SCHRODER K G CHEMISCHE FABRIK UND AEROSOLWERK" OR
+"MANN & SCHRODER KG CHEMISCHE FABRIK & AEROSOLWERK" OR
+"MANN SCHRODER CHEMISCHE FABRIK" OR
+"MANN UND SCHRODER KG CHEMISCHE FABRIK UND AEROSOLWERK" OR
+"Manna Research" OR
+"Manohay Mexico SA de CV" OR
+"Maquet-Dynamed Inc" OR
+"Marcas de Renombre SA de CV" OR
+"MARCO" OR
+"MARINA BIOTECH" OR
+"MARS INCOPORATED" OR
+"MARS INCORPORATE" OR
+"MARS INCORPORTED" OR
+"MARS INCORPOTATED" OR
+"Mars Symbioscience" OR
+"Martindale Pharma" OR
+"MASSACHUSETTS COLLEGE OF PHARM" OR
+"MASSACHUSETTS COLLEGE OF PHARMACY" OR
+"MASSACHUSETTS COLLEGE OF PHARMACY AND HEALTH SCIENCES " OR
+"MASSACHUSETTS GENERAL HOSPITAL" OR
+"MASSACHUSETTS GENERAL HOSPITAL PARTNERS HEALTHCARE RESEARCH VENTURES & LICENSING" OR
+"MASSACHUSETTS GENERAL HOSPITAL THE" OR
+"MassBiologics" OR
+"MASTIX" OR
+"Mastix Medica LLC" OR
+"MATERIALISE" OR
+"Matrical Bioscience" OR
+"Matrix CMS" OR
+"MATRIX SOFTWARE" OR
+"Max Medical Products Ltd" OR
+"MAX MEDICAL PTY" OR
+"MAYNE PHARMA" OR
+"MAYO CLINIC" OR
+"MAYOLY SPINDLER LAB" OR
+"MAYOLY SPINDLER LABORATOIRES" OR
+"MBI" OR
+"MBS" OR
+"MBV AG" OR
+"MBV MICROBIOLOGY AND BIOANALYTIC" OR
+"MC Healthcare Inc" OR
+"MCC" OR
+"MCKESSON" OR
+"McKesson Specialty Health" OR
+"MCPHERSON S" OR
+"MCPHERSONS" OR
+"MCPHS University" OR
+"MDBio Inc" OR
+"MDC" OR
+"MDR" OR
+"Measurement Control Corporation" OR
+"Med Ilac Sanayi ve Ticaret AS" OR
+"MEDA" OR
+"Meda Consumer Healthcare Inc" OR
+"Meda Health Sales" OR
+"MEDA Manufacturing GmbH" OR
+"MEDA Pharma SAS" OR
+"MEDA PHARMACEUTICALS" OR
+"MEDAC" OR
+"Medac Czech Republic" OR
+"MEDAGRI" OR
+"MedAgri Marihuana Labs Inc" OR
+"MedCentral Health System" OR
+"MEDCO HEALTH SOLUTIONS" OR
+"MEDEX" OR
+"MEDIAN" OR
+"MEDIAN Kliniken GmbH & Co KG" OR
+"Medical Engineering Innovations Inc" OR
+"Medical Gas Solutions" OR
+"Medical Implant Mechanics LLC" OR
+"Medical Measurement Systems BV" OR
+"Medical Measurement Systems USA inc" OR
+"MEDICAL RESEARCH COUNCIL" OR
+"Medical Research Council Technology" OR
+"Medical Specialties Distributors LLC" OR
+"Medicamentos Especializados SAS" OR
+"MEDICAN" OR
+"Medican Enterprises Inc" OR
+"Medicap Pharmacies Incorporated" OR
+"MEDICELL" OR
+"Medicell Pharmaceutical S Pte Ltd" OR
+"MEDICELL TECHNOLOGIES" OR
+"MEDICEM International GmbH" OR
+"MEDICEM OPHTHALMIC" OR
+"MEDICEM OPHTHALMIC CY" OR
+"MEDICEM OPTHALMIC" OR
+"MEDICEM Technology" OR
+"MEDICEM TISSUE" OR
+"MEDICILON MPI PRECLINICAL RESEARCH" OR
+"MEDICINA" OR
+"Medicina Pharmaceuticals" OR
+"Medicine Shoppe International Inc" OR
+"MEDICOM" OR
+"MEDICOR" OR
+"Medicor Medical Supplies NV/SA" OR
+"MEDICORTEX FINLAND OY" OR
+"Medicortex USA Ltd" OR
+"MEDICS" OR
+"Medics Labor AG" OR
+"MEDIDATA SOLUTIONS" OR
+"MEDIFIRST" OR
+"Medifirst Solutions Inc" OR
+"MEDIFOOD" OR
+"Medinfar" OR
+"MEDIPLAST A B" OR
+"MEDIPLAST AB" OR
+"MEDIPLUS" OR
+"Medippex" OR
+"MEDIRAY SA FR" OR
+"Medirite Australia" OR
+"Mediscience Planning Inc" OR
+"Mediso Medical Imaging Systems" OR
+"MEDISO ORVOSI BERENDEZES FEJLESZTO ES SZERVIZ KFT" OR
+"MEDISO ORVOSI BERENDEZÉS FEJLESZTÖ ÉS SZERVIZ KFT" OR
+"MEDISYSTEM" OR
+"MediSystem Pharmacy" OR
+"MEDISYSTEMS TECHNOLOGY" OR
+"MEDISYSTEMS TECHNOLOGY UNITED STATES OF AMERICA" OR
+"MEDISYSTEMS TECHNOLOGY USA" OR
+"MEDITE" OR
+"Medivative Technologies" OR
+"MEDIVET AMERICA" OR
+"MediVet Biologics LLC" OR
+"MEDIVISION" OR
+"Medivision Scan & Diagnostic Research Centre P Ltd" OR
+"Medizintechnik Basler AG" OR
+"MEDNAX SERVICES" OR
+"Mednet Healthcare Technologies Inc" OR
+"Medprin Biotech GmbH" OR
+"MEDPRIN REGENERATIVE MEDICAL TECHNOLOGIES" OR
+"MEDTRONIC" OR
+"MEGAGEN" OR
+"MEGAGEN IMPLANT" OR
+"Megagen Implants UK" OR
+"MEGAGEN INPLANT" OR
+"MEGHMANI ORGANICS" OR
+"Meghmani Unichem LLP" OR
+"Meh Shekan Sazeh Production Manufacturing Company" OR
+"Mehta Pharmaceutical Industries" OR
+"MEI" OR
+"MEIJI" OR
+"Meiji Holdings Co Ltd" OR
+"Melbourn Scientific Limited" OR
+"Melford Laboratories Ltd" OR
+"MELFORD SCIENTIFIC" OR
+"MEMPHIS" OR
+"Memphis Pharmaceutical & Chemical Industry" OR
+"Mendez National Institute of Transplantation Foundation" OR
+"Menzies Institute for Medical Research" OR
+"MEP Instruments Pty Ltd" OR
+"MEPHA" OR
+"Mepha Pharma AG" OR
+"MEPHA SCHWEIZ AG" OR
+"MERCK &CO" OR
+"MERCK&CO" OR
+"MERCURY ENTERPRISES" OR
+"Mercury Medical" OR
+"Mercury Pharmaceuticals Inc" OR
+"MERIAL" OR
+"Merial Vital Laboratory Animal Technology Co Ltd" OR
+"Meriden Animal Health Limited" OR
+"MERIEUX" OR
+"MERIEUX INSTITUT" OR
+"Merieux NutriSciences Corporation" OR
+"MERLIN" OR
+"Merlin Pharma P Limited" OR
+"MESA LABORATORIES" OR
+"MESA MEDICAL" OR
+"Meso Scale Discovery" OR
+"Metabolomic Technologies Inc" OR
+"Metavac" OR
+"METRICS" OR
+"Metrics Contract Services" OR
+"Metro Medical Supply Inc" OR
+"METROHM AG" OR
+"METROHM AG HERISAU" OR
+"METROHM AG HERISAU CH" OR
+"Metrohm India Limited" OR
+"METROHM INTERNATIONAL HEADQUARTERS" OR
+"Metrohm Nordic AS" OR
+"Metrohm Singapore Pte Ltd" OR
+"Metrohm USA Inc" OR
+"Metromedia Bio-Science LLC" OR
+"Metropolitan Health Networks" OR
+"MetroStar" OR
+"METROSTAR SYSTEMS" OR
+"METS OLIC PHARMACEUTICALS" OR
+"MG Sterile Products AG" OR
+"MGS" OR
+"MHA" OR
+"MHM Services Inc" OR
+"M-I Biotech Sdn Bhd" OR
+"MIB" OR
+"MICHAEL SMITH" OR
+"Michael Smith Laboratories" OR
+"MICOM" OR
+"Micom Laboratories Inc" OR
+"MICREOS" OR
+"Micreos Food Safety BV" OR
+"MICRINS SURGICAL INSTR" OR
+"MICRINS SURGICAL INSTRUMENTS" OR
+"MICRO IDENTIFICATION" OR
+"Micro Identification Technologies" OR
+"MICRO SYSTEM" OR
+"Micro System AB" OR
+"Micro Therapeutics Research Labs" OR
+"Microbe Investigations AG" OR
+"MicroConstants" OR
+"MICROCONSTANTS CHINA" OR
+"MICROGEN" OR
+"MICROMED" OR
+"Micromed Medizintechnik GmbH" OR
+"Micromeritics Pharmaceutical Services" OR
+"MICROMUN GmbH" OR
+"MICROMUN PRIVATES INSTITUT FUER MIKROBIOLOGISCHE FORSCHUNG BIOTECHNIKUM GREIFSWALD" OR
+"MICROMUN PRIVATES INSTITUT FUR MIKROBIOLOGISCHE FORSCHUNG" OR
+"MICROMUN PRIVATES INSTITUT FÜR MIKROBIOLOGISCHE FORSCHUNG" OR
+"Micron Solutions Inc" OR
+"MICROPORT SCIENT" OR
+"MicroPort Scientific Corporation" OR
+"MICROSPHERE" OR
+"Micro-Sphere SA" OR
+"MIDMARK" OR
+"Midwest Dental Equipment & Supply" OR
+"MIDWEST DENTAL PRODUCTS" OR
+"Midwest Melanoma Partnership" OR
+"Migralex Inc" OR
+"MIKASA SEIYAKU" OR
+"MIKASA SEIYAKU TOKIO TOKYO JP" OR
+"Mikasaseiyaku Co Ltd" OR
+"Milestone Medical Inc" OR
+"MILESTONE SCIENTIFIC" OR
+"MILLENNIA" OR
+"Millennia Holdings Inc" OR
+"Millennium Biomedical Inc" OR
+"Miller Technical Services" OR
+"MILLIKEN &" OR
+"MILLIKEN AND" OR
+"Milliken Chemical" OR
+"MIM" OR
+"MINA" OR
+"Mina Pharmaceutical & Cosmetics Labortaory" OR
+"MINDRAY BIO MEDICAL ELECTRONICS" OR
+"MINDRAY BIOMEDICAL ELECTRONICS SHENZHEN" OR
+"MINDRAY DS AMERICAN" OR
+"MINDRAY DS USA" OR
+"Mindray Medical International Limited" OR
+"Mindray North America" OR
+"MINERVA NEUROSCIENCES" OR
+"Ming - Mei Technology" OR
+"MING MEI" OR
+"MIP" OR
+"MIP International Pharma Research GmbH" OR
+"MIP Pharma Austria GmbH" OR
+"MIP Pharma EOOD Bulgaria" OR
+"MIP Pharma GmbH" OR
+"MIP Pharma Polska Sp z oo" OR
+"MIP-Holding GmbH" OR
+"MIRABILIS MDEDICA" OR
+"MIRABILIS MEDICA" OR
+"Mirabilis Medical Inc" OR
+"Miracle-Ear Inc" OR
+"MIROCULUS" OR
+"MIS" OR
+"MISONIX" OR
+"MISONIX INCORPORTATED" OR
+"MISSION PHARMACAL" OR
+"MIT Synthetic Biology Center" OR
+"MiTiHeart Corporation" OR
+"MITSUBISHI CHEMICALS" OR
+"MITSUBISHI TANABE PHARMA" OR
+"MJ Biopharm Pvt Ltd" OR
+"MLC" OR
+"MMI" OR
+"MMO" OR
+"MMO Behavioral Health Systems" OR
+"MModal" OR
+"MMODAL IP" OR
+"MMP" OR
+"MMS" OR
+"MMS Medicor Medical Supplies GmbH" OR
+"Mobility Products Ltd" OR
+"MOBITEC & KG" OR
+"MoBiTec GmbH" OR
+"Mobius Advanced Technology Limited Company" OR
+"MOBIUS TECHNOLOGIES" OR
+"Mochida Healthcare Co Ltd" OR
+"MOCHIDA PHARMACEUTICAL" OR
+"Modern Laboratory Services Inc" OR
+"MODERNA THERAPEUTICS" OR
+"MODERNA THRERAPEUTICS" OR
+"MODERNA TX" OR
+"Modern-Lab Chemicals Sdn Bhd" OR
+"MOHAWK INNOVATIVE TECHNOLOGY" OR
+"MOHAWK INNOVATIVE TECHNOLOGY ALBANY N Y US" OR
+"MOLECULIN" OR
+"Moleculin Biotech Inc" OR
+"MOLEX" OR
+"MOLLER WEDEL" OR
+"MOLLER WEDEL OPTICAL" OR
+"MOLLER-WEDEL GmbH" OR
+"MOLTENI" OR
+"MOLTENI FARMACEUTICI POLSKA Sp z oo" OR
+"MONOMER POLYMER" OR
+"Monomer-Polymer & Dajac Labs" OR
+"Montage Healthcare Solutions" OR
+"Monument Chemical bvba" OR
+"MONUMENT CHEMICAL KENTUCKY" OR
+"Moore Medical LLC" OR
+"Mount Sinai Services Inc" OR
+"MP GROUP" OR
+"MP Medgroup Co Ltd" OR
+"MPC" OR
+"MPC Healthcare" OR
+"MPI" OR
+"MPI Research Inc" OR
+"MPR" OR
+"MPR Development Group" OR
+"MPS" OR
+"MPT Delivery Systems Inc" OR
+"MRC Centre for Neuromuscular Diseases" OR
+"MRC Harwell" OR
+"MRI" OR
+"MRI-Performance" OR
+"MSD" OR
+"MSP" OR
+"MSP bodmann GmbH" OR
+"MSS" OR
+"MT Pharma America Inc" OR
+"MTB" OR
+"MTI" OR
+"MTR" OR
+"MTS" OR
+"Multiservicios Electromedicos SA" OR
+"MULTIVAC" OR
+"MULTIVAC Export AG" OR
+"Mundi Pharmaceutical Co Ltd" OR
+"MUNDIPHARMA" OR
+"MURDOCH CHILDRENS RESEARCH INSTITUTE" OR
+"MURDOCH CHILDRENS RESEARCH INSTITUTE ROYAL CHILDREN S HOSPITAL" OR
+"MURDOCH CHILDRENS RESEARCH INSTITUTE THE" OR
+"Mutchler Inc" OR
+"MWI VETERINARY SUPPLY" OR
+"MYLAN" OR
+"MYND" OR
+"MYnd Analytics Inc" OR
+"MYOS" OR
+"MYOS RENS Technology Inc" OR
+"Mytrus Inc").app_gp. 
+
+-ket:/release/KISTI_PATENT_XML_EXPORT_2015
+-bwy
