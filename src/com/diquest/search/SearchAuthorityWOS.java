@@ -112,6 +112,8 @@ public class SearchAuthorityWOS implements Runnable {
 	 */
 	public void run() {
 		char[] brokerPageInfo = new char[0];
+		
+//		logger.info("export field {}", exportField);
 
 		SelectSet[] ss = new SelectSet[0];
 		if ("EXCEL".equalsIgnoreCase(exportType) || "TEXT".equalsIgnoreCase(exportType)) {

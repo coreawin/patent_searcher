@@ -75,7 +75,7 @@ public class PatentSearcher_2021 {
 		}
 	}
 
-	public static void restrict() {
+	private static void restrict() {
 		Dermy d = new Dermy();
 		while (true) {
 			synchronized (d) {
@@ -105,6 +105,45 @@ public class PatentSearcher_2021 {
 	}
 
 	public static void main(String[] args) throws Exception {
+//    다운 가능한 필드.
+//		pno
+//		dockind
+//		pnyear
+//		pndate
+//		pnkind
+//		authority
+//		ti
+//		appno
+//		appyear
+//		appdate
+//		firstpriyear
+//		priyear
+//		prino
+//		inventor
+//		inventor-count
+//		assignee
+//		assignee-count
+//		examiner
+//		claims-count
+//		independent-claims-count
+//		nonpatent
+//		references
+//		citations
+//		total-references-cited-count
+//		reference-count
+//		citation-count
+//		non-patent-count
+//		ipc
+//		cpc
+//		ecla
+//		classc
+//		fcode
+//		mf
+//		cf
+//		total-family-count
+//		main-family-count
+//		extended-family-count
+//		app_gp
 
 		
 		/*
@@ -143,7 +182,7 @@ public class PatentSearcher_2021 {
 				"-tg" + homePath + File.separator + "result/%s.txt",
 				"-ct" + homePath,
 				"-ftTEXT",
-				"-efpno,dockind,pyear,pndate,pnkind,pncn,ti,%sappno,appdate,prino,inventor,assignee,app_gp,basic_count,ipc,cpc,ref_count,cur_assignee",
+				"-efpno,pndate,pnkind,pncn,dockind,ti,%sappno,appdate,prino,inventor,assignee,app_gp,pexam,basic_count,nonpatent,references,citations,ref_count,cur_assignee,cur_assignee_standard,cur_assignee_normalized,cur_assignee_from_date,is_change_assignee,assignee_list,ipc,cpc,ecla,classc,fcode,status,status_date,fees,fees_detail,fees_date,mf,cf,family_count",
 				"-ru%s", "-ke" + homePath, "-bwn", "-lm-1"};
 
 		File f = new File(searchRuleFilePath);
@@ -161,23 +200,23 @@ public class PatentSearcher_2021 {
 
 			PatentSearchRuleReader ssrr = new PatentSearchRuleReader(dir.getAbsolutePath());
 			
-			logger.info("AAAAAAAAAAAAAA");
+//			logger.info("AAAAAAAAAAAAAA");
 			LinkedHashMap<String, String> lhm = ssrr.getRules();
-			logger.info("BBBBBBBBBB {}", lhm);
+//			logger.info("BBBBBBBBBB {}", lhm);
 
 			Set<String> 다운로드파일명 = lhm.keySet();
-			logger.info("CCCCCCCCCCC {}", 다운로드파일명);
+//			logger.info("CCCCCCCCCCC {}", 다운로드파일명);
 
-			for (String 파일명 : 다운로드파일명) {
-				logger.info("파일명 / 검색식  : {} => {}", 파일명, lhm.get(파일명));
-			}
+//			for (String 파일명 : 다운로드파일명) {
+//				logger.info("파일명 / 검색식  : {} => {}", 파일명, lhm.get(파일명));
+//			}
 
 			// if(true) System.exit(0);
 
 			int count = 0;
 
 			for (String 파일명 : 다운로드파일명) {
-//				restrict();
+				restrict();
 				logger.info("검색을 진행합니다. : {} => {}", 파일명, lhm.get(파일명));
 				String dp = downloadPath + File.separator + 파일명 + (파일명.toLowerCase().lastIndexOf(".txt") == -1 ? ".txt" : "");
 				String 검색식 = lhm.get(파일명).replaceAll("[\\r|\\n]", "").replaceAll("\\s{1,}", " ").trim();
@@ -220,6 +259,8 @@ public class PatentSearcher_2021 {
 				t[2] = String.format(args[2],
 						파일명.replaceAll("\\s{1,}", "").replaceAll("[-_\\.\\<]", "").replaceAll("\\.txt", "").trim());
 				t[5] = String.format(t[5], extSearchParam.isPrintAbs ? "abs," : "");
+//				System.out.println("AAAAAAAAAAAA bbbb" + t[5]);
+//				logger.info("export field : {}", t[5]);
 				t[6] = String.format(t[6], 검색식);
 				if(extSearchParam.limit!=-1){
 					t[9] = "-lm" + String.valueOf(extSearchParam.limit);
@@ -264,7 +305,7 @@ public class PatentSearcher_2021 {
 
 	public static class ExtSearchParam {
 		public int limit = -1;
-		public boolean isPrintAbs = true;
+		public boolean isPrintAbs = false;
 		private String searchRule = null;
 
 		public ExtSearchParam(String rule) {
@@ -302,8 +343,8 @@ public class PatentSearcher_2021 {
 			}
 			if (group.contains("ABS")) {
 				String abs = group.replaceAll("ABS=", "");
-				if ("N".equalsIgnoreCase(abs)) {
-					sp.isPrintAbs = false;
+				if ("Y".equalsIgnoreCase(abs)) {
+					sp.isPrintAbs = true;
 				}
 			}
 		}
@@ -597,13 +638,13 @@ public class PatentSearcher_2021 {
 					e1.printStackTrace();
 					ip = "127.0.0.1p";
 				}
-//				if (dao.이미실행중인프로그램인가(ip, "PATENT")) {
-//					System.out.println("이미 프로그램이 실행중입니다. 기존 프로그램을 종료해주시거나 잠시후에 다시 시도해 주세요.");
-//					System.exit(-1);
-//				} else {
-//					System.out.println("프로그램을 실행하고 있습니다. 잠시만 기다려 주세요.");
-//					dao.updateChecker(ip, "PATENT");
-//				}
+				if (dao.이미실행중인프로그램인가(ip, "PATENT")) {
+					System.out.println("이미 프로그램이 실행중입니다. 기존 프로그램을 종료해주시거나 잠시후에 다시 시도해 주세요.");
+					System.exit(-1);
+				} else {
+					System.out.println("프로그램을 실행하고 있습니다. 잠시만 기다려 주세요.");
+					dao.updateChecker(ip, "PATENT");
+				}
 				synchronized (this) {
 					try {
 						this.wait(1000 * 60 * 5);
